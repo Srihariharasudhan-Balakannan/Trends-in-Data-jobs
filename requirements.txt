@@ -1,0 +1,5 @@
+streamlit
+seleniumbase
+webdriver-manager
+geopy
+plotly
