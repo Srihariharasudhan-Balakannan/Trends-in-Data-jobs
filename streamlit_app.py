@@ -23,7 +23,7 @@ def run():
         # get job details as a list by web-scraping, and data cleansing
         job_lst = get_job_details(option)
         
-        # roll up extracted data and get required information as induvidual dictionaries
+        # roll up extracted data and get required information as individual dictionaries
         company_dict , skill_dict, location_dict, job_type_dict, experience_dict = roll_up_data(job_lst)
 
         # company data-frame
@@ -39,7 +39,7 @@ def run():
         loc_df.columns = ['cities', 'job counts']
         # add co-ordinates to cities, for plotting
         loc_df = add_coordinates(loc_df, 'cities')
-        # add overall percentage to cities, for plotting 
+        # add an overall percentage to cities, for plotting 
         sum = loc_df['job counts'].sum()
         loc_df['percent'] = (loc_df['job counts']/sum)*100
 
@@ -86,7 +86,7 @@ def run():
         )
         map['layout'].update(autosize = True)
 
-        # company barchart object 
+        # company bar chart object 
         cmp_fig = px.bar(cmp_df, 
                         x='vacancy points', y='company names', 
                         orientation='h', title='Top companies',
@@ -100,7 +100,7 @@ def run():
             dragmode=False
         )
 
-        # skills barchart object
+        # skills bar chart object
         skl_fig = px.bar(skl_df, 
                         x='skills', y='demand points', 
                         orientation='v', title='Top skills',
@@ -114,7 +114,7 @@ def run():
             dragmode=False
         )
 
-        # location barchart object
+        # location bar chart object
         loc_fig = px.bar(loc_df, 
                         x='cities', y='job counts', 
                         orientation='v', title='Top cities',
@@ -168,7 +168,7 @@ def run():
                 header {visibility: hidden;}
                 </style>
                 """
-    # hide default styling
+    # hide the default styling
     st.markdown(hide_st_style, unsafe_allow_html=True)
 
     st.markdown("---")
