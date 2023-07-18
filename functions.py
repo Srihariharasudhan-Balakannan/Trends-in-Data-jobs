@@ -1,14 +1,14 @@
 # imports
 from geopy.geocoders import Nominatim
 
-# function to sort dictionary passed based on value in descending order and returns first n ket value pairs
+# function to sort dictionary passed based on the values in descending order and returns first n ket value pairs
 def sort_dict_by_value(dictionary, descending=True, n=None):
     sorted_dict = dict(sorted(dictionary.items(), key=lambda item: item[1], reverse=descending))
     if n is not None:
         sorted_dict = dict(list(sorted_dict.items())[:n])
     return sorted_dict
 
-# function to roll up job data and return as dictionaries
+# function to roll up job data and return it as dictionaries
 def roll_up_data(job_lst):
     company_dict    = {}
     skill_dict      = {}
@@ -56,7 +56,7 @@ def roll_up_data(job_lst):
     location_dict = sort_dict_by_value(location_dict, descending=True, n=10)
     return company_dict, skill_dict, location_dict, job_type_dict, experience_dict
 
-# function to convert keys and values of a dictionary as two lists 
+# function to convert keys and values of a dictionary as two separate lists 
 def dict_to_lst(my_dict):
     keys_list = list(my_dict.keys())
     values_list = list(my_dict.values())
@@ -71,7 +71,7 @@ def get_coordinates(location):
     except:
         return -1, -1
     
-# function to get latitude of location passed as string 
+# function to get latitude of location passed as a string 
 def get_latitude(location):
     try:
         geolocator = Nominatim(user_agent="MyApp")
@@ -80,7 +80,7 @@ def get_latitude(location):
     except:
         return -1
     
-# function to get longitude of location passed as string 
+# function to get the longitude of location passed as a string 
 def get_longitude(location):
     try:
         geolocator = Nominatim(user_agent="MyApp")
