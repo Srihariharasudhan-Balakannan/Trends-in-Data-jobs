@@ -8,7 +8,7 @@ def sort_dict_by_value(dictionary, descending=True, n=None):
         sorted_dict = dict(list(sorted_dict.items())[:n])
     return sorted_dict
 
-# function to roll up job data and return it as dictionaries
+# function to roll up job data and return it as required individual dictionaries
 def roll_up_data(job_lst):
     company_dict    = {}
     skill_dict      = {}
@@ -89,7 +89,7 @@ def get_longitude(location):
     except:
         return -1
 
-# function to add co-ordinates to pandas data-frame passed
+# function to add co-ordinates to pandas data-frame and column name containing location string passed as arguments
 def add_coordinates(df, col_name):
     df['latitude'] = df.apply(lambda x: get_latitude(x[col_name]), axis=1)
     df['longitude'] = df.apply(lambda x: get_longitude(x[col_name]), axis=1)
