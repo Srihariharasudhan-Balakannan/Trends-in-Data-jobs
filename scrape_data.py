@@ -14,7 +14,7 @@ options.add_argument('--disable-gpu')
 options.add_argument('--no-sandbox')  
 options.add_argument('--disable-dev-shm-usage')
 
-# function to get all the states in india by scraping knowindia.india.gov.in site
+# function to get all the states in India by scraping knowindia.india.gov.in site
 def get_states_indian():
     states = []
     page = 'https://knowindia.india.gov.in/states-uts/'
@@ -29,7 +29,7 @@ def get_states_indian():
     driver.quit()
     return states
 
-# function to get all the countries by scraping country.io site
+# function to get all the countries by scraping the country.io site
 def get_countries():
     countries = []
     page = 'http://country.io/countries/'
