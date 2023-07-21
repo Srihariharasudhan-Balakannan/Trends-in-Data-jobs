@@ -17,7 +17,7 @@ def run():
     st.title('Trends in Data jobs')
 
     # drop-down option
-    with st.form('Form1'):
+    with st.form('Form'):
         option = st.selectbox('Select a job role?', ("Data Engineer", "Data Analyst", "Data Architect", "Data Scientist", "Machine Learning Engineer"))
         submit = st.form_submit_button('Submit')
 
