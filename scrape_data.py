@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # get driver object
 def get_driver():
     # return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    driver_path = ChromeDriverManager().install()
+    driver_path = ChromeDriverManager(version="114.0.5735.90").install()
     driver = webdriver.Chrome(executable_path=driver_path, options=options)
     
 options = Options()
