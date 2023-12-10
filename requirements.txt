@@ -1,5 +1,5 @@
 streamlit
 seleniumbase
-webdriver-manager
+webdriver_manager
 geopy
 plotly
