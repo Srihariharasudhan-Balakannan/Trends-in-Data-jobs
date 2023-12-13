@@ -183,7 +183,7 @@ def run():
     
             st.markdown("---")
             # plotting ends
-    
+        
         # catch and print error messages in logs and proceed further
         except Exception as e:
             print(e)
