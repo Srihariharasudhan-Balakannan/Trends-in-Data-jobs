@@ -8,6 +8,7 @@ def get_driver():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("user-agent=your_user_agent_string")
     chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--disable-gpu')
     driver_path = shutil.which('chromedriver')
     chrome_service = webdriver.ChromeService(executable_path=driver_path)
     driver = webdriver.Chrome(options=chrome_options, service=chrome_service)
