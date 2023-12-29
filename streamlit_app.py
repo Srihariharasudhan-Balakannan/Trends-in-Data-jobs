@@ -32,7 +32,8 @@ def run():
         
         # try except block to handle empty data returned post web scraping
         try:
-            
+            # flag variable to track if data is available and to display 
+            flag = 0
             # display waiting text with in-build loading graphics until web-scraping and data processing is completed
             with st.spinner('Web-scraping in progress, please wait for few seconds ...'):
                 
@@ -43,25 +44,49 @@ def run():
                 company_dict , skill_dict, location_dict, job_type_dict, experience_dict = roll_up_data(job_lst)
     
                 # company data-frame
-                cmp_df = pd.DataFrame(list(company_dict.items()))
-                cmp_df.columns = ['company names', 'vacancy points']
+                if company_dict != {}:
+                    flag += 1
+                    cmp_df = pd.DataFrame(list(company_dict.items()))
+                    cmp_df.columns = ['company names', 'vacancy points']
+                else:
+                    columns = ['company names', 'vacancy points']
+                    cmp_df = pd.DataFrame(columns=columns)
     
                 # skill data-frame
-                skl_df = pd.DataFrame(list(skill_dict.items()))
-                skl_df.columns = ['skills', 'demand points']
+                if skill_dict != {}:
+                    flag += 1
+                    skl_df = pd.DataFrame(list(skill_dict.items()))
+                    skl_df.columns = ['skills', 'demand points']
+                else:
+                    columns = ['skills', 'demand points']
+                    skl_df = pd.DataFrame(columns=columns)
     
                 # location data-frame
-                loc_df = pd.DataFrame(list(location_dict.items()))
-                loc_df.columns = ['cities', 'job counts']
-                # add co-ordinates to cities, for plotting
-                loc_df = add_coordinates(loc_df, 'cities')
-                # add an overall percentage to cities, for plotting 
-                sum = loc_df['job counts'].sum()
-                loc_df['percent'] = (loc_df['job counts']/sum)*100
+                if location_dict != {}:
+                    flag += 1
+                    loc_df = pd.DataFrame(list(location_dict.items()))
+                    loc_df.columns = ['cities', 'job counts']
+
+                    # add co-ordinates to cities, for plotting
+                    loc_df = add_coordinates(loc_df, 'cities')
+
+                    # add an overall percentage to cities, for plotting 
+                    sum = loc_df['job counts'].sum()
+                    loc_df['percent'] = (loc_df['job counts']/sum)*100
+
+                else:
+                    columns = ['cities', 'job counts']
+                    loc_df = pd.DataFrame(columns=columns)
+
     
                 # job-type data-frame
-                jty_df = pd.DataFrame(list(job_type_dict.items()))
-                jty_df.columns = ['job type', 'count']
+                if job_type_dict != {}:
+                    flag += 1
+                    jty_df = pd.DataFrame(list(job_type_dict.items()))
+                    jty_df.columns = ['job type', 'count']
+                else:
+                    columns = ['job type', 'count']
+                    jty_df = pd.DataFrame(columns=columns)
     
                 # experience data-frame
                 exp_df = pd.DataFrame(list(experience_dict.items()))
@@ -83,19 +108,20 @@ def run():
                     showscale=False, 
                     hoverinfo="text"
                 )
-                map.add_trace(
-                    go.Scattergeo(
-                            lon = loc_df['longitude'],
-                            lat = loc_df['latitude'],
-                            text = loc_df['cities'],
-                            hoverinfo="text",
-                            marker = dict(
-                                size = loc_df['percent']+5,
-                                color = '#0083B8'
-                            ), 
-                        hoverlabel=dict(namelength=0)
+                if location_dict != {}:
+                    map.add_trace(
+                        go.Scattergeo(
+                                lon = loc_df['longitude'],
+                                lat = loc_df['latitude'],
+                                text = loc_df['cities'],
+                                hoverinfo="text",
+                                marker = dict(
+                                    size = loc_df['percent']+5,
+                                    color = '#0083B8'
+                                ), 
+                            hoverlabel=dict(namelength=0)
+                        )
                     )
-                )
                 map.update_layout(
                     plot_bgcolor="rgba(0,0,0,0)", 
                     dragmode=False
@@ -103,46 +129,49 @@ def run():
                 map['layout'].update(autosize = True)
     
                 # company bar chart object 
-                cmp_fig = px.bar(cmp_df, 
-                                x='vacancy points', y='company names', 
-                                orientation='h', title='Top companies',
-                                color_discrete_sequence=["#0083B8"] * len(cmp_df),
-                                template="plotly_white"
-                )
-                cmp_fig.update_layout(
-                    plot_bgcolor="rgba(0,0,0,0)",
-                    xaxis=(dict(showgrid=False)),
-                    yaxis=dict(autorange="reversed"),
-                    dragmode=False
-                )
+                if company_dict != {}:
+                    cmp_fig = px.bar(cmp_df, 
+                                    x='vacancy points', y='company names', 
+                                    orientation='h', title='Top companies',
+                                    color_discrete_sequence=["#0083B8"] * len(cmp_df),
+                                    template="plotly_white"
+                    )
+                    cmp_fig.update_layout(
+                        plot_bgcolor="rgba(0,0,0,0)",
+                        xaxis=(dict(showgrid=False)),
+                        yaxis=dict(autorange="reversed"),
+                        dragmode=False
+                    )
     
-                # skills bar chart object
-                skl_fig = px.bar(skl_df, 
-                                x='skills', y='demand points', 
-                                orientation='v', title='Top skills',
-                                color_discrete_sequence=["#0083B8"] * len(skl_df),
-                                template="plotly_white",
-                )
-                skl_fig.update_layout(
-                    plot_bgcolor="rgba(0,0,0,0)",
-                    xaxis=(dict(showgrid=False)),
-                    yaxis=(dict(showgrid=False)),
-                    dragmode=False
-                )
+                # skills bar chart object\
+                if skill_dict != {}:
+                    skl_fig = px.bar(skl_df, 
+                                    x='skills', y='demand points', 
+                                    orientation='v', title='Top skills',
+                                    color_discrete_sequence=["#0083B8"] * len(skl_df),
+                                    template="plotly_white",
+                    )
+                    skl_fig.update_layout(
+                        plot_bgcolor="rgba(0,0,0,0)",
+                        xaxis=(dict(showgrid=False)),
+                        yaxis=(dict(showgrid=False)),
+                        dragmode=False
+                    )
     
                 # location bar chart object
-                loc_fig = px.bar(loc_df, 
-                                x='cities', y='job counts', 
-                                orientation='v', title='Top cities',
-                                color_discrete_sequence=["#0083B8"] * len(loc_df),
-                                template="plotly_white",
-                )
-                loc_fig.update_layout(
-                    plot_bgcolor="rgba(0,0,0,0)",
-                    xaxis=(dict(showgrid=False)),
-                    yaxis=(dict(showgrid=False)),
-                    dragmode=False
-                )
+                if location_dict != {}:
+                    loc_fig = px.bar(loc_df, 
+                                    x='cities', y='job counts', 
+                                    orientation='v', title='Top cities',
+                                    color_discrete_sequence=["#0083B8"] * len(loc_df),
+                                    template="plotly_white",
+                    )
+                    loc_fig.update_layout(
+                        plot_bgcolor="rgba(0,0,0,0)",
+                        xaxis=(dict(showgrid=False)),
+                        yaxis=(dict(showgrid=False)),
+                        dragmode=False
+                    )
     
                 # experience level pie chart object
                 names = exp_df['job level']
@@ -170,13 +199,27 @@ def run():
     
             # plotting chart and map objects one by one
             config = {'displayModeBar': False}
-            left_column.plotly_chart(cmp_fig, use_container_width=True, config=config)
-            right_column.plotly_chart(skl_fig, use_container_width=True, config=config)
-            left_column.plotly_chart(loc_fig, use_container_width=True, config=config)
-            right_column.plotly_chart(map, use_container_width=True, config=config)
-            left_column.plotly_chart(jty_fig, use_container_width=True, config=config)
-            right_column.plotly_chart(exp_fig, use_container_width=True, config=config)
+
+            if company_dict != {}:
+                left_column.plotly_chart(cmp_fig, use_container_width=True, config=config)
+
+            if skill_dict != {}:
+                right_column.plotly_chart(skl_fig, use_container_width=True, config=config)
+
+            if location_dict != {}:
+                left_column.plotly_chart(loc_fig, use_container_width=True, config=config)
+                right_column.plotly_chart(map, use_container_width=True, config=config)
+
+            if job_type_dict != {}:
+                left_column.plotly_chart(jty_fig, use_container_width=True, config=config)
+
+            if experience_dict != {'entry level' : 0, 'mid level': 0, 'senior level': 0}:
+                flag += 1
+                right_column.plotly_chart(exp_fig, use_container_width=True, config=config)
     
+            if flag == 0:
+                st.write("No data is extracted, unfortunately, please try again!")
+
             hide_st_style = """
                         <style>
                         #MainMenu {visibility: hidden;}
@@ -186,8 +229,6 @@ def run():
                         """
             # hide the default styling
             st.markdown(hide_st_style, unsafe_allow_html=True)
-    
-            st.markdown("---")
             # plotting ends
         
         # catch and print error messages in logs and proceed further
@@ -195,4 +236,3 @@ def run():
             print(e)
             st.markdown("---")
             st.write("Something went wrong, please select the job role again!")
-            st.markdown("---")
