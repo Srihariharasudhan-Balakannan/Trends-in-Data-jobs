@@ -44,6 +44,10 @@ def run():
             # roll up extracted data and get required information as individual dictionaries
             company_dict , skill_dict, location_dict, job_type_dict, experience_dict = roll_up_data(job_lst)
 
+            print()
+            print(company_dict , skill_dict, location_dict, job_type_dict, experience_dict)
+            print()
+
             # company data-frame
             if company_dict != {}:
                 cmp_df = pd.DataFrame(list(company_dict.items()))
