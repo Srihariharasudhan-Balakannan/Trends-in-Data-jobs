@@ -18,11 +18,14 @@ def run():
 
     # drop-down option
     with st.form('Form'):
+        # job_roles = (
+        #     "Data Engineer", "Data Analyst", "Data Architect", "Data Scientist", "Machine Learning Engineer", 
+        #     "Business Analyst", "Business Intelligence Analyst", "Database Administrator", "Data and Analytics Manager", 
+        #     "Data Visualizers", "Data Storyteller", "Quantitative Analyst", "Machine Learning Scientist", 
+        #     "Artificial Intelligence Engineer", "Cloud Engineer", "Data Manager"
+        #      )
         job_roles = (
-            "Data Engineer", "Data Analyst", "Data Architect", "Data Scientist", "Machine Learning Engineer", 
-            "Business Analyst", "Business Intelligence Analyst", "Database Administrator", "Data and Analytics Manager", 
-            "Data Visualizers", "Data Storyteller", "Quantitative Analyst", "Machine Learning Scientist", 
-            "Artificial Intelligence Engineer", "Cloud Engineer", "Data Manager"
+            "Data Engineer", "Data Analyst", "Data Architect", "Data Scientist", "Machine Learning Engineer"
              )
         option = st.selectbox('Select a job role?', job_roles)
         submit = st.form_submit_button('Submit')
