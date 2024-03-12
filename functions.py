@@ -31,7 +31,7 @@ def roll_up_data(job_lst):
                     try:
                         skill_dict[v] += 1
                     except:
-                        skill_dict[v] = 0
+                        skill_dict[v] = 1
             elif key == 'locations':
                 for v in value:
                     try:
