@@ -2,4 +2,3 @@ streamlit
 geopy
 plotly
 pytz
-github
