@@ -1,5 +1,4 @@
 streamlit
-seleniumbase
-webdriver_manager
 geopy
 plotly
+pytz
