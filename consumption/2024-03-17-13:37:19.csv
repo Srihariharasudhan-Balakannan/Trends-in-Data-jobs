@@ -1,0 +1,26 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,data engineer (spark/streaming),synechron technologies private limited,"big data,spark,streaming",full time,mumbai,7
+2,data engineer,data engineer (spark/streaming),synechron technologies private limited,"big data,spark,streaming",full time,"pune,bengaluru",7
+3,data engineer,data engineer,synechron technologies private limited,"big data,hadoop,hive,hbase",full time,"hyderabad,chennai",7
+4,data engineer,data engineer,synechron technologies private limited,"big data,hadoop,hive,hbase",full time,mumbai,7
+5,data engineer,principle data engineer,synechron technologies private limited,"big data,hadoop",full time,mumbai,17
+6,data analyst,"data analyst, servicenow",align technology,"performance analytics,report designer,servicenow",full time,hyderabad,5
+7,data analyst,data analyst with us health care domain,siera it services private limited,"healthcare,sql",full time,chennai,12
+8,data analyst,data analyst required,roundworld immigration private limited,"reporting analyst,mis analyst",full time,,4
+9,data analyst,technical data analyst,airbus pioneers,"aircraft,aeronautics,project management",full time,bengaluru,3
+10,data analyst,data analyst internship at pune,maxgen technologies private limited,"internship,live projects,academic projects",full time,"jalgaon,pune",0
+11,data architect,hiring for sr. data architect,synechron technologies private limited,"aws cloud,machine learning,data governance",full time,pune,16
+12,data architect,data architect,synechron technologies private limited,"data solutions,big data,hadoop",full time,"pune,bengaluru",17
+13,data architect,data architect,synechron technologies private limited,"data solutions,big data,hadoop",full time,"hyderabad,chennai",17
+14,data architect,ltimindtree hiring for enterprise data architect,ltimindtree limited,"data mapping,data governance,cloud",full time,"mumbai,bengaluru",12
+15,data architect,data architect,synechron technologies private limited,"data solutions,big data,hadoop",full time,mumbai,17
+16,data scientist,lead data scientist - bcg x,boston consulting group,"geo-statistics,operations research,computer science",full time,,10
+17,data scientist,data scientist,synechron technologies private limited,"kanban,agile,data science",full time,gurugram,12
+18,data scientist,data scientist exp 7 to 10 years marketplaces business intelligence optimization lead,my search,"optimization,data mining",full time,bengaluru,9
+19,data scientist,data scientist ii,te connectivity,"r,data analysis,ai,visualization,python",full time,bengaluru,4
+20,data scientist,data scientist,hnm solutions,"aws,data science,python,numpy,pandas",full time,"bengaluru,hyderabad",3
+21,machine learning engineer,machine learning ops engineer,ltimindtree limited,"machine learning ops,machine learning,mlops",full time,"bengaluru,chennai",7
+22,machine learning engineer,ml engineer,quess it staffing (formerly known as magna infotech),"tensarflow,ai specialist,machine learning",full time,pune,7
+23,machine learning engineer,machine learning engineer required in abroad,donivia overseas private limited,machine learning,full time,"bengaluru,hyderabad",7
+24,machine learning engineer,ml engineer,quess it staffing (formerly known as magna infotech),"tensarflow,ai specialist,machine learning",full time,pune,7
+25,machine learning engineer,senior machine learning engineer,oracle,"generative ai,llms,machine learning,cloud",full time,bengaluru,2
