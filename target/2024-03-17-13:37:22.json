@@ -1,0 +1,165 @@
+{
+    "data engineer": {
+        "company_dict": {
+            "synechron technologies private limited": 5
+        },
+        "skill_dict": {
+            "big data": 5,
+            "hadoop": 3,
+            "spark": 2,
+            "streaming": 2,
+            "hive": 2,
+            "hbase": 2
+        },
+        "location_dict": {
+            "mumbai": 3,
+            "pune": 1,
+            "bengaluru": 1,
+            "hyderabad": 1,
+            "chennai": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 5
+        }
+    },
+    "data analyst": {
+        "company_dict": {
+            "align technology": 1,
+            "siera it services private limited": 1,
+            "roundworld immigration private limited": 1,
+            "airbus pioneers": 1,
+            "maxgen technologies private limited": 1
+        },
+        "skill_dict": {
+            "performance analytics": 1,
+            "report designer": 1,
+            "servicenow": 1,
+            "healthcare": 1,
+            "sql": 1,
+            "reporting analyst": 1,
+            "mis analyst": 1,
+            "aircraft": 1,
+            "aeronautics": 1,
+            "project management": 1
+        },
+        "location_dict": {
+            "hyderabad": 1,
+            "chennai": 1,
+            "": 1,
+            "bengaluru": 1,
+            "jalgaon": 1,
+            "pune": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 1,
+            "mid level": 3,
+            "senior level": 1
+        }
+    },
+    "data architect": {
+        "company_dict": {
+            "synechron technologies private limited": 4,
+            "ltimindtree limited": 1
+        },
+        "skill_dict": {
+            "data solutions": 3,
+            "big data": 3,
+            "hadoop": 3,
+            "data governance": 2,
+            "aws cloud": 1,
+            "machine learning": 1,
+            "data mapping": 1,
+            "cloud": 1
+        },
+        "location_dict": {
+            "pune": 2,
+            "bengaluru": 2,
+            "mumbai": 2,
+            "hyderabad": 1,
+            "chennai": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 5
+        }
+    },
+    "data scientist": {
+        "company_dict": {
+            "boston consulting group": 1,
+            "synechron technologies private limited": 1,
+            "my search": 1,
+            "te connectivity": 1,
+            "hnm solutions": 1
+        },
+        "skill_dict": {
+            "data science": 2,
+            "python": 2,
+            "geo-statistics": 1,
+            "operations research": 1,
+            "computer science": 1,
+            "kanban": 1,
+            "agile": 1,
+            "optimization": 1,
+            "data mining": 1,
+            "r": 1
+        },
+        "location_dict": {
+            "bengaluru": 3,
+            "": 1,
+            "gurugram": 1,
+            "hyderabad": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 2,
+            "senior level": 3
+        }
+    },
+    "machine learning engineer": {
+        "company_dict": {
+            "quess it staffing (formerly known as magna infotech)": 2,
+            "ltimindtree limited": 1,
+            "donivia overseas private limited": 1,
+            "oracle": 1
+        },
+        "skill_dict": {
+            "machine learning": 5,
+            "tensarflow": 2,
+            "ai specialist": 2,
+            "machine learning ops": 1,
+            "mlops": 1,
+            "generative ai": 1,
+            "llms": 1,
+            "cloud": 1
+        },
+        "location_dict": {
+            "bengaluru": 3,
+            "pune": 2,
+            "chennai": 1,
+            "hyderabad": 1
+        },
+        "job_type_dict": {
+            "full time": 5
+        },
+        "experience_dict": {
+            "entry level": 1,
+            "mid level": 0,
+            "senior level": 4
+        }
+    }
+}
