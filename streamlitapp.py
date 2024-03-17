@@ -342,7 +342,11 @@ class TrendsInDataJobs:
         st.title('Trends in Data jobs')
         with st.form('Form'):
             job_roles = (
-                "Data Engineer", "Data Analyst", "Data Architect", "Data Scientist", "Machine Learning Engineer"
+                "Data Engineer", 
+                "Data Analyst", 
+                "Data Architect", 
+                "Data Scientist", 
+                "Machine Learning Engineer"
                  )
             option = st.selectbox('Select a job role?', job_roles)
             submit = st.form_submit_button('Submit')
