@@ -346,6 +346,7 @@ class TrendsInDataJobs:
             try:
                 pth = self.get_new_file(folder='target')
                 sentence = self.filename_to_sentence(pth)
+                st.write(sentence)
                 cols = st.columns(3)
                 with cols[0]:
                     st.write(' ')
