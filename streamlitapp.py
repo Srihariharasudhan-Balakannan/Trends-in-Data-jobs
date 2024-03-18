@@ -279,59 +279,50 @@ class TrendsInDataJobs:
         """
         Visualize the data based on the selected job role.
         """
-        try:
-            with st.spinner('Please wait for few seconds ...'):
-                cmp_df, skl_df, loc_df, jty_df, exp_df = self.load_data(option)
-            
+        with st.spinner('Please wait for few seconds ...'):
+            cmp_df, skl_df, loc_df, jty_df, exp_df = self.load_data(option)
             cmp_fig, skl_fig, loc_fig, jty_fig, exp_fig = self.plot_charts(cmp_df, skl_df, loc_df, jty_df, exp_df)
             map_fig = self.plot_map(loc_df)
 
-            # Plot the visualizations
-            st.markdown("---")
-            left_column, right_column = st.columns(2)
-            config = {'displayModeBar': False}
+        # Plot the visualizations
+        st.markdown("---")
+        left_column, right_column = st.columns(2)
+        config = {'displayModeBar': False}
 
-            if cmp_df.empty:
-                st.write("No company data available.")
-            else:
-                left_column.plotly_chart(cmp_fig, use_container_width=True, config=config)
+        if cmp_df.empty:
+            st.write("No company data available.")
+        else:
+            left_column.plotly_chart(cmp_fig, use_container_width=True, config=config)
 
-            if skl_df.empty:
-                st.write("No skill data available.")
-            else:
-                right_column.plotly_chart(skl_fig, use_container_width=True, config=config)
+        if skl_df.empty:
+            st.write("No skill data available.")
+        else:
+            right_column.plotly_chart(skl_fig, use_container_width=True, config=config)
 
-            if loc_df.empty:
-                st.write("No location data available.")
-            else:
-                left_column.plotly_chart(loc_fig, use_container_width=True, config=config)
-                right_column.plotly_chart(map_fig, use_container_width=True, config=config)
+        if loc_df.empty:
+            st.write("No location data available.")
+        else:
+            left_column.plotly_chart(loc_fig, use_container_width=True, config=config)
+            right_column.plotly_chart(map_fig, use_container_width=True, config=config)
 
-            if jty_df.empty:
-                st.write("No job type data available.")
-            else:
-                left_column.plotly_chart(jty_fig, use_container_width=True, config=config)
+        if jty_df.empty:
+            st.write("No job type data available.")
+        else:
+            left_column.plotly_chart(jty_fig, use_container_width=True, config=config)
 
-            if exp_df.empty:
-                st.write("No experience data available.")
-            else:
-                right_column.plotly_chart(exp_fig, use_container_width=True, config=config)
+        if exp_df.empty:
+            st.write("No experience data available.")
+        else:
+            right_column.plotly_chart(exp_fig, use_container_width=True, config=config)
 
-            hide_st_style = """
-                        <style>
-                        #MainMenu {visibility: hidden;}
-                        footer {visibility: hidden;}
-                        header {visibility: hidden;}
-                        </style>
-                        """
-            st.markdown(hide_st_style, unsafe_allow_html=True)
-            
-        except Exception as e:
-            print(e)
-            emailsender = EmailSender()
-            emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
-            st.markdown("---")
-            st.write("Something went wrong, please select the job role again!")
+        hide_st_style = """
+                    <style>
+                    #MainMenu {visibility: hidden;}
+                    footer {visibility: hidden;}
+                    header {visibility: hidden;}
+                    </style>
+                    """
+        st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
     def run(self):
@@ -352,16 +343,24 @@ class TrendsInDataJobs:
             submit = st.form_submit_button('Submit')
 
         if submit:
-            pth = self.get_new_file(folder='target')
-            sentence = self.filename_to_sentence(pth)
-            cols = st.columns(3)
-            with cols[0]:
-                st.write(' ')
-            with cols[1]:
-                st.write('\n')
-                st.write('\n')
-                st.text(sentence)
-            with cols[2]:
-                st.write(' ')
-            self.visualize_data(option=option)
+            try:
+                pth = self.get_new_file(folder='target')
+                sentence = self.filename_to_sentence(pth)
+                cols = st.columns(3)
+                with cols[0]:
+                    st.write(' ')
+                with cols[1]:
+                    st.write('\n')
+                    st.write('\n')
+                    st.text(sentence)
+                with cols[2]:
+                    st.write(' ')
+                self.visualize_data(option=option)
+                
+            except:
+                print(e)
+                emailsender = EmailSender()
+                emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
+                st.markdown("---")
+                st.write("Something went wrong, please select the job role again!")
 
