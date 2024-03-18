@@ -106,7 +106,7 @@ class TrendsInDataJobs:
         dt_object = datetime.strptime(date_str + ' ' + time_str, '%Y-%m-%d %H:%M:%S')
         
         # Format the datetime object into a human-readable sentence
-        sentence = dt_object.strftime("Data was last updated on %A, %B %d, %Y at %I:%M %p.")
+        sentence = dt_object.strftime("Last updated on %A, %B %d, %Y at %I:%M %p.")
         
         return sentence
 
@@ -346,7 +346,6 @@ class TrendsInDataJobs:
             try:
                 pth = self.get_new_file(folder='target')
                 sentence = self.filename_to_sentence(pth)
-                st.write(sentence)
                 cols = st.columns(3)
                 with cols[0]:
                     st.write(' ')
@@ -358,7 +357,7 @@ class TrendsInDataJobs:
                     st.write(' ')
                 self.visualize_data(option=option)
                 
-            except:
+            except Exception as e:
                 print(e)
                 emailsender = EmailSender()
                 emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
