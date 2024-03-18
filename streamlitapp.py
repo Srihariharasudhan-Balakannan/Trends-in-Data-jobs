@@ -106,7 +106,7 @@ class TrendsInDataJobs:
         dt_object = datetime.strptime(date_str + ' ' + time_str, '%Y-%m-%d %H:%M:%S')
         
         # Format the datetime object into a human-readable sentence
-        sentence = dt_object.strftime("Last updated on %A, %B %d, %Y at %I:%M %p.")
+        sentence = dt_object.strftime("Last updated on %A, %B %d, %Y at %I:%M %p")
         
         return sentence
 
