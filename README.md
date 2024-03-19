@@ -8,9 +8,9 @@ The [Trends in Data jobs](https://trends-in-data-jobs.streamlit.app/) project is
 
 - **Web Scraping**: Automatically collects job postings from foundit.com in the Data domain.
 - **Data Cleansing**: Processes and cleanses the collected job data for analysis.
-- **Interactive Visualizations**: Utilizes Plotly and Mapbox for interactive charts and maps.
+- **Interactive Visualizations**: Utilizes Plotly for interactive charts and maps.
 - **Job Role Selection**: Users can select from a range of data-related job roles to explore specific trends.
-- **Exception Handling**: Automatically sends email alerts in case of exceptions during data visualization.
+- **Exception Handling**: Automatically sends email alerts in case of exceptions.
 
 ## Work-flow
 
