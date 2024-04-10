@@ -49,7 +49,8 @@ class TrendsInDataJobs:
         """
         github_url = 'https://github.com'
         repo = 'Srihariharasudhan-Balakannan/Trends-in-Data-jobs'
-        branch = 'master'
+        # branch = 'master'
+        branch = 'develop'
         file_path = self.get_new_file(folder=folder)
         file_url = github_url + '/' + repo + '/blob/' + branch + '/' + file_path
         if path_type == 'url':
