@@ -344,24 +344,24 @@ class TrendsInDataJobs:
             submit = st.form_submit_button('Submit')
 
         if submit:
-            try:
-                pth = self.get_new_file(folder='target')
-                sentence = self.filename_to_sentence(pth)
-                cols = st.columns(3)
-                with cols[0]:
-                    st.write(' ')
-                with cols[1]:
-                    st.write('\n')
-                    st.write('\n')
-                    st.text(sentence)
-                with cols[2]:
-                    st.write(' ')
-                self.visualize_data(option=option)
+            # try:
+            pth = self.get_new_file(folder='target')
+            sentence = self.filename_to_sentence(pth)
+            cols = st.columns(3)
+            with cols[0]:
+                st.write(' ')
+            with cols[1]:
+                st.write('\n')
+                st.write('\n')
+                st.text(sentence)
+            with cols[2]:
+                st.write(' ')
+            self.visualize_data(option=option)
                 
-            except Exception as e:
-                print(e)
-                emailsender = EmailSender()
-                emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
-                st.markdown("---")
-                st.write("Something went wrong, please select the job role again!")
+            # except Exception as e:
+            #     print(e)
+            #     emailsender = EmailSender()
+            #     emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
+            #     st.markdown("---")
+            #     st.write("Something went wrong, please select the job role again!")
 
