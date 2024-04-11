@@ -10,6 +10,7 @@ import json
 from geopy.geocoders import Nominatim
 from mailer import EmailSender
 from datetime import datetime
+from geopy.geocoders import Photon
 
 
 class TrendsInDataJobs:
@@ -117,7 +118,8 @@ class TrendsInDataJobs:
         Batch geocoding to get coordinates for multiple locations.
         """
         # try:
-        geolocator = Nominatim(user_agent="MyApp")
+        # geolocator = Nominatim(user_agent="MyApp")
+        geolocator = Photon(user_agent="MyApp")
         geocoded_data = [geolocator.geocode(location) for location in locations]
         return [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
         # except Exception as e:
