@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import plotly.graph_objs as gobj    
 import requests
 import json
-from geopy.geocoders import Nominatim
+# from geopy.geocoders import Nominatim
 from mailer import EmailSender
 from datetime import datetime
 from geopy.geocoders import Photon
@@ -131,18 +131,11 @@ class TrendsInDataJobs:
         """
         Add coordinates to DataFrame based on location column.
         """
-        print(df)
         locations = df[col_name].tolist()
-        print(locations)
         latitudes, longitudes = zip(*self.batch_geocode(locations))
-        print(latitudes)
-        print(longitudes)
         df['latitude'] = latitudes
-        print(df)
         df['longitude'] = longitudes
-        print(df)
         res_df = df[(df['latitude'] > 0) & (df['longitude'] > 0)]
-        print(res_df)
         return res_df
 
 
@@ -160,33 +153,24 @@ class TrendsInDataJobs:
         Convert retrieved data dictionary into separate pandas DataFrames.
         Returns DataFrames for company, skill, location, job type, and experience data.
         """
-        # print(data)
         
         company_dict = data.get('company_dict', {})
-        # print(company_dict)
         skill_dict = data.get('skill_dict', {})
-        # print(skill_dict)
         location_dict = data.get('location_dict', {})
-        # print(location_dict)
         job_type_dict = data.get('job_type_dict', {})
-        # print(job_type_dict)
         experience_dict = data.get('experience_dict', {})
-        # print(experience_dict)
 
         cmp_df = pd.DataFrame(list(company_dict.items()), columns=['company names', 'vacancy points'])
         skl_df = pd.DataFrame(list(skill_dict.items()), columns=['skills', 'demand points'])
         loc_df = pd.DataFrame(list(location_dict.items()), columns=['cities', 'job counts'])
-        # print(loc_df)
 
         # Adding co-ordinates to cities for plotting
         # Adding an overall percentage to cities for plotting
         sum_counts = loc_df['job counts'].sum()
         loc_df['percent'] = (loc_df['job counts'] / sum_counts) * 100
-        # print(loc_df)
 
         # Add co-ordinates to cities, for plotting
         loc_df = self.add_coordinates(loc_df, 'cities')
-        # print(loc_df)
 
         jty_df = pd.DataFrame(list(job_type_dict.items()), columns=['job type', 'count'])
         exp_df = pd.DataFrame(list(experience_dict.items()), columns=['job level', 'count'])
@@ -303,11 +287,6 @@ class TrendsInDataJobs:
         """
         with st.spinner('Please wait for few seconds ...'):
             cmp_df, skl_df, loc_df, jty_df, exp_df = self.load_data(option)
-            # print(cmp_df)
-            # print(skl_df)
-            # print(loc_df)
-            # print(jty_df)
-            # print(exp_df)
             cmp_fig, skl_fig, loc_fig, jty_fig, exp_fig = self.plot_charts(cmp_df, skl_df, loc_df, jty_df, exp_df)
             map_fig = self.plot_map(loc_df)
 
@@ -370,24 +349,25 @@ class TrendsInDataJobs:
             submit = st.form_submit_button('Submit')
 
         if submit:
-            # try:
-            pth = self.get_new_file(folder='target')
-            sentence = self.filename_to_sentence(pth)
-            cols = st.columns(3)
-            with cols[0]:
-                st.write(' ')
-            with cols[1]:
-                st.write('\n')
-                st.write('\n')
-                st.text(sentence)
-            with cols[2]:
-                st.write(' ')
-            self.visualize_data(option=option)
+            
+            try:
+                pth = self.get_new_file(folder='target')
+                sentence = self.filename_to_sentence(pth)
+                cols = st.columns(3)
+                with cols[0]:
+                    st.write(' ')
+                with cols[1]:
+                    st.write('\n')
+                    st.write('\n')
+                    st.text(sentence)
+                with cols[2]:
+                    st.write(' ')
+                self.visualize_data(option=option)
                 
-            # except Exception as e:
-            #     print(e)
-            #     emailsender = EmailSender()
-            #     emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
-            #     st.markdown("---")
-            #     st.write("Something went wrong, please select the job role again!")
+            except Exception as e:
+                print(e)
+                emailsender = EmailSender()
+                emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
+                st.markdown("---")
+                st.write("Something went wrong, please select the job role again!")
 
