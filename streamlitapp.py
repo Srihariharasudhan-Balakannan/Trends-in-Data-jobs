@@ -282,6 +282,11 @@ class TrendsInDataJobs:
         """
         with st.spinner('Please wait for few seconds ...'):
             cmp_df, skl_df, loc_df, jty_df, exp_df = self.load_data(option)
+            print(cmp_df)
+            print(skl_df)
+            print(loc_df)
+            print(jty_df)
+            print(exp_df)
             cmp_fig, skl_fig, loc_fig, jty_fig, exp_fig = self.plot_charts(cmp_df, skl_df, loc_df, jty_df, exp_df)
             map_fig = self.plot_map(loc_df)
 
