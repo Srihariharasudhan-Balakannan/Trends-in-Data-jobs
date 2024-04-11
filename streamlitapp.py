@@ -50,8 +50,7 @@ class TrendsInDataJobs:
         """
         github_url = 'https://github.com'
         repo = 'Srihariharasudhan-Balakannan/Trends-in-Data-jobs'
-        # branch = 'master'
-        branch = 'develop'
+        branch = 'master'
         file_path = self.get_new_file(folder=folder)
         file_url = github_url + '/' + repo + '/blob/' + branch + '/' + file_path
         if path_type == 'url':
@@ -117,14 +116,10 @@ class TrendsInDataJobs:
         """
         Batch geocoding to get coordinates for multiple locations.
         """
-        # try:
-        # geolocator = Nominatim(user_agent="MyApp")
         geolocator = Photon(user_agent="MyApp")
         geocoded_data = [geolocator.geocode(location) for location in locations]
-        return [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
-        # except Exception as e:
-        #     print(e)
-        #     return [(-1, -1) for _ in locations]
+        lst = [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
+        return lst
 
 
     def add_coordinates(self, df, col_name):
