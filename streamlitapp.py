@@ -148,7 +148,6 @@ class TrendsInDataJobs:
         Convert retrieved data dictionary into separate pandas DataFrames.
         Returns DataFrames for company, skill, location, job type, and experience data.
         """
-        
         company_dict = data.get('company_dict', {})
         skill_dict = data.get('skill_dict', {})
         location_dict = data.get('location_dict', {})
@@ -271,7 +270,6 @@ class TrendsInDataJobs:
         Load data based on the selected job role.
         """
         target_dict = self.get_target_data(option.lower())
-        # print(target_dict)
         cmp_df, skl_df, loc_df, jty_df, exp_df = self.get_dataframes(target_dict)
         return cmp_df, skl_df, loc_df, jty_df, exp_df
 
