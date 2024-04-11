@@ -150,23 +150,33 @@ class TrendsInDataJobs:
         Convert retrieved data dictionary into separate pandas DataFrames.
         Returns DataFrames for company, skill, location, job type, and experience data.
         """
+        print(data)
+        
         company_dict = data.get('company_dict', {})
+        print(company_dict)
         skill_dict = data.get('skill_dict', {})
+        print(skill_dict)
         location_dict = data.get('location_dict', {})
+        print(location_dict)
         job_type_dict = data.get('job_type_dict', {})
+        print(job_type_dict)
         experience_dict = data.get('experience_dict', {})
+        print(experience_dict)
 
         cmp_df = pd.DataFrame(list(company_dict.items()), columns=['company names', 'vacancy points'])
         skl_df = pd.DataFrame(list(skill_dict.items()), columns=['skills', 'demand points'])
         loc_df = pd.DataFrame(list(location_dict.items()), columns=['cities', 'job counts'])
+        print(loc_df)
 
         # Adding co-ordinates to cities for plotting
         # Adding an overall percentage to cities for plotting
         sum_counts = loc_df['job counts'].sum()
         loc_df['percent'] = (loc_df['job counts'] / sum_counts) * 100
+        print(loc_df)
 
         # Add co-ordinates to cities, for plotting
         loc_df = self.add_coordinates(loc_df, 'cities')
+        print(loc_df)
 
         jty_df = pd.DataFrame(list(job_type_dict.items()), columns=['job type', 'count'])
         exp_df = pd.DataFrame(list(experience_dict.items()), columns=['job level', 'count'])
@@ -272,7 +282,7 @@ class TrendsInDataJobs:
         Load data based on the selected job role.
         """
         target_dict = self.get_target_data(option.lower())
-        print(target_dict)
+        # print(target_dict)
         cmp_df, skl_df, loc_df, jty_df, exp_df = self.get_dataframes(target_dict)
         return cmp_df, skl_df, loc_df, jty_df, exp_df
 
