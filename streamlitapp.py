@@ -7,9 +7,10 @@ import plotly.graph_objects as go
 import plotly.graph_objs as gobj    
 import requests
 import json
-from geopy.geocoders import Nominatim
+# from geopy.geocoders import Nominatim
 from mailer import EmailSender
 from datetime import datetime
+from geopy.geocoders import Photon
 
 
 class TrendsInDataJobs:
@@ -115,12 +116,10 @@ class TrendsInDataJobs:
         """
         Batch geocoding to get coordinates for multiple locations.
         """
-        try:
-            geolocator = Nominatim(user_agent="MyApp")
-            geocoded_data = [geolocator.geocode(location) for location in locations]
-            return [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
-        except:
-            return [(-1, -1) for _ in locations]
+        geolocator = Photon(user_agent="MyApp")
+        geocoded_data = [geolocator.geocode(location) for location in locations]
+        lst = [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
+        return lst
 
 
     def add_coordinates(self, df, col_name):
@@ -343,6 +342,7 @@ class TrendsInDataJobs:
             submit = st.form_submit_button('Submit')
 
         if submit:
+            
             try:
                 pth = self.get_new_file(folder='target')
                 sentence = self.filename_to_sentence(pth)
