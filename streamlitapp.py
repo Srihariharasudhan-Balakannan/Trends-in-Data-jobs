@@ -128,11 +128,18 @@ class TrendsInDataJobs:
         """
         Add coordinates to DataFrame based on location column.
         """
+        print(df)
         locations = df[col_name].tolist()
+        print(locations)
         latitudes, longitudes = zip(*self.batch_geocode(locations))
+        print(latitudes)
+        print(longitudes)
         df['latitude'] = latitudes
+        print(df)
         df['longitude'] = longitudes
+        print(df)
         res_df = df[(df['latitude'] > 0) & (df['longitude'] > 0)]
+        print(res_df)
         return res_df
 
 
@@ -172,11 +179,11 @@ class TrendsInDataJobs:
         # Adding an overall percentage to cities for plotting
         sum_counts = loc_df['job counts'].sum()
         loc_df['percent'] = (loc_df['job counts'] / sum_counts) * 100
-        print(loc_df)
+        # print(loc_df)
 
         # Add co-ordinates to cities, for plotting
         loc_df = self.add_coordinates(loc_df, 'cities')
-        print(loc_df)
+        # print(loc_df)
 
         jty_df = pd.DataFrame(list(job_type_dict.items()), columns=['job type', 'count'])
         exp_df = pd.DataFrame(list(experience_dict.items()), columns=['job level', 'count'])
