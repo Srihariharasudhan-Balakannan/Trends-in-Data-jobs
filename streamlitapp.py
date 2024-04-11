@@ -116,12 +116,13 @@ class TrendsInDataJobs:
         """
         Batch geocoding to get coordinates for multiple locations.
         """
-        try:
-            geolocator = Nominatim(user_agent="MyApp")
-            geocoded_data = [geolocator.geocode(location) for location in locations]
-            return [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
-        except:
-            return [(-1, -1) for _ in locations]
+        # try:
+        geolocator = Nominatim(user_agent="MyApp")
+        geocoded_data = [geolocator.geocode(location) for location in locations]
+        return [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
+        # except Exception as e:
+        #     print(e)
+        #     return [(-1, -1) for _ in locations]
 
 
     def add_coordinates(self, df, col_name):
