@@ -15,3 +15,7 @@ The [Trends in Data jobs](https://trends-in-data-jobs.streamlit.app/) project is
 ## Work-flow
 
 ![Trends in Data jobs - work flow](https://github.com/Srihariharasudhan-Balakannan/Trends-in-Data-jobs/assets/139725379/b3a65ab8-bed8-4009-bc71-452e054efc29)
+
+## Streamlit application
+
+![Screenshot 3](https://github.com/Srihariharasudhan-Balakannan/Trends-in-Data-jobs/assets/139725379/fee854bd-4f6f-47ac-ad60-ca142248c3b6)
