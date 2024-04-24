@@ -341,8 +341,7 @@ class TrendsInDataJobs:
             option = st.selectbox('Select a job role?', job_roles)
             submit = st.form_submit_button('Submit')
 
-        if submit:
-            
+        if submit:  
             try:
                 pth = self.get_new_file(folder='target')
                 sentence = self.filename_to_sentence(pth)
@@ -356,11 +355,9 @@ class TrendsInDataJobs:
                 with cols[2]:
                     st.write(' ')
                 self.visualize_data(option=option)
-                
             except Exception as e:
                 print(e)
                 emailsender = EmailSender()
                 emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
                 st.markdown("---")
                 st.write("Something went wrong, please select the job role again!")
-
