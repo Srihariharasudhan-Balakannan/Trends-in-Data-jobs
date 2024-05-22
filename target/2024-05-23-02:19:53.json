@@ -1,0 +1,243 @@
+{
+    "data engineer": {
+        "company_dict": {
+            "genpact": 35,
+            "uplers": 25,
+            "koch industries": 14,
+            "amazon music": 11,
+            "ltimindtree limited": 11,
+            "deutsche bank": 10,
+            "company name confidential": 7,
+            "synechron technologies private limited": 7,
+            "ntt data": 6,
+            "google": 6
+        },
+        "skill_dict": {
+            "snowflake": 82,
+            "python": 81,
+            "sql": 52,
+            "airflow": 46,
+            "java": 46,
+            "aws": 43,
+            "scala": 29,
+            "spark": 26,
+            "etl": 25,
+            "hadoop": 24
+        },
+        "location_dict": {
+            "bengaluru": 191,
+            "hyderabad": 94,
+            "pune": 66,
+            "chennai": 49,
+            "gurugram": 22,
+            "mumbai": 18,
+            "delhi": 9,
+            "kolkata": 5,
+            "thane": 4,
+            "indore": 3
+        },
+        "job_type_dict": {
+            "full time": 497,
+            "contract job": 3,
+            "part time": 3,
+            "work from home": 6
+        },
+        "experience_dict": {
+            "entry level": 122,
+            "mid level": 146,
+            "senior level": 232
+        }
+    },
+    "data analyst": {
+        "company_dict": {
+            "uplers": 32,
+            "maxgen technologies private limited": 21,
+            "jp morgan chase & co.": 12,
+            "genpact": 10,
+            "structured learning assistance consultants india private limited": 10,
+            "the golden rise": 9,
+            "jpmorgan chase & co.": 9,
+            "mygwork - lgbtq+ business community": 7,
+            "amazon music": 6,
+            "clarivate": 6
+        },
+        "skill_dict": {
+            "data analysis": 85,
+            "sql": 72,
+            "r": 63,
+            "python": 50,
+            "statistics": 34,
+            "tableau": 30,
+            "power bi": 28,
+            "excel": 27,
+            "internship": 21,
+            "live projects": 21
+        },
+        "location_dict": {
+            "bengaluru": 168,
+            "pune": 63,
+            "hyderabad": 55,
+            "mumbai": 34,
+            "gurugram": 26,
+            "chennai": 21,
+            "delhi": 18,
+            "aurangabad": 4,
+            "coimbatore": 4,
+            "surat": 4
+        },
+        "job_type_dict": {
+            "full time": 500,
+            "work from home": 2
+        },
+        "experience_dict": {
+            "entry level": 218,
+            "mid level": 156,
+            "senior level": 126
+        }
+    },
+    "data architect": {
+        "company_dict": {
+            "edge it solutions": 22,
+            "birlasoft limited": 13,
+            "genpact": 11,
+            "synechron technologies private limited": 11,
+            "kiash solutions llp": 11,
+            "robert bosch": 9,
+            "salesforce": 9,
+            "alp consulting ltd.": 8,
+            "alstom": 6,
+            "orion india systems private limited": 5
+        },
+        "skill_dict": {
+            "snowflake": 32,
+            "python": 24,
+            "sql": 21,
+            "hadoop": 16,
+            "cashier": 16,
+            "cash": 16,
+            "cash handling": 16,
+            "teller": 16,
+            "petty cash": 16,
+            "data pipelines": 15
+        },
+        "location_dict": {
+            "bengaluru": 187,
+            "hyderabad": 94,
+            "pune": 66,
+            "chennai": 49,
+            "mumbai": 25,
+            "delhi": 10,
+            "kochi": 6,
+            "gurugram": 6,
+            "kolkata": 6,
+            "jaipur": 3
+        },
+        "job_type_dict": {
+            "full time": 496,
+            "contract job": 4,
+            "part time": 4,
+            "work from home": 2
+        },
+        "experience_dict": {
+            "entry level": 93,
+            "mid level": 58,
+            "senior level": 349
+        }
+    },
+    "data scientist": {
+        "company_dict": {
+            "uplers": 16,
+            "genpact": 13,
+            "mygwork - lgbtq+ business community": 13,
+            "skywalk visa immigration services llp": 11,
+            "walmart global tech india": 11,
+            "google": 10,
+            "cisico": 9,
+            "company name confidential": 7,
+            "allen digital": 7,
+            "honeywell": 6
+        },
+        "skill_dict": {
+            "r": 99,
+            "python": 74,
+            "machine learning": 53,
+            "scikit-learn": 52,
+            "data analysis": 49,
+            "statistics": 40,
+            "sql": 37,
+            "tensorflow": 35,
+            "nlp": 27,
+            "data science": 26
+        },
+        "location_dict": {
+            "bengaluru": 212,
+            "hyderabad": 61,
+            "chennai": 54,
+            "pune": 36,
+            "gurugram": 28,
+            "mumbai": 21,
+            "delhi": 7,
+            "indore": 4,
+            "faridabad": 3,
+            "bhopal": 3
+        },
+        "job_type_dict": {
+            "full time": 499,
+            "work from home": 6,
+            "contract job": 1,
+            "part time": 1
+        },
+        "experience_dict": {
+            "entry level": 126,
+            "mid level": 164,
+            "senior level": 210
+        }
+    },
+    "machine learning engineer": {
+        "company_dict": {
+            "uplers": 117,
+            "google inc": 35,
+            "google": 32,
+            "genpact": 8,
+            "adobe india": 8,
+            "a.p. moller - maersk": 7,
+            "r3 consultant": 7,
+            "deutsche bank": 7,
+            "qualcomm": 6,
+            "amazon music": 6
+        },
+        "skill_dict": {
+            "machine learning": 100,
+            "python": 57,
+            "scikit-learn": 47,
+            "generative ai": 40,
+            "problem solving": 37,
+            "mathematics": 36,
+            "java": 30,
+            "aws sagemaker": 30,
+            "jax": 30,
+            "ci/cd": 25
+        },
+        "location_dict": {
+            "bengaluru": 210,
+            "hyderabad": 56,
+            "pune": 42,
+            "chennai": 33,
+            "mumbai": 23,
+            "gurugram": 9,
+            "nagpur": 6,
+            "patna": 6,
+            "kanpur": 5,
+            "indore": 5
+        },
+        "job_type_dict": {
+            "full time": 500,
+            "work from home": 2
+        },
+        "experience_dict": {
+            "entry level": 142,
+            "mid level": 201,
+            "senior level": 157
+        }
+    }
+}
