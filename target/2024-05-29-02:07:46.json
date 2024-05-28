@@ -1,0 +1,130 @@
+{
+    "data engineer": {
+        "company_dict": {
+            "alp consulting ltd.": 48,
+            "genpact": 20,
+            "boeing": 15,
+            "walmart global tech india": 12,
+            "a.p. moller - maersk": 7,
+            "warner bros. discovery": 7,
+            "uplers": 7,
+            "ntt data": 6,
+            "deutsche bank": 6,
+            "mygwork - lgbtq+ business community": 6
+        },
+        "skill_dict": {
+            "snowflake": 81,
+            "airflow": 68,
+            "python": 57,
+            "sql": 40,
+            "java": 38,
+            "hadoop": 33,
+            "pyspark": 30,
+            "ci/cd": 29,
+            "scala": 28,
+            "etl": 24
+        },
+        "location_dict": {
+            "bengaluru": 248,
+            "hyderabad": 78,
+            "pune": 65,
+            "chennai": 34,
+            "gurugram": 20,
+            "mumbai": 11,
+            "delhi": 6,
+            "indore": 4,
+            "thane": 3,
+            "thiruvananthapuram": 2
+        },
+        "job_type_dict": {
+            "full time": 498,
+            "contract job": 2,
+            "part time": 2,
+            "work from home": 3
+        },
+        "experience_dict": {
+            "entry level": 122,
+            "mid level": 131,
+            "senior level": 247
+        }
+    },
+    "data analyst": {
+        "company_dict": {
+            "uplers": 47,
+            "alp consulting ltd.": 15,
+            "genpact": 12,
+            "mygwork - lgbtq+ business community": 12,
+            "maxgen technologies private limited": 11,
+            "the golden rise": 10,
+            "jp morgan chase & co.": 8,
+            "rajashree dhananjay kunjir (proprietor of adimire ent)": 6,
+            "barclays": 6,
+            "pwc": 6
+        },
+        "skill_dict": {
+            "data analysis": 103,
+            "sql": 59,
+            "r": 49,
+            "python": 48,
+            "statistics": 41,
+            "project management": 31,
+            "tableau": 30,
+            "power bi": 27,
+            "matplotlib": 24,
+            "powerbi": 23
+        },
+        "location_dict": {
+            "bengaluru": 156,
+            "pune": 58,
+            "hyderabad": 55,
+            "mumbai": 34,
+            "chennai": 26,
+            "delhi": 18,
+            "gurugram": 17,
+            "kolkata": 6,
+            "coimbatore": 5,
+            "madurai": 4
+        },
+        "job_type_dict": {
+            "full time": 500
+        },
+        "experience_dict": {
+            "entry level": 204,
+            "mid level": 159,
+            "senior level": 137
+        }
+    },
+    "data architect": {
+        "company_dict": {},
+        "skill_dict": {},
+        "location_dict": {},
+        "job_type_dict": {},
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 0
+        }
+    },
+    "data scientist": {
+        "company_dict": {},
+        "skill_dict": {},
+        "location_dict": {},
+        "job_type_dict": {},
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 0
+        }
+    },
+    "machine learning engineer": {
+        "company_dict": {},
+        "skill_dict": {},
+        "location_dict": {},
+        "job_type_dict": {},
+        "experience_dict": {
+            "entry level": 0,
+            "mid level": 0,
+            "senior level": 0
+        }
+    }
+}
