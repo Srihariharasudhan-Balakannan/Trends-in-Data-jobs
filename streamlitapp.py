@@ -345,19 +345,13 @@ class TrendsInDataJobs:
             try:
                 pth = self.get_new_file(folder='target')
                 sentence = self.filename_to_sentence(pth)
-                cols = st.columns(3)
-                with cols[0]:
-                    st.write(' ')
-                with cols[1]:
-                    st.write('\n')
-                    st.write('\n')
-                    st.text(sentence)
-                with cols[2]:
-                    st.write(' ')
+                st.write('\n')
+                st.write('\n')
+                st.text(sentence)
                 self.visualize_data(option=option)
             except Exception as e:
                 print(e)
                 emailsender = EmailSender()
                 emailsender.send_mail(receiver_id=st.secrets["receiver_id"], exception=e) 
                 st.markdown("---")
-                st.write("Something went wrong, please select the job role again!")
+                st.write("Something went wrong. Please select another job role! We have notified the developer about this issue, and it will be fixed soon")
