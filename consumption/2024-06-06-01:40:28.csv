@@ -1,0 +1,1046 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,vie - data engineer and digital transformation 1,alstom,"data extraction,power bi,data mining,tableau",full time,,1
+2,data engineer,azure data engineer,capgemini technology services india limited,,full time,"mumbai,pune",9
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data analyst,data analyst,kpmg india,"scikit-learn,risk modeling,numpy,machine learning",full time,bengaluru,6
+17,data analyst,data analyst,tata consultancy services ltd.,,full time,mumbai,0
+18,data analyst,,,,,,-1
+19,data analyst,,,,,,-1
+20,data analyst,,,,,,-1
+21,data analyst,,,,,,-1
+22,data analyst,,,,,,-1
+23,data analyst,,,,,,-1
+24,data analyst,,,,,,-1
+25,data analyst,,,,,,-1
+26,data analyst,,,,,,-1
+27,data analyst,,,,,,-1
+28,data analyst,,,,,,-1
+29,data analyst,,,,,,-1
+30,data analyst,,,,,,-1
+31,data architect,big data architect,adobe,"airflow,flyte,flink,datahub,py torch",full time,bengaluru,11
+32,data architect,azure data architect,tata consultancy services ltd.,"scalable,implementing,enterprise-grade",full time,chennai,10
+33,data architect,gcp data architect,tata consultancy services ltd.,"big query,referential integrity,google cloud professional cloud architect",full time,hyderabad,6
+34,data architect,aws data architect,tata consultancy services ltd.,aws,full time,bengaluru,0
+35,data architect,data architect,salesforce,"sessionm,segment,blueshift,redpoint",full time,mumbai,5
+36,data architect,azure data architect,tata consultancy services ltd.,"power apps,keyvault,azure hdinsight,adls",full time,bengaluru,2
+37,data architect,gcp data architect,tata consultancy services ltd.,"etl processes,datastore,communication skills",full time,bengaluru,13
+38,data architect,senior data architect,adobe,"proposal generation,project management",full time,bengaluru,1
+39,data architect,aws data architect,tata consultancy services ltd.,aws,full time,,0
+40,data architect,consulting-bo-cloud engineering-manager-data architect,deloitte,data pipelines,full time,delhi,13
+41,data architect,data architect,fedex logistics,"erwin,metadata management,data modeling",full time,hyderabad,11
+42,data architect,azure fabric data architect,tata consultancy services ltd.,"ms fabric certification,synapse analytics",full time,delhi,12
+43,data architect,cloud data architect,cgi,"azure datalake,identity and access mgt (iam)",full time,bengaluru,4
+44,data architect,customer data architect,tata consultancy services ltd.,,full time,bengaluru,0
+45,data architect,gcp data architect,tata consultancy services ltd.,"architecture,cloud strategy,devops,continuous integration",full time,bengaluru,9
+46,data architect,data architect,tata consultancy services ltd.,postgresql,full time,bengaluru,0
+47,data architect,consulting - bo - could engineering - manager - data architect,deloitte,"snowflake,dms,lakeformation,api gw",full time,bengaluru,6
+48,data architect,consulting- sama-ai&data-data architect,deloitte,,full time,bengaluru,0
+49,data architect,gcp data architect,tata consultancy services ltd.,"hybrid systems,planning,leadership,coaching",full time,delhi,12
+50,data architect,big data architect,adobe,"airflow,flyte,flink,datahub,py torch",full time,bengaluru,11
+51,data architect,azure data architect,tata consultancy services ltd.,"azure datawarehouse design,dimensional",full time,kolkata,1
+52,data architect,senior principal consultant data architect,genpact,"problem-solving,communication,data warehousing solutions",full time,,1
+53,data architect,technology specialist (solution / data architect),deutsche bank,"document store,google pub/sub",full time,pune,1
+54,data architect,principal data architect,red hat,"data pipeline management,snowflake,elt development",full time,bengaluru,1
+55,data architect,azure data architect,acz global private limited,pyspark databricks adf synapse,full time,"bengaluru,chennai",12
+56,data architect,data architect,numaware technologies private limited,"oracle fusion scm,oracle fusion bi,oac",full time,pune,15
+57,data architect,data architect,numaware technologies private limited,"oracle fusion scm,oracle fusion bi,oac",full time,"bengaluru,hyderabad",15
+58,data architect,power bi data architect,quocent,"data retrieval,data compliance,teradata",full time,,11
+59,data architect,data architect,indium software,"data modelling,olap,database concepts",full time,bengaluru,11
+60,data architect,enterprise data architect,merilytics,"data management,data vault,cassandra",full time,hyderabad,9
+61,data architect,principal architect (data architect),nielseniq,"availability,analytics,opentracing,ci/cd",full time,,5
+62,data architect,data architect,labcorp drug development,"qualtrics,salesforce,databricks,etl,adobe analytics",full time,mumbai,6
+63,data architect,business intelligence analyst_ finance data platform - data architect,caterpillar inc,,full time,bengaluru,0
+64,data architect,business intelligence analyst (finance data platform - data architect),caterpillar inc,"agile sdlc,c3 iot,snowflake,pentaho",full time,bengaluru,6
+65,data architect,data architect,coditas,"glue,msk,batch processing,dms,stream processing",full time,pune,11
+66,data architect,principal architect (data architect),nielseniq,"availability,analytics,opentracing,ci/cd",full time,,5
+67,data architect,data architect iii,jp morgan chase & co.,"delivery,front-end technologies,database querying",full time,hyderabad,6
+68,data architect,enterprise data architect,merilytics,"data management,data vault,cassandra",full time,hyderabad,9
+69,data architect,data architect/lead | offshore,photon interactive private limited,"data governance principles,data integration techniques",full time,bengaluru,6
+70,data architect,data architect iii,chase bank,"delivery,front-end technologies,database querying",full time,hyderabad,6
+71,data architect,data architect 3,mongodb,"data lineage,big data storage formats,distributed query engine",full time,gurugram,4
+72,data architect,power bi data architect,quocent,"data retrieval,data compliance,teradata",full time,,11
+73,data architect,senior data architect,commonwealth bank,"data management systems,architecture,ai",full time,bengaluru,13
+74,data architect,data architect (data & ai)_offshore,photon interactive private limited,"machine learning frameworks,reinforcement learning",full time,,6
+75,data architect,data architect,exl,"visualization,usage,data tooling,data sources",full time,gurugram,11
+76,data architect,principal software engineer (data architect),the depository trust & clearing corporation,"data integration tools,data discovery techniques",full time,chennai,6
+77,data architect,"expert senior manager, data architect",bain company india pvt. ltd.,"analytical,statistical,administration,purge planning",full time,delhi,1
+78,data architect,lead data architect,saras analytics,"snowflake,bigquery,azure,python,google cloud",full time,hyderabad,0
+79,data architect,data architect,weekday (yc w21),,full time,,4
+80,data architect,big data architect,databricks,"data lakes,white-boarding,documentation",full time,,8
+81,data architect,azure data architect,programmers.io,"big data platforms,database design and development",full time,hyderabad,17
+82,data architect,data architect,burckhardt compression,"data storage,data integration frameworks",full time,pune,11
+83,data architect,azure data architect,programmers.io,"big data platforms,database design and development",full time,pune,17
+84,data architect,enterprise ui/data architect,alp consulting ltd.,"mobile,design thinking,digital transformation thinking",full time,hyderabad,12
+85,data architect,azure data architect,programmers.io,"big data platforms,database design and development",full time,bengaluru,17
+86,data architect,it data architect for healthineers data cloud,siemens,"data vault 2.0,snowflake,informatica edc /axon",full time,bengaluru,4
+87,data architect,azure data architect,programmers.io,"big data platforms,bi project engagements",full time,delhi,17
+88,data architect,aws data architect,infosys limited,"glue,compliance",full time,bengaluru,1
+89,data architect,senior principal consultant- product lead/ data architect,genpact,"snowflake,microstrategy,databrick platform",full time,,1
+90,data architect,data architect,kanini,"aws main compute service,azure data lake store",full time,chennai,13
+91,data architect,data architect,transorg analytics,"etl/elt processes,data modeling techniques",full time,gurugram,6
+92,data architect,data architect,accellor,"neural language modelling,data bricks,statistical models",full time,hyderabad,13
+93,data architect,data architect / senior data architect,tsworks,"data lakes,snowflake,compliance standards",full time,bengaluru,6
+94,data architect,snowflake data architect,hathway: now bounteous,"automated monitoring processes,micro-partitions",full time,bhopal,2
+95,data architect,gcp data architect,onix,"composer,enterprise data warehouse principles",full time,pune,7
+96,data architect,data architect,alp consulting ltd.,"data cataloguing,adls,healthcare domain experience",full time,bengaluru,12
+97,data architect,snowflake data architect,hathway: now bounteous,"automated monitoring processes,micro-partitions",full time,,2
+98,data architect,azure data architect,programmers.io,"big data platforms,database design and development",full time,bengaluru,17
+99,data architect,data architect,addwiser,"data pipelines,snowflake,optimization,ci/cd",full time,bengaluru,3
+100,data architect,data architect - insights & analytics x 360,philips,"storage optimization,architecture design",full time,bengaluru,9
+101,data architect,data architect (french language specialist),snaphunt,"communication skills,team management",full time,chennai,11
+102,data architect,data architect,ubique systems,"azure data factory adf,adls,hdinsights",full time,pune,10
+103,data architect,azure data architect,programmers.io,"big data platforms,database design and development",full time,pune,17
+104,data architect,azure data architect,programmers.io,"big data platforms,database design and development",full time,hyderabad,17
+105,data architect,cloud data architect /modeler,t-systems ict india pvt. ltd.,"data catalog and governance,telecom,data modelling",full time,pune,7
+106,data architect,spm data architect,trane technologies,"big data platforms,analytical,interpersonal",full time,bengaluru,6
+107,data architect,data architect,eviden,"warehouse management system,oci cloud",full time,chennai,7
+108,data architect,data architect,addwiser,"data pipelines,snowflake,optimization,ci/cd",full time,bengaluru,3
+109,data architect,senior data architect,repro india limited,"analytical,collaboration,extract transform load (etl)",full time,mumbai,7
+110,data architect,data architect,s&p global,"postgress/cloudsql,relational and dimensional techniques",full time,gurugram,7
+111,data architect,technology specialist (solution / data architect),dws group,"document store,google pub/sub,data modelling",full time,pune,7
+112,data architect,azure data architect,jio,"infrastructure as code,java,hadoop,.net",full time,bengaluru,13
+113,data architect,data architect,noventiq,"data marts,data lakes,leadership,etl processes",full time,mumbai,1
+114,data architect,data architect-(one of the largest infrastructure management company),headsup corporation,"management,data,architecture,azure",full time,,7
+115,data architect,expert data architect,swiss re,"information & data governance,data analysis",full time,hyderabad,6
+116,data architect,data architect,burckhardt compression,"data storage,cimp,dasca,cdmp,dama",full time,pune,11
+117,data architect,data architect,talentbot technologies,"snowflake,scikit-learn,ccpa,glue,sql",full time,hyderabad,11
+118,data architect,master data architect,bekaert,"mdm,data platforms,sap,data modeling",full time,bengaluru,8
+119,data architect,data architect,alp consulting ltd.,,full time,bengaluru,0
+120,data architect,senior data architect,mygwork - lgbtq+ business community,"problem solving,data lakes,collaboration",full time,bengaluru,12
+121,data architect,azure data architect_bangalore/mumbai,jio,"devops,linux,agile,windows,azure",full time,bengaluru,11
+122,data architect,lead data architect - aws,talentgigs,"aws migration,analytics & reporting,bi services",full time,hyderabad,7
+123,data architect,data architect,arrixa,"problem solving,cloud-based data platforms",full time,,1
+124,data architect,data architect,computronics systems (india) private limited,"nosql,ms excel,mysql,postgresql,scala",full time,hyderabad,11
+125,data architect,ai / data architect,growthaxl,"scikit-learn,fhir,data pipelining,cloud platforms",full time,hyderabad,11
+126,data architect,we are hiring for data architect,s3vision software pvt ltd,"snowflake,etl",full time,,8
+127,data architect,data architect,the family office company bsc (c),"data analysis,process analysis,database management",full time,bengaluru,1
+128,data architect,data architect,alp consulting ltd.,,full time,bengaluru,0
+129,data architect,data architect,alp consulting ltd.,"azure dev ops,azure data bricks,azure data factory",full time,bengaluru,6
+130,data architect,lead data architect (ai/ml),alp consulting ltd.,"ai,azure services,ml,power bi,olap,tableau",full time,hyderabad,10
+131,data architect,senior data architect,ascendion,"security,ai/ml,compliance,sql server",full time,bengaluru,12
+132,data architect,data architect,noventiq,"data marts,data lakes,leadership,etl processes",full time,mumbai,1
+133,data architect,master data architect,bekaert,"mdm,data platforms,sap,data modeling",full time,bengaluru,8
+134,data architect,data architect,alp consulting ltd.,"data cataloguing,adls,healthcare domain experience",full time,bengaluru,12
+135,data architect,big data architect,databricks,"cloud platforms,data lakes,white-boarding",full time,,8
+136,data architect,azure data architect,hirehappi,"synapse dw,stream analytics,data factory",full time,,9
+137,data architect,principal consultant - data architect,mygwork - lgbtq+ business community,"snowflake,confluent,ai/ml,data platforms",full time,bengaluru,7
+138,data architect,"senior vice president, data architect",bank of new york,"layouts,toolkits,security,multi-platform development tools",full time,chennai,10
+139,data architect,data architect,acentra health,"conversational ai,documentation,healthcare claim",full time,,6
+140,data architect,azure data architect,alp consulting ltd.,"dwh architecture,team management,ci/cd pipelines",full time,gurugram,16
+141,data architect,aws data architect,kyndryl,"ml/dl,ci/cd,dataops,monitoring/observability",full time,,8
+142,data architect,data architect - aws,newvision software & consultancy,"aws athena,aws aurora db,queues,aws dynamo db",full time,pune,1
+143,data architect,data architect - aws,newvision softcom &amp;amp; consultancy,"parquet,data sync,aurora db,datalake",full time,pune,1
+144,data architect,data architect,alp consulting ltd.,"airflow,data analytics platforms,interpersonal skills",full time,bengaluru,10
+145,data architect,azure data architect,clairvoyant,"azure cloud technologies,event hub,analytical skills",full time,pune,9
+146,data architect,tiger graph data architect,rgp,"tiger graph,gsql,java",full time,bengaluru,7
+147,data architect,data architect,alp consulting ltd.,"ai/ml,data analytics,hadoop,big data",full time,bengaluru,1
+148,data architect,manager_data architect_customer transformation,pwc,"map/reduce,serverless architecture,tealium",full time,bengaluru,5
+149,data architect,data architect,bristlecone,"big query,multi-cloud integration,cloud composer",full time,bengaluru,11
+150,data architect,"principal data architect - growth, marketing & sales solutions",mckinsey & company,"github copilot,sql,databricks,data warehousing",full time,bengaluru,13
+151,data architect,data architect,alstom,"airflow,apache spark,apache nifi,cassandra",full time,bengaluru,11
+152,data architect,expert data architect,swiss re,"data analysis,information & data governance",full time,hyderabad,6
+153,data architect,cloud data architect,aelux,"snowflake,power apps,teradata,iot technologies",full time,bengaluru,8
+154,data architect,"data architect , data",baxter medical devices,"agile architecture,data solutions architect",full time,bengaluru,6
+155,data architect,it data architect,siemens healthcare,"db technologies,data catalog tools",full time,bengaluru,1
+156,data architect,azure databricks,tata consultancy services ltd.,"azure blob,azure storage explorer,sql data warehouse",full time,delhi,0
+157,data architect,big data architect,adobe india,"airflow,deltalake,flink,py torch,flyte",full time,bengaluru,11
+158,data architect,technical architect - data/analytics -vice president -2,state street corporation,"airflow,machine learning frameworks,data lakehouse",full time,bengaluru,1
+159,data architect,data architect,deutsche bank,"filenet,security concepts,oracle/mysql",full time,pune,10
+160,data architect,enabling area - informatica developer - information technology,deloitte,"informatica mdm hub,packages,data stewardship workflows",full time,delhi,6
+161,data architect,data architect,ironmountain,"airflow,google data catalog,astronomer",full time,bengaluru,6
+162,data architect,cloud data architect,anixter,"airflow,iot technologies,power apps,mlflow",full time,bengaluru,8
+163,data architect,senior/lead cloud data architect,boston consulting group (bcg),"container technologies,azure hdinsights",full time,delhi,11
+164,data architect,data architect - urgent requirement,hr remedy india,"design,data architecture",full time,"chennai,pune",9
+165,data architect,snowflake data architect,mobile programming llc,"snow flake,snowflakes architect,snowflakes",full time,pune,14
+166,data architect,data architect,orion india systems private limited,"data architecture,data modeling",full time,"mumbai,kochi",14
+167,data architect,lead consultant- aws big data architect,genpact,"analytics,architecture,ai,data,dr,aws",full time,hyderabad,1
+168,data architect,data architect,infosys limited,"snowflake,teradata,oracle,sql,db2",full time,bengaluru,1
+169,data architect,senior principal technical data architect,red hat,"data pipeline management,snowflake,elt development",full time,bengaluru,1
+170,data architect,technical architect - data/analytics -vice president -2,state street,"airflow,machine learning frameworks,teradata",full time,hyderabad,1
+171,data architect,data analyst,rajashree dhananjay kunjir (proprietor of adimire ent),data analysis,full time,"kolkata,bengaluru",3
+172,data architect,technical architect - data/analytics -vice president -2,currenex state street trust company,"data fabric,snowflake,machine learning frameworks",full time,bengaluru,1
+173,data architect,data analyst,rajashree dhananjay kunjir (proprietor of adimire ent),data analysis,full time,"chennai,delhi",3
+174,data architect,data architect,orion india systems private limited,"data architecture,data modeling",full time,"chennai,coimbatore",14
+175,data architect,data modeler,acz global private limited,"data marts,sql database modeler,er/studio",full time,"bengaluru,hyderabad",9
+176,data architect,data analyst,rajashree dhananjay kunjir (proprietor of adimire ent),data analysis,full time,"mumbai,pune",3
+177,data architect,technical architect - data/analytics -vice president -2,state street,"airflow,machine learning frameworks,teradata",full time,bengaluru,1
+178,data architect,gcp data architect,coforge,"big query,data form,ga4 model,looker",full time,,0
+179,data architect,sr. data architect – gcp,rackspace technology,"bigtable,cloud pub/sub,cloud data store",full time,,4
+180,data architect,multi solution architect (data insights & audiences),adobe,"customer data platforms,ajo,customer journey analytics",full time,bengaluru,11
+181,data architect,cloud solution architect - data & ai,microsoft,"analytics,operational health,data,implementation",full time,,1
+182,data architect,sql data engineering architect,tata consultancy services ltd.,"pub-sub services,snowflake,data bricks",full time,hyderabad,1
+183,data architect,data engineer,havas media,linux server maintenance,full time,bengaluru,3
+184,data architect,cloud data architect,eversana,"snowflake,data warehouse,sql,python",full time,,12
+185,data architect,data science architect (standard),infogain,"project management,leadership,generative ai",full time,gurugram,11
+186,data architect,consulting - sama - ai & data - pega architect - consultant/senior consultant/manager -2,deloitte,"pega 7/8 version,sql,java",full time,bengaluru,7
+187,data architect,data architect,amplifi capital,"bi,databricks,sql,python,aws",full time,,6
+188,data architect,azure data architect,robert bosch,"streaming analytics,azure sql database,azure monitor",full time,,8
+189,data architect,lead platform architect - data platform,maersk global service centres india private limited,"virtual containers,application containers",full time,bengaluru,0
+190,data architect,azure data architect,bosch india,"data virtualization,spark/scala,streaming analytics",full time,,8
+191,data architect,azure data architect,robert bosch,"data virtualization,spark/scala,streaming analytics",full time,,8
+192,data architect,azure cloud data architect,torry harris integration solutions,"infrastructure as code,data marts,data fabric",full time,bengaluru,6
+193,data architect,data architect,gep worldwide,microsoft certified: azure solutions architect expert,full time,mumbai,1
+194,data architect,lead data architect,airbus pioneers,"project management,slate,palantir,bi analysis",full time,bengaluru,6
+195,data architect,hiring for sr. data architect,synechron technologies private limited,"aws cloud,machine learning,data governance",full time,pune,16
+196,data architect,director - powered data architect,kpmg india,"data analysis,project management,technical workstream",full time,bengaluru,16
+197,data architect,data architect,synechron technologies private limited,"data solutions,big data,hadoop",full time,"chennai,hyderabad",17
+198,data architect,database architect,ritu singh suri (proprietor of mitr hr solution),"db architect,database architect,database architecture",full time,kolkata,7
+199,data architect,data architect,synechron technologies private limited,"solution architecture,python",full time,"kolkata,delhi",11
+200,data architect,data architect,synechron technologies private limited,"data solutions,big data,hadoop",full time,"bengaluru,pune",17
+201,data architect,data architect,synechron technologies private limited,"solution architecture,python",full time,"bengaluru,pune",11
+202,data architect,data architect,narvi placement school (opc) private limited,"data lakes,rdms,sql,data warehouse",full time,"bengaluru,pune",7
+203,data architect,senior data architect,oracle,"pre-sales,data lakes",full time,bengaluru,12
+204,data architect,data architect,synechron technologies private limited,"data solutions,big data,hadoop",full time,mumbai,17
+205,data architect,principal data architect,oracle,"aptitude,pre-sales",full time,bengaluru,12
+206,data architect,azure data architect,kiash solutions llp,"microsoft data certification,azure data analytics",full time,bengaluru,12
+207,data architect,gcp data architect- dwh,alp consulting ltd.,"application infrastructure resources,data lake implementation",full time,bengaluru,16
+208,data architect,data architect,teksands.ai,"cloud etl,data warehouse,python,redshift",full time,mumbai,11
+209,data architect,azure data architect - chennai,kiash solutions llp,"microsoft data certification,azure data analytics",full time,chennai,1
+210,data architect,data architect,hub work,"etl processes,cloud-based data solutions",full time,chennai,11
+211,data architect,data architect,hackajob,"data analysis,technology,developing,thought leadership",full time,,1
+212,data architect,gm - data delivery (data architect) - thane || 15+ years,michael page,"google,cloud platforms,erp/crm/mfg/plm data models",full time,thane,16
+213,data architect,data architect [t500-11293],hme,"r,azure data factory,sql,etl,data modeling",full time,bengaluru,6
+214,data architect,data architect,programmers.io,"tool comparisons,pursuit,monetizing,data virtualization tools",full time,bengaluru,8
+215,data architect,aws data architect,robert bosch,"data processing,aws integration services",full time,,9
+216,data architect,data architect,prov hr solutions private limited,"project management,aws certified data analytics",full time,bengaluru,8
+217,data architect,data architect,programmers.io,"tool comparisons,pursuit,monetizing,data virtualization tools",full time,jaipur,8
+218,data architect,data architect,programmers.io,"tool comparisons,pursuit,monetizing,data virtualization tools",full time,hyderabad,8
+219,data architect,principal data architect for cloud data engineering,minfy,"data retrieval,data storage,multi-tier system",full time,hyderabad,6
+220,data architect,data engineering manager/data architect,sparkcognition,"ignition,osisoft/aveva pi,serverless architectures",full time,bengaluru,8
+221,data architect,senior data architect,tekclan,"data analysis,analytical,data warehousing solutions",full time,chennai,8
+222,data architect,data architect,prowesstics,"system development life cycle,visualization",full time,chennai,11
+223,data architect,azure data architect,robert bosch,"implementation,nosql database,configurable solutions",full time,,8
+224,data architect,data architect,mclaren strategic solutions (mss),"master data management systems,java,api",full time,,5
+225,data architect,spm data architect,trane technologies,"big data platforms,data management",full time,bengaluru,6
+226,data architect,data architect,mygwork - lgbtq+ business community,"cloudsql,automotive industry,data models",full time,gurugram,7
+227,data architect,data architect,twenty20 systems,"dbt labs,snowflake,denodo",full time,bengaluru,1
+228,data architect,data architect,alp consulting ltd.,"data cataloguing,adls,healthcare domain experience",full time,bengaluru,12
+229,data architect,data architect,kiash solutions llp,"microsoft common data model,synapse analytics",full time,bengaluru,3
+230,data architect,data architect,prowesstics,"system development life cycle,visualization",full time,chennai,11
+231,data architect,data architect i,mygwork - lgbtq+ business community,"relational database concepts,project management skills",full time,hyderabad,3
+232,data architect,it data architect,veolia water technologies & solutions,"data solution architecture,self service analytics",full time,bengaluru,4
+233,data architect,technical lead - big data architect,techugo,"kstreams,s3,python,rds,scala,pyspark",full time,,4
+234,data architect,senior data architect,ria advisory,"spark structured streaming,information modelling",full time,pune,11
+235,data architect,azure data architect,robert bosch,"data virtualization,spark/scala,streaming analytics",full time,,8
+236,data architect,sr data architect,alp consulting ltd.,"snowflake,architecture,iics,jsons,mdm",full time,bengaluru,10
+237,data architect,data architect,hub work,"etl processes,cloud-based data solutions",full time,chennai,11
+238,data architect,data architect,may i help you,"cloud-based data solutions,database management",full time,bengaluru,6
+239,data architect,azure (data) architect,kiash solutions llp,,full time,bengaluru,0
+240,data architect,data architect,intel,data normalization,full time,bengaluru,9
+241,data architect,data architect,grid dynamics,"ml platforms,data lakes",full time,hyderabad,1
+242,data architect,azure data architect,cilio automationfactory,"azure sql data warehouse,databricks notebook",full time,,1
+243,data architect,data architect,advarra,"project management,warehousing,analytics",full time,bengaluru,8
+244,data architect,data architect,nisum,"azure cloud data services,unstructured datasets",full time,hyderabad,11
+245,data architect,data architect,hub work,"sap concur,eventbridge,veeva vault,azure cost",full time,chennai,6
+246,data architect,data architect (snowflake),orion innovation,"snowflake,gcp,azure,sql,aws,etl",full time,chennai,6
+247,data architect,pega data architect,sadup softech,"parallel development,pega decisioning,pega apis",full time,pune,8
+248,data architect,data architect | bdo-it,robert bosch,"data models,data marts,real-time,data workflows",full time,,9
+249,data architect,lead data architect,saras analytics,"snowflake,bigquery,azure,python,google cloud",full time,hyderabad,0
+250,data architect,data expert / senior data architect,robert bosch,"knowledge graphs,distributed data management",full time,,8
+251,data architect,pega data architect,sadup softech,"pega apis,multivariate circumstancing,marketing",full time,pune,9
+252,data architect,pega data architect,sadup softech,"pega apis,multivariate circumstancing,marketing",full time,pune,9
+253,data architect,data architect,kiash solutions llp,"azure architectural skills,azure function,sql dw",full time,chennai,7
+254,data architect,data architect i,s&p global,"data management system,financial concepts",full time,hyderabad,3
+255,data architect,sr solutions architect (data modeler),"inventiv health clinical sre, llc","aws certified solutions architect,dama,data integration technologies",full time,salem,6
+256,data architect,senior manager solution architect/ data engineering manager,genpact,"data catalog,data management,data migration",full time,bengaluru,12
+257,data architect,solution architect - integrations & data management,eaton,"cloud platforms,azure event bus,confluent kafka",full time,pune,9
+258,data architect,snowflake data warehouse developer,inspiration manpower consultancy private limited,"snowflake developer,snowflake,healthcare",full time,bengaluru,9
+259,data architect,"data modeler- bangalore, india",sap fioneer,"erm,optimization,serm",full time,bengaluru,4
+260,data architect,cloud data solution architect,expleo,"analytical,azure solutions architect expert",full time,pune,9
+261,data architect,principal architect - enterprise data architecture,zf friedrich,"emerging technologies,business process modeling",full time,chennai,17
+262,data architect,data engineering manager,dpdzero,"ccpa,cobit,data validation,columnar",full time,bengaluru,7
+263,data architect,lead data migration engineer,q2,"erwin,micro services",full time,bengaluru,6
+264,data architect,technical architect - bi/dwh/big data ( 7-9 years),r systems,"enterprise data modelling,data lakes,dwh administration",full time,pune,9
+265,data architect,senior manager,exl it service management,"etl and data modelling,data analysis,sql",full time,gurugram,0
+266,data architect,senior specialist - package implementation,alp consulting ltd.,"data queries,sap solution architects,data accessibility",full time,hyderabad,0
+267,data architect,cto - level - ai and llm expert (contract to hire),lifemagic group,"server infrastructure,llm,product vision",full time,bengaluru,6
+268,data architect,data design analyst,alp consulting ltd.,"cloud data lake environments,logical",full time,bengaluru,7
+269,data architect,data engineer,havas group,"linux server maintenance,cloud environments",full time,bengaluru,3
+270,data architect,gcp data architect,changeleaders consulting private limited,"gcp,bigquery,python,pyspark",full time,"bengaluru,mumbai",16
+271,data architect,data architect,talent 21 management and shared services private limited,"data governance,data modelling",full time,pune,10
+272,data architect,azure data architect,company name confidential,"etl developer,azure,bigdata",full time,bengaluru,13
+273,data architect,data modeler or data architect,supro info solutions private limited,"ea sparx,tm forum data model,snowflake",full time,"bengaluru,pune",13
+274,data architect,"data center physical security architect, apac data center design engineering",amazon music,"physical security,project management,drafting technologies",full time,,7
+275,data architect,full time position with data architect in hyderabad location,hucon innovations private limited,"aws,data warehouse,sql",full time,hyderabad,13
+276,data architect,senior solution azure data architect,hr addons,"azure synapse analytics,data flows,azure data warehouse",full time,bengaluru,12
+277,data architect,data engineer- architect,zf friedrich,"problem-solving,kanban,data orchestration",full time,chennai,8
+278,data architect,solutions architect (data engineering),phdata,"airflow,luigi,matillion,snowflake,dbt",full time,bengaluru,5
+279,data architect,senior data architect | pune,wovv technologies (division of techno compass consulting pvt ltd),"ms azure,gcp,aws,data warehouse","full time,work from home",pune,6
+280,data architect,data architect,gspann technologies,data architect,full time,"gurugram,hyderabad",13
+281,data architect,lead platform architect - data platform,a.p. moller - maersk,,full time,bengaluru,0
+282,data architect,lead platform architect - data platform,a.p. moller - maersk,"virtual containers,application containers",full time,bengaluru,0
+283,data architect,architect-data modelling,tiger analytics,"snowflake schema,data vault modelling,data modelling",full time,"bengaluru,chennai",11
+284,data architect,senior solution architect (data integration),informatica,"cloud mass ingestion,cloud application integration",full time,bengaluru,11
+285,data architect,senior solution azure data architect,hr addons,"azure synapse analytics,data flows,azure data warehouse",full time,bengaluru,12
+286,data architect,azure data architect,bosch india,"implementation,nosql database,configurable solutions",full time,,8
+287,data architect,azure data architect,knack consulting services pvt ltd.,"synapse studio,azure key vault,adf metadata driven pipelines",full time,bengaluru,9
+288,data architect,data architect,blumetra solutions,"data lakes,cdc,data controls,ccpa,idmc",full time,hyderabad,9
+289,data architect,data architect (10181),andor tech (india) pvt ltd,,full time,bengaluru,11
+290,data architect,azure data architect,changeleaders consulting private limited,"azure,azure data lake,azure databricks",full time,"bengaluru,mumbai",10
+291,data architect,data architect,inspiration manpower consultancy private limited,"cloud technologies.,data governance",full time,bengaluru,0
+292,data architect,data architect,company name confidential,working experience in data migration and conversions. working experience on sql server and sql server scripts,"contract job,part time",,8
+293,data architect,hiring data architect,job store consulting,"azure purview,azure fabric services,knowledge in python",full time,"bengaluru,hyderabad",13
+294,data architect,data architect,supro info solutions private limited,"dimensional model,data vault",full time,"bengaluru,chennai",16
+295,data architect,data architect,inspiration manpower consultancy private limited,"data quality,data modeling",full time,bengaluru,0
+296,data architect,"data architect (azure data factory, databricks, pyspark) for our banking client in chennai.",optimum solutions pte ltd,"database structure principles,data visualization tools",full time,chennai,11
+297,data architect,aws data architect,akkodis,"data accuracy,data pipelines,industry best practices",full time,bengaluru,8
+298,data architect,"designer, solution/data architect",lexmark international,"design/implement data platform solutions,bigdata platform",full time,kolkata,0
+299,data architect,senior data architect,shyftlabs,"airflow,master data management,governance",full time,hyderabad,3
+300,data architect,azure data architect,syren cloud inc,"graph analysis,structured data,segmentation techniques",full time,hyderabad,13
+301,data architect,cloud data architect at bangalore,thinkparms infotech pvt ltd,"azure,databricks",full time,bengaluru,15
+302,data architect,aws data architect,akkodis,"data accuracy,data pipelines,industry best practices",full time,bengaluru,8
+303,data architect,data architect,shyftlabs,"airflow,snowflake,dbt,java,bigquery",full time,hyderabad,5
+304,data architect,azure data architect,jio platforms limited (jpl),"infrastructure as code,java,hadoop,.net",full time,bengaluru,13
+305,data architect,data architect,newvision software,"azure stack,data handling,azuredevops",full time,pune,1
+306,data architect,oracle data architect,celonis,"erp systems,git,data modeling,solution designing",full time,bengaluru,4
+307,data architect,data architect,eci,"azure fabric services,azure purview,master data management",full time,indore,13
+308,data architect,data architect commercial,bekaert industries,"problem-solving,etl processes,synapse analytics",full time,bengaluru,11
+309,data architect,data architect (10181),andor tech (india) pvt ltd,"enterprise tooling,data quality improvement",full time,bengaluru,6
+310,data architect,senior data architect,adobe india,"client identification,product/services opportunities",full time,bengaluru,1
+311,data architect,hm_data architect,xander talent,"data lakes,azure,data warehousing,aws",full time,bengaluru,17
+312,data architect,data architect,tarento group,"graphdb,visualization tools,analytical skills",full time,delhi,1
+313,data architect,azure data architect,coeo,"data lifecycle,azure databricks,python",full time,hyderabad,11
+314,data architect,data architect,capco,"policy manager,business analysis,dama",full time,bengaluru,7
+315,data architect,senior manager solution architect/ data engineering manager,genpact,,full time,hyderabad,0
+316,data architect,lead data architect,grethena,"dpa regulations,delta lake,metadata,pyspark",full time,chennai,1
+317,data architect,azure data architect,coeo,"data lifecycle,stored procedures,azure databricks",full time,hyderabad,11
+318,data architect,lead data migration engineer,q2,"erwin,sql server",full time,bengaluru,6
+319,data architect,data architect,alp consulting ltd.,"ai/ml,data analytics,hadoop,big data",full time,bengaluru,1
+320,data architect,freelance data architect,nrm analytix,"snowflake,consulting,training,data bricks",full time,,4
+321,data architect,data architect,programmers.io,"etl processes,data pipelines,implementation guides",full time,hyderabad,11
+322,data architect,aws data architect,kyndryl,"snowflake,dms,lakeformation,api gw",full time,bengaluru,8
+323,data architect,technical architect- azure data,noventiq,"technology strategy,continuous learning",full time,mumbai,1
+324,data architect,gcp cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,git/bitbucket",full time,chennai,13
+325,data architect,gcp cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,git/bitbucket",full time,hyderabad,13
+326,data architect,gcp cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,git/bitbucket",full time,bengaluru,13
+327,data architect,data solution architect,alp consulting ltd.,"cloud pub/sub,devops workflows,event hub",full time,bengaluru,13
+328,data architect,data solution architect,gainwell technologies,"emerging technologies,architectures,executive team",full time,chennai,5
+329,data architect,azure data solution architect,alp consulting ltd.,"data bricks,synapse,containerization,azure data explorer",full time,hyderabad,8
+330,data architect,architect : big data,databricks,"r,ai,java,data science",full time,delhi,7
+331,data architect,principal architect (aws big data),mks instruments,"ai,analytics,powershell,data modeling",full time,,4
+332,data architect,gcp cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,git/bitbucket",full time,pune,13
+333,data architect,architect / tech lead informatica data management cloud (idmc),"cittabase solutions pvt ltd.,","cloud database architecture,data modeling concepts",full time,chennai,10
+334,data architect,gcp cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,git/bitbucket",full time,,13
+335,data architect,data protection architect,alp consulting ltd.,"dynamic masking,gcp,iam,dlp",full time,bengaluru,8
+336,data architect,technical architect- azure data,noventiq,"technology strategy,continuous learning",full time,mumbai,1
+337,data architect,it solution architect - data and integrations,solventum,"data,mobile,analytics,java,devops",full time,bengaluru,4
+338,data architect,solution architect data analytics,alp consulting ltd.,,full time,bengaluru,0
+339,data architect,senior technical architect data engineer,alp consulting ltd.,"pyspark,hive,hadoop,scala,spark,big data technologies",full time,bengaluru,11
+340,data architect,tecnical architect data engineer,alp consulting ltd.,,full time,bengaluru,0
+341,data architect,data warehouse architect,evnek,"modeling,analytics tools,large data,entity relationship",full time,hyderabad,12
+342,data architect,senior data warehouse architect,yash technologies,"risk management,project management tool",full time,hyderabad,6
+343,data architect,technical architect - data science,salesken,"faiss,keres,tenserflow,bert,llm,ml",full time,bengaluru,1
+344,data architect,architect data engineer,alp consulting ltd.,"hive,scala,spark,pyspark,hadoop,big data technologies",full time,bengaluru,6
+345,data architect,advisory aws data platform senior manager,kpmg india,"aws architect,aws",full time,gurugram,1
+346,data architect,technical architect data engineer,alp consulting ltd.,"pyspark,hive,hadoop,scala,spark,big data technologies",full time,bengaluru,1
+347,data architect,technical architect data engineer,alp consulting ltd.,"pyspark,hive,big data technologies,hadoop",full time,bengaluru,1
+348,data architect,technical architect data engineer,alp consulting ltd.,"pyspark,hive,big data technologies,hadoop",full time,bengaluru,1
+349,data architect,senior architect data governance,"cittabase solutions pvt ltd.,","data governance tools,data privacy regulations",full time,chennai,9
+350,data architect,technical architect data engineer,alp consulting ltd.,"pyspark,hive,big data technologies,hadoop",full time,bengaluru,1
+351,data architect,product data solutions architect,alp consulting ltd.,"product information management,mdm,translation",full time,bengaluru,1
+352,data architect,data governance consultant,compunnel inc.,"risk management,data stewardship,business glossaries",full time,,6
+353,data architect,data architecture,narvi placement school (opc) private limited,"data lakes,sql,azure,devops,rdms",full time,"bengaluru,pune",7
+354,data architect,staff data & information architect,ge healthcare,"data analysis,visualization,celonis,pql",full time,bengaluru,5
+355,data architect,solution architect,orion india systems private limited,"architect,azure,spark",full time,"chennai,kochi",13
+356,data architect,data analytics senior lead - data engineering architect,telstra,"eventhubs,synapse,nosql databases,graphdb(neo4j)",full time,bengaluru,10
+357,data architect,senior principal consultant-data integration architect,genpact,"data processing,big data processing,data integration technology",full time,hyderabad,12
+358,data architect,technical architect - data lake,symphonyai,"data ownership,iceberg,trino,data classification",full time,bengaluru,10
+359,data architect,data modeler onsite mal aysia,kamlax global technologies sdn bhd,"datamodeling,transactional data modeler",full time,,10
+360,data architect,architect - big data,databricks,"ai,analytics,r,java",full time,delhi,7
+361,data architect,global it data solution architect senior manager,boston consulting group,"snowflake,maintainability,technical coaching",full time,delhi,8
+362,data architect,senior technical architect (azure data factory),coforge,"documentation,production teams,application package selection",full time,,19
+363,data architect,snowflake/aws architect,yash technologies,"system performance,industry standards,stored procedures",full time,hyderabad,7
+364,data architect,java developer,may i help you,"data quality manager,quality and training manager",full time,bengaluru,0
+365,data architect,oracle apps dba (ebs r12),harsco,"security,data models,non production,table maintenance codes",full time,hyderabad,4
+366,data architect,talend/edh/aws based big data engineer with streaming experience (remote),uplers,"problem solving attitude,ci/cd,pyspark",full time,chandigarh,9
+367,data architect,associate director- sap analytics practices,phoenix business consulting (intelligent enterprise),"data sphere,snowflake,etl/elt,presales",full time,hyderabad,13
+368,data architect,data integration architect,marx enterprise transformation architecture,"data pipelines,sap data models,sqlscript",full time,,6
+369,data architect,senior data engineer & architect,amina bank,"internet architecture,hdinsight,cloud-based data storage",full time,mumbai,8
+370,data architect,azure cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,aws certification",full time,hyderabad,13
+371,data architect,azure cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,aws certification",full time,chennai,13
+372,data architect,data solution architect / engineering leader - r01535330,brillio,"step function,visualization,analytics",full time,bengaluru,10
+373,data architect,data solution architect,dhira,"data pipelines,master data management",full time,,11
+374,data architect,ref33473e-associate director - rna (data solution architect-gcp),wns,"api data integration,data integration solutions",full time,bengaluru,15
+375,data architect,staff data & information architect,ge healthcare,"aws native services,aws certifications,security",full time,bengaluru,6
+376,data architect,multi solution architect (data insights & audiences),adobe india,"adobe experience cloud,personalization platforms",full time,bengaluru,11
+377,data architect,azure cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,aws certification",full time,,13
+378,data architect,architect 1 - data engineer,ironmountain,"graphdb,python,ml,devops,kafka,linux",full time,bengaluru,7
+379,data architect,d&a architect - data & analytics,twinings,"d&a,cloud,erp,saas,information security",full time,pune,13
+380,data architect,senior salesforce developer,iff,"salesforce,platform events,event driven architectures",full time,chennai,8
+381,data architect,data integration architect,alstom,"dell boomi,xml,edi,json,rest apis,sql",full time,bengaluru,6
+382,data architect,h1b visa sponsorship for it professionals,intalent llc,"performance management,cloud engineer",full time,hyderabad,9
+383,data architect,big data developer architect and tester-hadoop azure databricks.,mindlinks informatics private limited,"teradata,databricks.,hadoop,big data",full time,hyderabad,0
+384,data architect,azure data solutions architect,birlasoft limited,azure,full time,"bengaluru,hyderabad",16
+385,data architect,azure data engineer/architect,aurc solutions,azure,full time,hyderabad,9
+386,data architect,java developer,may i help you,"data quality manager,quality and training manager",full time,bengaluru,0
+387,data architect,lead systems administrator,powerschool india,"salesforce change management,data structuring",full time,bengaluru,7
+388,data architect,database architect,ezinformatics solutions private limited,"db architect,architecture,database architect",full time,kolkata,10
+389,data architect,vlocity technical lead,prodapt,"salesforce,technical application architect",full time,chennai,6
+390,data architect,data engineering architect,anblicks,"self-service bi,erp system,design,snowflake",full time,hyderabad,6
+391,data architect,solution / delivery architect (data sme),ollion,"delivery,data migrations,analytical,etl pipelines",full time,bengaluru,10
+392,data architect,data science architect,infosys limited,"airflow,kubeflow,data robot,ml flow",full time,bengaluru,10
+393,data architect,sap hana ptp architect (data migration),protominds,"sap s/4 hana,symix,engineering,computer science",full time,chennai,6
+394,data architect,sx/eia - architect - data onboarding,robert bosch,"stardog,databricks unity catalog,catena-x",full time,,16
+395,data architect,solution architect aws - data technologies,syngenta,"ci/cd,business intelligence,data pipelines",full time,pune,1
+396,data architect,sap data analytics architect,indiglobe it solutions,"sap bw/4hana,snowflake,import data connections",full time,hyderabad,11
+397,data architect,solution architect aws - data technologies,syngenta,"etl/elt,data technologies,compliance,data lakes",full time,pune,1
+398,data architect,architect-2 data science,unisys,"leadership,quantitative discipline,data pipelines",full time,bengaluru,1
+399,data architect,data domain architect- associate,jpmorgan chase & co.,"jira align,snowflake,alteryx,confluence",full time,hyderabad,5
+400,data architect,data center networking solutions architect,cisico,"ccna,ccnp,ccdp,ccie",full time,bengaluru,7
+401,data architect,data visualization architect,vibrant staffing solutions pvt ltd,"snowflake,google,dashboard performance optimization",full time,hyderabad,7
+402,data architect,azure-cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,delta lake",full time,pune,13
+403,data architect,data solution architect,metlife,"azure bigdata ecosystem,business knowledge",full time,hyderabad,8
+404,data architect,solution architect aws - data technologies,syngenta,"data lakes,etl processes,ci/cd,data solutions",full time,pune,1
+405,data architect,lead architect data,syngenta,"sagemaker,devops engineering,dash,aws cloud solutions",full time,pune,10
+406,data architect,azure-cloud data solution architect,nilasu consulting services pvt. ltd.,"lakehouse,architecting,data fabric,delta lake",full time,hyderabad,13
+407,data architect,chc master data management (mdm) architect,sanofi,"standardization,informatica iics,data harmonization",full time,hyderabad,6
+408,data architect,"technical architect-i, data science",bold,"xgboost ml,llms,data pipelines,tensorflow",full time,,11
+409,data architect,data solution architect,supernal infotech private limited,"sagemaker,amazon q,aws glue,redshift","contract job,part time",bengaluru,7
+410,data architect,solution architect data center,leadsky,"data center architect,principal architect",full time,delhi,12
+411,data architect,data solution architect,metlife,"azure bigdata ecosystem,business knowledge",full time,hyderabad,8
+412,data architect,data science architect,apexon,"ai-ml,nlp,ocr,python",full time,"bengaluru,hyderabad",15
+413,data architect,data solution architect,prajosh technologies private limited,aws cloud,full time,,6
+414,data architect,etl +data visualization architect,vibrant staffing solutions pvt ltd,"snowflake,google,dashboard performance optimization",full time,hyderabad,7
+415,data architect,associate architect - test associate architect - (data science & ai),icertis solutions,"ai,technical expertise,frameworks,technical documentation",full time,pune,10
+416,data architect,data protection architect,alp consulting ltd.,"dynamic masking,gcp,iam,dlp",full time,bengaluru,8
+417,data architect,data solution architect,alp consulting ltd.,"cloud pub/sub,devops workflows,event hub",full time,bengaluru,13
+418,data architect,data visualization architect,vibrant staffing solutions pvt ltd,"snowflake,google,dashboard performance optimization",full time,hyderabad,7
+419,data architect,data integration architect,alstom transportation,"dell boomi,xml,edi,json,rest apis,sql",full time,bengaluru,6
+420,data architect,"dataiku architect (data storage, data ingestion & integration, data processing)",iriseidea,"dataiku,azuredevops,aws,api,python",full time,pune,3
+421,data architect,"principal solution architect (data management, data integration)",qliktech,"ipaas,bi analytics,talend etl,r,data integration",full time,bengaluru,11
+422,data architect,"architect, data science",pepsi foods,"statistics,ml ops,r,large language model",full time,hyderabad,6
+423,data architect,associate architect - test associate architect - (data science & ai),icertis solutions,"ai,technical collaboration,technical skills",full time,pune,10
+424,data architect,technical architect data engineer,alp consulting ltd.,"pyspark,hive,big data technologies,hadoop",full time,bengaluru,1
+425,data architect,sr data engineer/architect,talent folks,"engineering experience,data platform,data mesh",full time,chennai,8
+426,data architect,"architect,data scientist",pepsi foods,"theano,r,tensorflow,sas,keras,python",full time,hyderabad,7
+427,data architect,solution architect data analytics,alp consulting ltd.,"generative ai,cvml,causal inference,ci/cd",full time,bengaluru,1
+428,data architect,architect data engineer,alp consulting ltd.,"hive,scala,spark,pyspark,hadoop,big data technologies",full time,bengaluru,6
+429,data architect,"architect,lead data engineer",pepsi foods,"azure storage explorer,hdfs,azure synapse analytics",full time,hyderabad,7
+430,data architect,principal data solution architect,the goodyear tire & rubber company,"sap/r3,nlp,data warehouse,data analytics",full time,delhi,9
+431,data architect,"architect,fobo data analyst",pepsi foods,"it technology platforms,data warehouse development",full time,hyderabad,3
+432,data architect,solution architect,birlasoft,"synapse,architecture,azure databricks",full time,,15
+433,data architect,"associate (data engineering) â pyxis, data business coe",bain & company,"github,python,sql,etl",full time,gurugram,2
+434,data architect,senior data engineer,nissan motor corporation,"no-sql,snowflake,talend etl,java,scala",full time,thiruvananthapuram,6
+435,data architect,director,iks health,"ci/cd,ai integration,performance optimization",full time,mumbai,17
+436,data architect,senior technical lead,infinite computer solutions india pvt. ltd.,"data visualization tools,analytical skills,segmentation techniques",full time,bengaluru,1
+437,data architect,director,iks health,"ci/cd,deployment manager,pub/sub,python",full time,hyderabad,17
+438,data architect,senior low code apps developer,vertiv,"spanish,german,object-oriented programming",full time,pune,3
+439,data architect,data engineering manager,kanerika inc,"microsoft fabric,data pipelines,data apis",full time,hyderabad,7
+440,data architect,enterprise architect (java/jee/j2ee/ dot net/ cloud) - mumbai,pwc,"applications architecture,java,java enterprise edition",full time,mumbai,12
+441,data architect,enterprise architect (java/jee/j2ee/ dot net/ cloud) - mumbai,pwc,"applications architecture,java",full time,mumbai,12
+442,data architect,analytics engineer,opendoor,"workflow management tools,data pipelines",full time,hyderabad,4
+443,data architect,senior data engineer,tmf (thailand) limited,"ci/cd,data cataloging,spark-streaming",full time,pune,6
+444,data architect,salesforce solution architect,ciel hr services,"crm,vlocity,salesforce",full time,chennai,0
+445,data architect,"enterprise architect- cloud infrastructure @ mumbai"" (early joiners)",pwc,"it organization,digital strategy",full time,mumbai,6
+446,data architect,senior low code apps developer,vertiv,"low code platforms,power apps,object-oriented programming principles",full time,pune,3
+447,data architect,data analyst trainee(power bi/sql)-,prometrics solutions,"analytical skills,problem-solving,attention to detail",full time,,1
+448,data architect,low code apps developer,vertiv,"object-oriented programming,power apps",full time,pune,1
+449,data architect,lead data engineer(tech lead),roche,"snowflake,security compliances,airflow",full time,pune,12
+450,data architect,director,iks health,"ci/cd,deployment manager,pub/sub,python",full time,hyderabad,17
+451,data architect,senior manager,exl,,full time,gurugram,0
+452,data architect,salesforce architect,ciel hr services,"salesforce,architect",full time,chennai,0
+453,data architect,data engineer,network18 media & investments limited,"big data services,amazon athena,parquet file format",full time,,9
+454,data architect,azure data engineer,vidpro consultancy services,"azure datafactory,pipelines,azure,azure databricks",full time,chennai,6
+455,data architect,senior engineer - measurements,dnv,"iec 61400-1361400-12/61400-11/61400-21,cleaning",full time,bengaluru,9
+456,data architect,solutions architect,vayuz technologies,"cloud-based infrastructures,data lake architectures",full time,mumbai,11
+457,data architect,"468479-gcp - bigquery ,cloud storage, pyhton",alp consulting ltd.,google professional cloud architect certification,full time,bengaluru,4
+458,data architect,senior data engineer,tmf,"ci/cd,master data management,data cataloging",full time,pune,4
+459,data architect,seniorâ dataâ engineerâ (azure),numentica,"kimball,power apps,matillion,dev-ops",full time,coimbatore,5
+460,data architect,aws redshift admin,iti data,"enterprise data warehouse,aws redshift,data modeling",full time,chennai,7
+461,data architect,solutions architect,vayuz technologies,"cloud-based infrastructures,data lake architectures",full time,mumbai,11
+462,data architect,senior database engineer,cloudhire,"data pipelines,streaming analytics,mdm",full time,delhi,8
+463,data architect,engineer - software medix,vertiv,"spanish,german,versioning,repository management",full time,pune,0
+464,data architect,azure data engineer,vidpro consultancy services,"azure datafactory,pipelines,azure,azure databricks",full time,gurugram,6
+465,data architect,data analyst_2,michelin,"microsoft teams,microsoft power platform",full time,pune,1
+466,data architect,azure data engineer,vidpro consultancy services,"circleci,airflow,dev/ops,azure,hive,pyspark",full time,pune,9
+467,data architect,lead software engineer - adobe experience platform (aep) & customer journey analytics (cja),the wells fargo foundation,"adobe experience platform,adobe xdm,campaign",full time,bengaluru,7
+468,data architect,vlocity senior software engineer,sagclay,"lead management,app exchange,wave cloud",full time,bengaluru,5
+469,data architect,lead software engineer,s&p global,"apache nifi,python,gcp,react,spark",full time,hyderabad,9
+470,data architect,associate director information architect,s&p global,"data analysis,cloud native architectures,relational database management",full time,hyderabad,6
+471,data architect,associate director information architect,s&p global,"data analysis,cloud native architectures,relational database management",full time,,6
+472,data architect,manager,pwc,,full time,"tonk,jaipur",11
+473,data architect,lead software engineer - adobe experience platform (aep) & customer journey analytics (cja),the wells fargo foundation,"adobe experience platform,adobe xdm,campaign",full time,hyderabad,7
+474,data architect,senior database engineer,cloudhire,"data pipelines,streaming analytics,mdm",full time,hyderabad,8
+475,data architect,data engineer,havas media network india,"google cloud platform,linux,powerbi,sql",full time,bengaluru,3
+476,data architect,data engineer - databricks,"techelligence, inc","reporting application developers,health and safety guidelines",full time,hyderabad,4
+477,data architect,engineer - software medix,vertiv,"spanish,german,versioning,repository management",full time,pune,0
+478,data architect,azure data engineer,vidpro consultancy services,"circleci,airflow,dev/ops,azure,hive,pyspark",full time,,9
+479,data architect,senior data engineer,tmf group,"ci/cd,master data management,data cataloging",full time,pune,6
+480,data architect,senior salesforce developer,international flavors & fragrances (iff),"salesforce sales cloud,lighting web components",full time,chennai,8
+481,data architect,business associate,cognizant,,full time,bengaluru,0
+482,data architect,senior data engineer - assistant manager,currenex state street trust company,"autosys/airflow,data processing,analytical",full time,hyderabad,6
+483,data architect,associate director information architect,s&p global,"data analysis,cloud native architectures,relational database management",full time,mumbai,6
+484,data architect,database architect - rr/552/2024,emids,"encryption mechanisms,access policies,cloud resources",full time,bengaluru,13
+485,data architect,data quality analyst,synechron technologies private limited,"data quality analyst,data quality,data management",full time,"kolkata,delhi",6
+486,data architect,solution architect,birlasoft,"transformation,data quality initiatives,data warehouse optimization",full time,,6
+487,data architect,data quality analyst,synechron technologies private limited,"data quality analyst,data quality,data management",full time,"bengaluru,pune",6
+488,data architect,cloud devops architect,alstom,"aks,disaster recovery,go programming",full time,bengaluru,11
+489,data architect,head of analytics with innovative entity in insurance industry,10xtd,"statistical analysis techniques,data manipulation",full time,hyderabad,7
+490,data architect,senior data engineer,moodys analytics,"lake formation,rds - postgres,step functions",full time,bengaluru,8
+491,data architect,cloud devops architect,alstom,"go,aks,vmware,openshift,powershell",full time,bengaluru,11
+492,data architect,software architect,alstom,"containerization,helm charts,aks,git",full time,hyderabad,12
+493,data architect,oracle database migration consultant,oracle,"oracle db architecture,oci certification architect",full time,bengaluru,4
+494,data architect,senior business engineer rm infotech(data management/data architecture),swiss re,"powerpoint,english communication skills",full time,hyderabad,8
+495,data architect,senior business engineer rm infotech(data management/data architecture),swiss re,"word,powerpoint,data modelling",full time,hyderabad,8
+496,data architect,principal software engineering manager,microsoft,"runtime,engineering,data storage,infrastructure",full time,,1
+497,data architect,solution architect - tagetik,nissan motor corporation,"tagetik,solution thinking,cch,business analysis",full time,thiruvananthapuram,6
+498,data architect,data modeler,indisquad,"etl processes,data analysis,data integrity",full time,,1
+499,data architect,"tech transformation leader | banking & cap mkts (digital & core banking, retail/payments/ cards)",ernst & young,"asset management firms,accounting,reliability",full time,bengaluru,17
+500,data architect,google cloud architect,tata consultancy services ltd.,"data models,re-engineering,dependency maps",full time,bengaluru,1
+501,data architect,power bi architect,tata consultancy services ltd.,"power bi architect,microsoft data verse,powerautomate",full time,hyderabad,6
+502,data architect,cyber sec archt/engr ii,honeywell,"microsoft dlp,microsoft cloud app security",full time,bengaluru,3
+503,data architect,assistant manager- google cloud platform rapid prototype engineer,kpmg india,generative ai,full time,bengaluru,4
+504,data architect,jobs for freshers,edge it solutions,"cashier,cash handling,teller,cash,accountant",full time,,0
+505,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+506,data architect,jobs for freshers,edge it solutions,"cashier,cash handling,cash,teller,petty cash",full time,,0
+507,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+508,data architect,azure data engineer,vidpro consultancy services,circleci,full time,,9
+509,data architect,jobs for freshers,edge it solutions,"data entry,design,devlopment,content",full time,,0
+510,data architect,jobs for freshers,edge it solutions,"cashier,cash handling,teller,petty cash",full time,nizamabad,0
+511,data architect,senior manager,exl it service management,"powerdesigner,system development life cycle",full time,gurugram,10
+512,data architect,senior data engineer,moodys analytics,"lake formation,rds - postgres,step functions",full time,bengaluru,8
+513,data architect,jobs for freshers,edge it solutions,"cashier,cash handling,teller,accountant",full time,,0
+514,data architect,freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+515,data architect,storage admin,souave recruitment consultants,"hp ase - storage solutions architect v2,hp ase - data protector software v9",full time,pune,8
+516,data architect,dot net technical architect,narvi placement school (opc) private limited,"dot net architect,ci/cd,.net,c#,cloud",full time,"mumbai,pune",32
+517,data architect,senior manager,exl,,full time,gurugram,0
+518,data architect,technical architect,"o9 solutions, inc.","delta lake,nifi,network configurations,oltp modeling",full time,bengaluru,6
+519,data architect,freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,"karimnagar,khammam",0
+520,data architect,freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+521,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+522,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,warangal,0
+523,data architect,jobs for freshers,edge it solutions,"data entry,design,devlopment,content",full time,,0
+524,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+525,data architect,freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+526,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,,0
+527,data architect,jobs for freshers,edge it solutions,"cashier,cash handling,cash,teller,petty cash",full time,,0
+528,data architect,freshers,edge it solutions,"cashier,cash handling,teller,cash,petty cash",full time,,0
+529,data architect,jobs for freshers,edge it solutions,"cashier,cash,cash handling,teller,petty cash",full time,karimnagar,0
+530,data architect,jobs for freshers,edge it solutions,"data entry,design,devlopment,content",full time,,0
+531,data scientist,da data scientist,barclays,"machine learning,power bi,tableau,excel",full time,chennai,3
+532,data scientist,senior data scientist,uber,"r,statistical estimates,sampling,descriptive statistics",full time,bengaluru,7
+533,data scientist,,,,,,-1
+534,data scientist,,,,,,-1
+535,data scientist,,,,,,-1
+536,data scientist,,,,,,-1
+537,data scientist,,,,,,-1
+538,data scientist,,,,,,-1
+539,data scientist,,,,,,-1
+540,data scientist,,,,,,-1
+541,data scientist,,,,,,-1
+542,data scientist,,,,,,-1
+543,data scientist,,,,,,-1
+544,data scientist,,,,,,-1
+545,data scientist,,,,,,-1
+546,machine learning engineer,machine learning engineer 3,adobe,"caffe,ai,torch,java,ml,tensorflow",full time,,8
+547,machine learning engineer,senior machine learning engineer,microsoft,"research institutions,innovative solutions",full time,,0
+548,machine learning engineer,machine learning engineer ii,microsoft,"cognitive services,azure ai,azure openai",full time,,1
+549,machine learning engineer,sr. machine learning engineer,adobe,"contextual bandit algos,reinforcement learning problems",full time,bengaluru,8
+550,machine learning engineer,principal machine learning engineer,microsoft,"algorithms,machine learning,data science",full time,,12
+551,machine learning engineer,lead consultant-senior machine learning engineer,genpact,"nlp,ml,api,python,deep learning",full time,bengaluru,1
+552,machine learning engineer,sr.machine learning engineer,hucon solutions india private limited,"statistical analysis"",""unix shell scripting"",sme",full time,"bengaluru,hyderabad",9
+553,machine learning engineer,machine learning engineer,barclays,"virtual assistants,chatbots,cloud platforms",full time,pune,1
+554,machine learning engineer,machine learning engineer,birlasoft,"r,deep-learning,statistical ml techniques",full time,pune,12
+555,machine learning engineer,machine learning engineer,birlasoft limited,"llms,machine learning,sql",full time,bengaluru,6
+556,machine learning engineer,machine learning engineer,numaware technologies private limited,"ai,ml,nlp,azure,aws",full time,bengaluru,7
+557,machine learning engineer,machine learning engineer - gshd - blr,getinz,"fraud detection,e-payments,e-commerce",full time,bengaluru,5
+558,machine learning engineer,machine learning engineer,kuku fm,"data analysis,innovation,data,deep learning models",full time,bengaluru,1
+559,machine learning engineer,senior machine learning engineer,bazaarvoice,"statistical techniques,machine learning,python",full time,bengaluru,3
+560,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,jaipur,2
+561,machine learning engineer,machine learning engineer / data scientist (remote),uplers,,full time,,0
+562,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,,2
+563,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,aurangabad,2
+564,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,madurai,2
+565,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,coimbatore,2
+566,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,chennai,2
+567,machine learning engineer,lead machine learning engineer,experian,"analytical thinking,project management",full time,hyderabad,8
+568,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,ranchi,2
+569,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,visakhapatnam,2
+570,machine learning engineer,machine learning engineer / data scientist (remote),uplers,,full time,nagpur,0
+571,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,,2
+572,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,thiruvananthapuram,2
+573,machine learning engineer,machine learning engineer,t d newton & associates,"transformer,foundational models,big data tools",full time,chennai,5
+574,machine learning engineer,senior machine learning engineer,bazaarvoice,"statistical techniques,machine learning,python",full time,bengaluru,3
+575,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,gurugram,2
+576,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,raipur,2
+577,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,ghaziabad,2
+578,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,chandigarh,2
+579,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,vijayawada,2
+580,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,agra,2
+581,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,,1
+582,machine learning engineer,senior machine learning engineer (remote),uplers,"mlflow,online businesses,kubeflow,streaming architecture",full time,,9
+583,machine learning engineer,machine learning engineer / data scientist (remote),uplers,,full time,guwahati,0
+584,machine learning engineer,machine learning engineer / data scientist (remote),uplers,,full time,agra,0
+585,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,patna,2
+586,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,,2
+587,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,kolkata,2
+588,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,patna,2
+589,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,,2
+590,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,cuttack,2
+591,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,,2
+592,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,vijayawada,2
+593,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,ranchi,2
+594,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,chennai,2
+595,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,kanpur,2
+596,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,surat,2
+597,machine learning engineer,senior machine learning engineer,paypal,"feature engineering,deployment,maintenance",full time,chennai,3
+598,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,,2
+599,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,cuttack,2
+600,machine learning engineer,machine learning engineer / data scientist (remote),uplers,,full time,nashik,0
+601,machine learning engineer,machine learning engineer / data scientist (remote),uplers,"natural language processing (nlp),speech recognition",full time,,2
+602,machine learning engineer,machine learning engineer,a.p. moller - maersk,"simulated annealing,scikit-learn,genetic",full time,pune,3
+603,machine learning engineer,machine learning engineer 3,adobe india,"ml frameworks,cluster managers,torch",full time,,8
+604,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"simulated annealing,scikit-learn,genetic",full time,pune,6
+605,machine learning engineer,machine learning engineer,a.p. moller - maersk,"simulated annealing,scikit-learn,genetic",full time,bengaluru,3
+606,machine learning engineer,"machine learning engineer,senior staff","qualcomm technologies, inc","fixed-point representations,parallel computing systems",full time,hyderabad,5
+607,machine learning engineer,jr. machine learning engineer,cloud counselage pvt. ltd.,"r,scikit-learn,python,numpy,tensorflow",full time,mumbai,1
+608,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,vijayawada,2
+609,machine learning engineer,senior machine learning engineer,coinmarketcap,"pub/sub,airflow,java,python,kafka",full time,,3
+610,machine learning engineer,machine learning engineer,mirafra software technologies private limited,"c++,python",full time,"bengaluru,hyderabad",3
+611,machine learning engineer,machine learning engineer (mle),skilldeck talent solutions llp,"statistics,data processing,api endpoints",full time,"bengaluru,chennai",9
+612,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"simulated annealing,scikit-learn,genetic",full time,bengaluru,6
+613,machine learning engineer,senior machine learning engineer,paypal,"feature engineering,deployment,maintenance",full time,chennai,3
+614,machine learning engineer,lead machine learning engineer,factset philippines inc,"communication,mentoring,machine learning",full time,hyderabad,4
+615,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,azure,hive,python",full time,,3
+616,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,advanced statistical techniques",full time,,3
+617,machine learning engineer,associate director machine learning engineer,s&p global,"scikit-learn,aws cloud stack,tensorflow",full time,,1
+618,machine learning engineer,staff machine learning engineer / data scientist,aarogya tech,"data processes,scikit-learn,dask,aws cloud technologies",full time,bengaluru,9
+619,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,ml,azure,hive",full time,,3
+620,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,advanced statistical techniques",full time,,3
+621,machine learning engineer,machine learning engineer (nlp),thoucentric,"lstms,t5,knowledge graphs,transformers",full time,bengaluru,1
+622,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,azure,hive,python",full time,,3
+623,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,azure,hive,python",full time,,3
+624,machine learning engineer,machine learning engineer,blj tech geeks,"genai,transformers,scikit-learn,bert,gpt",full time,pune,9
+625,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,ml,azure,hive",full time,,3
+626,machine learning engineer,machine learning engineer,gfk - an niq company,"ci/cd,data science,machine learning,agile development",full time,pune,5
+627,machine learning engineer,machine learning engineer,optical arc pvt. ltd.,"scikit-learn,statistical modeling,machine learning",full time,pune,6
+628,machine learning engineer,senior advisor - machine learning engineer,clickjobs.io,"microservices architecture,generative ai models",full time,bengaluru,8
+629,machine learning engineer,"machine learning engineer, trilogy (remote) - $60,000/year usd",crossover,"chatgpt,llms,claude,gemini,api,python",full time,chennai,1
+630,machine learning engineer,senior machine learning engineer,bombay softwares,"tflite,scikit-learn,openvino,spacy,onnx",full time,mumbai,4
+631,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,azure,hive,python",full time,,3
+632,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,advanced statistical techniques",full time,,3
+633,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,advanced statistical techniques",full time,,3
+634,machine learning engineer,associate director machine learning engineer,s&p global,"scikit-learn,aws cloud stack,tensorflow",full time,,1
+635,machine learning engineer,machine learning engineer,braintrust,"scikit-learn,generative ai,azure,hive,python",full time,,3
+636,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"scikit-learn,statistical techniques,document ai",full time,bengaluru,6
+637,machine learning engineer,sr. machine learning engineer,zuora,"r,ai,predictive modeling,machine learning",full time,chennai,5
+638,machine learning engineer,machine learning engineer,bombay softwares,"scikit-learn,seaborn,python,pandas,numpy",full time,,3
+639,machine learning engineer,machine learning engineer,walkingtree technologies,"java,computer vision,machine learning",full time,agra,6
+640,machine learning engineer,machine learning engineer / data scientist,avrio,"data preprocessing,r,model evaluation",full time,gurugram,1
+641,machine learning engineer,machine learning engineer,railofy,"keras/tensorflow,scikit-learn,ecs,matplotlib",full time,mumbai,7
+642,machine learning engineer,machine learning engineer - tripadvisor,uplers,"ray,mlflow,seldon,sagemaker,snowflake",full time,mumbai,9
+643,machine learning engineer,associate director machine learning engineer,s&p global,"scikit-learn,aws cloud stack,tensorflow",full time,bengaluru,1
+644,machine learning engineer,machine learning engineer (nlp),thoucentric,"lstms,t5,knowledge graphs,transformers",full time,bengaluru,1
+645,machine learning engineer,machine learning engineer,tekvalue it solutions,"aml,machine learning,python",full time,hyderabad,1
+646,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"kubeflow,airflow,scikit-learn,collaborative development workflow",full time,bengaluru,6
+647,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"kubeflow,airflow,scikit-learn,collaborative development workflow",full time,bengaluru,6
+648,machine learning engineer,"machine learning engineer,senior staff",qualcomm,"floating-point,fixed-point representations",full time,hyderabad,2
+649,machine learning engineer,machine learning engineer,chubb,"test-driven development,azure,kubernetes",full time,bengaluru,6
+650,machine learning engineer,machine learning engineer,coursera,"airflow,restful web-services,mlflow,ml ops",full time,,1
+651,machine learning engineer,staff machine learning engineer / data scientist,aarogya tech,"data processes,scikit-learn,dask,aws cloud technologies",full time,bengaluru,9
+652,machine learning engineer,machine learning engineer,yupcha softwares,"conda,pypi,ci/cd,communication,testing",full time,agartala,4
+653,machine learning engineer,machine learning engineer,servicenow,"code tuning,profiling,java,oop,algorithms",full time,hyderabad,4
+654,machine learning engineer,machine learning engineer,groww,"stakeholder management,machine learning",full time,bengaluru,8
+655,machine learning engineer,senior machine learning engineer,new relic,"ml/nlp libraries,aws ecosystem,transformer models",full time,bengaluru,4
+656,machine learning engineer,machine learning engineer,a.p. moller - maersk,"simulated annealing,scikit-learn,genetic",full time,pune,6
+657,machine learning engineer,machine learning engineer (remote),bungee tech,"sqls,ml frameworks,transformer models",full time,chennai,1
+658,machine learning engineer,staff machine learning engineer,tide,"pulsar,python,ml,fastapi,django,docker",full time,hyderabad,11
+659,machine learning engineer,machine learning engineer,anomaly business consult,"scikit-learn,deep learning frameworks,api endpoints",full time,,1
+660,machine learning engineer,machine learning engineer,blazeclan technologies,"ml frameworks,airflow,apache spark,kubernetes",full time,pune,2
+661,machine learning engineer,machine learning engineer,a.p. moller - maersk,"simulated annealing,scikit-learn,genetic",full time,bengaluru,6
+662,machine learning engineer,senior machine learning engineer,gridsentry,"scikit-learn,r,matplotlib,tensorflow,numpy",full time,bengaluru,6
+663,machine learning engineer,machine learning engineer (immediate joineer),rarefind hr consulting private limited,"semantic extraction,text classification,machine comprehension",full time,mumbai,5
+664,machine learning engineer,lead machine learning engineer,factset,"project management,communication,cost savings",full time,hyderabad,1
+665,machine learning engineer,machine learning engineer - conversational ai,ringcentral,"speech recognition,problem-solving,onnx",full time,bengaluru,4
+666,machine learning engineer,staff machine learning engineer,tide,"pulsar,python,ml,fastapi,django,docker",full time,,11
+667,machine learning engineer,machine learning engineer (nlp),thoucentric,"lstms,t5,knowledge graphs,reasoning",full time,bengaluru,1
+668,machine learning engineer,machine learning engineer,smart data solutions,"deep learning,java,c#,unix,nlp,git",full time,,2
+669,machine learning engineer,machine learning engineer,ring,"snowflake,amazon sagemaker,scikit-learn",full time,mumbai,1
+670,machine learning engineer,mle(machine learning engineer),jobs malaysia - two95 hr hub,"caret,scikit-learn,pymc3,stan,statsmodels",full time,hyderabad,2
+671,machine learning engineer,machine learning engineer,haleon,"ci/cd,machine learning,prometheus,grafana",full time,bengaluru,3
+672,machine learning engineer,manager-senior machine learning engineer,genpact,"nlp,ml,api,python,deep learning",full time,hyderabad,1
+673,machine learning engineer,jabroydâ®artificial intelligence/machine learning engineer - large language models,jabroyd,"cloud computing services,py torch,neural network architectures",full time,bengaluru,4
+674,machine learning engineer,machine learning engineer,straive,"airflow,google cloud ai platform,tensorflow serving",full time,bengaluru,8
+675,machine learning engineer,machine learning engineer,artium,"music,data analysis,recommendation systems",full time,bengaluru,1
+676,machine learning engineer,senior machine learning engineer,career stone consultant,"airflow,big-query,vertex ai,kubeflow",full time,mumbai,9
+677,machine learning engineer,urgent hiring mle (machine learning engineer),capgemini technology services india limited,mle,full time,"kolkata,hyderabad",5
+678,machine learning engineer,data science / machine learning engineer,s&p global,"big data storage solutions,python libraries",full time,hyderabad,4
+679,machine learning engineer,"machine learning engineer, trilogy (remote) - $60,000/year usd",crossover,"chatgpt,llms,claude,gemini,api,python",full time,jaipur,1
+680,machine learning engineer,senior machine learning engineer,maersk global service centres india private limited,"kubeflow,airflow,scikit-learn,ci/cd,machine learning",full time,bengaluru,6
+681,machine learning engineer,lead machine learning engineer,experian,"graph algorithms,hyperparameter tuning",full time,hyderabad,8
+682,machine learning engineer,machine learning engineer,gfk,"statistics,math,distributed computing,python",full time,pune,5
+683,machine learning engineer,machine learning engineer,uplers,"airflow,gradient boosted decision trees,ray",full time,bengaluru,4
+684,machine learning engineer,lead machine learning engineer (mlops),allianz services,"data-driven products,data drift,data pipelines",full time,pune,11
+685,machine learning engineer,technical lead manager ( staff software engineer) - machine learning applications,uber,"java,tensorflow,nosql,pytorch,data modeling",full time,bengaluru,5
+686,machine learning engineer,machine learning engineer,company name confidential,"machine learning,python","full time,work from home",bengaluru,2
+687,machine learning engineer,machine learning engineer,ia business startup,"data preprocessing,model evaluation,scikit-learn",full time,,4
+688,machine learning engineer,machine learning engineer - nlp,thelevel,"scikit-learn,bert,pub/sub,machine learning",full time,delhi,2
+689,machine learning engineer,machine learning engineer,changeleaders consulting private limited,"ab testing,databrick,machine learning",full time,bengaluru,6
+690,machine learning engineer,machine learning engineer,"qualcomm technologies, inc","system design fundamentals,fixed-point representations",full time,hyderabad,5
+691,machine learning engineer,"machine learning engineer, senior","qualcomm technologies, inc","fixed-point representations,quantization concepts",full time,hyderabad,1
+692,machine learning engineer,staff machine learning engineer,sharechat,"data analysis,statistics,tensorflow,golang",full time,bengaluru,1
+693,machine learning engineer,machine learning engineer,infosys limited,"pipelines,azure architecture,pytest frameworks",full time,bengaluru,4
+694,machine learning engineer,assistant manager- google cloud platform rapid prototype engineer,kpmg india,generative ai,full time,bengaluru,4
+695,machine learning engineer,machine learning engineer,ola,"model hyperparameter selection,model workflows",full time,bengaluru,1
+696,machine learning engineer,python machine learning engineer,infosys limited,"pipelines,azure architecture,pytest frameworks",full time,bengaluru,4
+697,machine learning engineer,machine learning engineer,exxonmobil,"mlflow,classification,regression,c,databricks",full time,bengaluru,5
+698,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,vellore,4
+699,machine learning engineer,"machine learning engineer, ai/ml, content (remote)",uplers,"good team player,data preprocessing,reinforcement learning",full time,jamshedpur,4
+700,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,patna,1
+701,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,patna,4
+702,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,,3
+703,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,kanpur,2
+704,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,amritsar,2
+705,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,faridabad,2
+706,machine learning engineer,machine learning engineer (ai â based product development),solarsys innovations private ltd,"sagemaker,scikit-learn,kubernetes,machine learning",full time,pune,6
+707,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,patna,1
+708,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,mumbai,2
+709,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,,3
+710,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,surat,4
+711,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,patna,4
+712,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,,4
+713,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,ghaziabad,3
+714,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,jamshedpur,4
+715,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,thane,4
+716,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,mumbai,1
+717,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,nagpur,4
+718,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,faridabad,2
+719,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,amritsar,2
+720,machine learning engineer,staff machine learning engineer,sharechat,"sota recsys,ml,python,golang,neural networks",full time,bengaluru,1
+721,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,jaipur,1
+722,machine learning engineer,machine learning engineer,factentry,"statistics,machine learning,tensorflow",full time,vellore,4
+723,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"airflow,ci/cd,scikit-learn,kubeflow,python",full time,bengaluru,6
+724,machine learning engineer,lead machine learning engineer,yo hr consultancy,"team management,code reviews,code quality",full time,bengaluru,12
+725,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,jamshedpur,4
+726,machine learning engineer,machine learning engineer,quantzig,"pip,poetry,azure,git,python,machine learning",full time,bengaluru,4
+727,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,ghaziabad,3
+728,machine learning engineer,"machine learning engineer (llm, nlp)",preferable - crafting careers,"transformer models,llm training methodologies",full time,bengaluru,8
+729,machine learning engineer,senior machine learning engineer,deeprec.ai,"deep learning architectures,gpu acceleration",full time,hyderabad,1
+730,machine learning engineer,machine learning engineer,uplers,"data pipelines,orchestration tools,troubleshooting production issues",full time,hyderabad,4
+731,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,,3
+732,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,,2
+733,machine learning engineer,lead machine learning engineer,yo hr consultancy,"team management,code reviews,code quality",full time,gurugram,12
+734,machine learning engineer,machine learning engineer,wizr.ai,"validation,data pipelines,deployment,ml infrastructure",full time,mumbai,1
+735,machine learning engineer,"machine learning engineer (llm, nlp)",preferable - crafting careers,"transformer models,llm training methodologies",full time,bengaluru,8
+736,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,nashik,3
+737,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,visakhapatnam,4
+738,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,surat,4
+739,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,kanpur,1
+740,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,raipur,1
+741,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,cuttack,3
+742,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,faridabad,3
+743,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,raipur,4
+744,machine learning engineer,machine learning engineer (python / nlp),meetrecord,"data analysis,algorithms,nlp,python",full time,bengaluru,2
+745,machine learning engineer,sr machine learning engineer,uplers,"good team player,data preprocessing,feature engineering",full time,,4
+746,machine learning engineer,jr. machine learning engineer,cloud counselage pvt. ltd.,"r,scikit-learn,java,git,python,pandas",full time,mumbai,1
+747,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,thane,2
+748,machine learning engineer,machine learning engineer with ocr,outstager,"optical character recognition,neural network programs",full time,chennai,5
+749,machine learning engineer,sr machine learning engineer,uplers,"good team player,data preprocessing,feature engineering",full time,delhi,4
+750,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,madurai,1
+751,machine learning engineer,machine learning engineer,theecode,"r,scikit-learn,java,machine learning",full time,chennai,1
+752,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,mumbai,1
+753,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,mumbai,2
+754,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,ghaziabad,3
+755,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,,2
+756,machine learning engineer,"machine learning engineer, ai/ml, search & discovery (remote)",uplers,"good team player,data preprocessing,feature engineering",full time,jamshedpur,4
+757,machine learning engineer,machine learning engineer- wfh,uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,,2
+758,machine learning engineer,senior machine learning engineer,deeprec.ai,"deep learning architectures,gpu acceleration",full time,hyderabad,1
+759,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,indore,1
+760,machine learning engineer,jr. machine learning engineer,cloud counselage pvt. ltd.,"r,scikit-learn,java,git,python,pandas",full time,mumbai,1
+761,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,guwahati,1
+762,machine learning engineer,senior machine learning engineer,uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,chennai,2
+763,machine learning engineer,"machine learning engineer (llm, nlp)",preferable - crafting careers,"transformer models,llm training methodologies",full time,bengaluru,8
+764,machine learning engineer,senior machine learning engineer,deeprec.ai,"deep learning architectures,gpu acceleration",full time,hyderabad,1
+765,machine learning engineer,"machine learning engineer (llm, nlp)",preferable - crafting careers,"transformer models,llm training methodologies",full time,bengaluru,8
+766,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,,1
+767,machine learning engineer,machine learning engineer,uplers,"data pipelines,orchestration tools,troubleshooting production issues",full time,hyderabad,4
+768,machine learning engineer,senior machine learning engineer,r3 consultant,"cloud data processing technologies,pytorch lightning",full time,bengaluru,6
+769,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,,2
+770,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,kolkata,1
+771,machine learning engineer,"senior machine learning engineer, ai/ml, content - remote",uplers,"reinforcement learning,sagemaker,problem solving attitude",full time,coimbatore,2
+772,machine learning engineer,machine learning engineer,theecode,"r,scikit-learn,java,machine learning",full time,chennai,1
+773,machine learning engineer,machine learning engineer ( remote ),uplers,"problem solving,generative ai,mathematics",full time,,3
+774,machine learning engineer,machine learning engineer,qualcomm,"floating-point,fixed-point representations",full time,hyderabad,5
+775,machine learning engineer,senior machine learning engineer,r3 consultant,"cloud data processing technologies,pytorch lightning",full time,bengaluru,6
+776,machine learning engineer,machine learning engineer,quantzig,"ci/cd,pip,poetry,databricks,machine learning",full time,bengaluru,7
+777,machine learning engineer,senior machine learning engineer,tune ai,"azure machine learning,aws sagemaker,google cloud ai platform",full time,bengaluru,6
+778,machine learning engineer,lead machine learning engineer,keywords studios,"statistics,recommendation system,engineering",full time,pune,6
+779,machine learning engineer,machine learning engineer- staff,"qualcomm technologies, inc","cudnn,mlir,java,c,c++,natural language processing",full time,chennai,5
+780,machine learning engineer,"machine learning engineer, senior",qualcomm,"processor architecture,floating-point,system design fundamentals",full time,hyderabad,1
+781,machine learning engineer,senior machine learning engineer,r3 consultant,"cloud data processing technologies,pytorch lightning",full time,bengaluru,6
+782,machine learning engineer,senior machine learning engineer,r3 consultant,"cloud data processing technologies,pytorch lightning",full time,bengaluru,6
+783,machine learning engineer,artificial intelligence and machine learning engineer,rofin baasel laser,"data preprocessing,classification models",full time,hyderabad,4
+784,machine learning engineer,senior machine learning engineer,r3 consultant,"cloud data processing technologies,pytorch lightning",full time,bengaluru,6
+785,machine learning engineer,staff machine learning engineer,opendoor,"airflow,test-driven development",full time,hyderabad,9
+786,machine learning engineer,staff machine learning engineer - feed,sharechat,"machine learning,pytorch",full time,bengaluru,6
+787,machine learning engineer,senior machine learning engineer,symphonyai,"api services,git version control,model development",full time,,5
+788,machine learning engineer,machine learning engineer,affine,"native app development,scikit-learn,aws ml framework",full time,bengaluru,6
+789,machine learning engineer,machine learning engineer ii (nlp),suki,"design,distributed backend services,deep neural network models",full time,bengaluru,4
+790,machine learning engineer,sr. machine learning engineer,adobe india,"java/scala,bazel,multivariate optimization techniques",full time,bengaluru,8
+791,machine learning engineer,machine learning engineer,accelon inc.,"data viz tools,scikit-learn,generative ai foundation models",full time,bengaluru,4
+792,machine learning engineer,lead machine learning engineer,haleon,"3rd party supported ml ops,experiment tracking",full time,bengaluru,9
+793,machine learning engineer,staff machine learning engineer,opendoor,"airflow,test-driven development",full time,hyderabad,9
+794,machine learning engineer,embedded machine learning engineer,aruguru tech india pvt.ltd.,"analytical,multitasking,tensorrt,gpgpu",full time,hyderabad,4
+795,machine learning engineer,embedded machine learning engineer,aruguru tech india pvt.ltd.,"tensorrt,gpgpu,onnx,buildroot,openvino",full time,hyderabad,4
+796,machine learning engineer,machine learning/deep learning research engineer @ amritapuri,amrita vishwa vidyapeetham,"scikit-learn,kubernetes,git,python,pandas",full time,kollam,1
+797,machine learning engineer,embedded machine learning engineer,aruguru tech india pvt.ltd.,"analytical,multitasking,tensorrt,gpgpu",full time,hyderabad,4
+798,machine learning engineer,machine learning engineer,eizen,"ml concepts,complexity analysis,problem solving",full time,hyderabad,2
+799,machine learning engineer,machine learning engineer,elitez india,"visualization tools power-bi,edge iot- embedded",full time,bengaluru,2
+800,machine learning engineer,"software engineer, machine learning compilers, silicon",google inc,"domain-specific compilers,parallelism,performance optimizations",full time,bengaluru,3
+801,machine learning engineer,"software engineer, machine learning, google assistant",google,"mobile,python,c,natural language processing",full time,bengaluru,2
+802,machine learning engineer,machine learning engineer,askexim services,"machine learning,pyspark,python,scala",full time,"bengaluru,pune",4
+803,machine learning engineer,"lead engineer, audio machine learning",google inc,"analytical,leadership,problem-solving",full time,hyderabad,6
+804,machine learning engineer,machine learning engineer,highpoints technologies india private limited,"llm,rag pipelines,machine learning,python",full time,"gurugram,chandigarh",7
+805,machine learning engineer,machine learning research engineer,"qualcomm technologies, inc","transformer,u-nets,audio analytics,generative models",full time,hyderabad,3
+806,machine learning engineer,machine learning archictect/engineer with llm and nlp expertise-pd,programming.com,"problem-solving,source control,ml development",full time,bengaluru,6
+807,machine learning engineer,"software engineer iii, machine learning, search",google inc,"security,mobile,large-scale system design",full time,bengaluru,1
+808,machine learning engineer,lead software engineer- machine learning,global talent exchange,"classification,relational databases,recommendation system",full time,bengaluru,4
+809,machine learning engineer,machine learning operations engineer,planck,"containerization technologies,multiparty computation",full time,,1
+810,machine learning engineer,machine learning engineer required in abroad,donivia overseas private limited,machine learning,full time,"bengaluru,hyderabad",7
+811,machine learning engineer,senior lead engineer - machine learning,"qualcomm technologies, inc","generative ai,isp,camera,model optimization",full time,bengaluru,7
+812,machine learning engineer,software engineer,hitachi energy,analytical skills,full time,chennai,7
+813,machine learning engineer,machine learning engineer,quantzig,"ci/cd,pip,poetry,databricks,git,machine learning",full time,bengaluru,7
+814,machine learning engineer,machine learning engineer,skyline meridian,"computer science,statistics,tensorflow",full time,pune,1
+815,machine learning engineer,machine learning engineer,skyline meridian,"computer science,statistics,tensorflow",full time,pune,1
+816,machine learning engineer,machine learning engineer,technomech hr solutions,"infrastructure as code,communication,problem solving",full time,pune,8
+817,machine learning engineer,machine learning engineer,quantzig,"ci/cd,pip,poetry,databricks,git,machine learning",full time,bengaluru,7
+818,machine learning engineer,machine learning engineer,enterpret,"search stacks,data retrieval,server-side scripting",full time,bengaluru,3
+819,machine learning engineer,"machine learning engineer (ml algorithms, python, aws)",rellio services,"scikit-learn,caffe,langchain,statistical modeling",full time,hyderabad,3
+820,machine learning engineer,senior machine learning engineer,zuma,"machine learning,agile methodology,natural language processing",full time,bengaluru,6
+821,machine learning engineer,principal machine learning engineer,new relic,"gans,llms,scikit-learn,ai,istio,vaes",full time,bengaluru,6
+822,machine learning engineer,machine learning engineer,qualmission llc,"scikit-learn,data-driven mindset,problem-solving skills",full time,pune,7
+823,machine learning engineer,principal machine learning engineer,atlassian,"openai llms,restful microservices,python",full time,bengaluru,1
+824,machine learning engineer,senior machine learning engineer,a.p. moller - maersk,"airflow,ci/cd,scikit-learn,kubeflow,python",full time,bengaluru,6
+825,machine learning engineer,senior machine learning engineer,e-hireo,"llm,agile methodology,azure,python",full time,bengaluru,7
+826,machine learning engineer,machine learning engineer,ai staffing ninja,"data preprocessing,r,model evaluation",full time,pune,1
+827,machine learning engineer,machine learning engineer - nlp,level ai,"scikit-learn,pub/sub,machine learning",full time,delhi,2
+828,machine learning engineer,machine learning engineer,klevu oy,"deploying,pythorch,backend engineering",full time,,3
+829,machine learning engineer,"lead engineer, audio machine learning",google,"advanced algorithms,embedded systems",full time,hyderabad,6
+830,machine learning engineer,machine learning engineer/researcher,artpark,"signal processing,probability,speech processing",full time,bengaluru,1
+831,machine learning engineer,machine learning engineer - intern,aurva,"nlp,machine learning,computer vision",full time,bengaluru,1
+832,machine learning engineer,machine learning engineer and data scientist,xcellence it,"data analysis,python,pytorch,tensorflow",full time,surat,1
+833,machine learning engineer,senior machine learning engineer,giggso,"sagemaker,azureml,llm models,data science",full time,chennai,6
+834,machine learning engineer,machine learning engineer,a.p. moller - maersk,"llm,supply chain management,warehouse operations",full time,bengaluru,3
+835,machine learning engineer,senior machine learning engineer,ups supply chain solutions (ups scs),"group theory,scikit-learn,bayesian statistics",full time,chennai,1
+836,machine learning engineer,"senior software engineer, machine learning, google assistant",google,"accessible technologies,tools,architecture",full time,bengaluru,3
+837,machine learning engineer,machine learning engineer - nlp,level ai,"scikit-learn,pub/sub,machine learning",full time,delhi,2
+838,machine learning engineer,machine learning engineer,mantras2success consultants,"distributed programming,complexity analysis",full time,,3
+839,machine learning engineer,machine learning engineer,globalhunt,"airflow,r,vertex ai,kubeflow,mlflow",full time,bengaluru,1
+840,machine learning engineer,senior machine learning engineer,castlight health,"engineering best practices,recommendation systems",full time,hyderabad,4
+841,machine learning engineer,se p1 043 - senior machine learning engineer,viavi solutions,"no sql,python,pandas,numpy,django",full time,chennai,6
+842,machine learning engineer,digital engineer & machine learning intern - fresher,optisol business solutions,"tensorrt,openai api,machine learning",full time,chennai,0
+843,machine learning engineer,machine learning research engineer,qualcomm,"text-to-audio,feature extraction,generative models",full time,hyderabad,3
+844,machine learning engineer,"machine learning â staff engineer (bangkok based, relocation provided)",agoda,"pyspark,hadoop,scala,python3,bash",full time,hyderabad,6
+845,machine learning engineer,lead product engineer - machine learning | 4-6 yrs,sprinklr,"speech processing,code reviews,torch",full time,gurugram,4
+846,machine learning engineer,machine learning research engineer - generative ai,amd,"state space models,dpo,distributed training",full time,bengaluru,1
+847,machine learning engineer,lead software engineer - machine learning,freshworks,"machine learning,redis,mysql,stash",full time,bengaluru,1
+848,machine learning engineer,machine learning ops engineer,refinitiv,"mlops,sql,aws,python,linux",full time,bengaluru,4
+849,machine learning engineer,machine learning & data engineer - senior consultant,arcadis,"r,cloud-based computing,python,data science",full time,hyderabad,1
+850,machine learning engineer,"machine learning â staff engineer (bangkok based, relocation provided)",agoda,"pyspark,hadoop,scala,python3,bash",full time,delhi,6
+851,machine learning engineer,"machine learning â staff engineer (bangkok based, relocation provided)",agoda,"pyspark,hadoop,scala,python3,bash",full time,bengaluru,6
+852,machine learning engineer,staff engineer - machine learning,freshworks,"ml,python,deep learning",full time,chennai,8
+853,machine learning engineer,"machine learning â staff engineer (bangkok based, relocation provided)",agoda,"pyspark,hadoop,scala,python3,bash",full time,pune,6
+854,machine learning engineer,"software engineer, machine learning, google assistant",google inc,"mobile,python,c,natural language processing",full time,bengaluru,2
+855,machine learning engineer,"senior software engineer, machine learning, google cloud",google,"accessible technologies,tools,architecture",full time,bengaluru,3
+856,machine learning engineer,"senior engineer- machine learning, big data",apexon,"code quality verification,run-time analysis",full time,bengaluru,5
+857,machine learning engineer,machine learning & data engineer - consultant,arcadis,"r,cloud-based computing,python,data science",full time,hyderabad,1
+858,machine learning engineer,machine learning & data engineer - consultant,arcadis,"r,cloud-based computing,python,data science",full time,,1
+859,machine learning engineer,"machine learning â staff engineer (bangkok based, relocation provided)",agoda,"pyspark,hadoop,scala,python3,bash",full time,delhi,6
+860,machine learning engineer,"machine learning â staff engineer (bangkok based, relocation provided)",agoda,"pyspark,hadoop,scala,python3,bash",full time,pune,6
+861,machine learning engineer,staff engineer - machine learning,freshworks,"ml,python,deep learning",full time,chennai,8
+862,machine learning engineer,"software engineer, machine learning, silicon",google,"developer tooling,domain specific compilers",full time,bengaluru,1
+863,machine learning engineer,machine learning staff engineer,pubnative,"ml ops tools,go,java,distributed systems",full time,bengaluru,6
+864,machine learning engineer,"senior software engineer, machine learning, google cloud",google inc,"accessible technologies,tools,architecture",full time,bengaluru,3
+865,machine learning engineer,lead software engineer,cadence,"scikit-learn,probability,r,statistics",full time,,1
+866,machine learning engineer,"software engineer iii, machine learning, search",google,"security,mobile,large-scale system design",full time,bengaluru,1
+867,machine learning engineer,"software engineer iii, ai/machine learning, google assistant",google,"mobile,large-scale system design,data storage",full time,bengaluru,3
+868,machine learning engineer,"software engineer ii, machine learning, geo",google,"mobile,python,c,natural language processing",full time,bengaluru,2
+869,machine learning engineer,"silicon software engineer, machine learning, edge tpu",google,"deep learning frameworks,machine learning models",full time,bengaluru,1
+870,machine learning engineer,"software engineer iii, ai/machine learning, google cloud",google,"mobile,software development,natural language processing",full time,pune,1
+871,machine learning engineer,"staff software engineer, machine learning, search",google,"security,analyzing the sources of issues,system issues",full time,bengaluru,5
+872,machine learning engineer,"senior software engineer, machine learning, google assistant",google inc,"accessible technologies,tools,architecture",full time,bengaluru,3
+873,machine learning engineer,"software engineer, machine learning, search",google inc,"mobile,java,algorithms,machine learning",full time,bengaluru,2
+874,machine learning engineer,"machine learning & data analytics, sr staff engineer",synopsys inc,"ci/cd,machine learning,docker,api,sdk",full time,bengaluru,9
+875,machine learning engineer,"privacy engineer iii, machine learning",google,"privacy technologies,vulnerabilities,risks",full time,bengaluru,3
+876,machine learning engineer,"senior software engineer, machine learning, geo",google,"accessible technologies,tools,architecture",full time,bengaluru,3
+877,machine learning engineer,"software engineer, machine learning, silicon",google inc,"developer tooling,domain specific compilers",full time,bengaluru,1
+878,machine learning engineer,"machine learning, sr staff engineer",sypnosys,"ci/cd,sdks,ml ops,python,java,c++",full time,bengaluru,9
+879,machine learning engineer,staff engineer - machine learning,qualcomm,"camera,model optimization,isp,generative ai",full time,bengaluru,8
+880,machine learning engineer,machine learning framework engineer- staff,qualcomm,"llms,cudnn,simd,vision,audio,multi-threaded high-performance code",full time,chennai,5
+881,machine learning engineer,assistant manager-google cloud platform artificial intelligence modeller,kpmg india,"generative ai,ai",full time,bengaluru,4
+882,machine learning engineer,lead product engineer - machine learning,sprinklr,"build processes,code reviews,deep learning tools",full time,gurugram,4
+883,machine learning engineer,"senior engineer, machine learning",acv auctions,"lightgbm,catboost,python,sql,aws",full time,chennai,4
+884,machine learning engineer,senior ai engineer - machine learning,zs associates,"ml development,airflow,feature engineering",full time,bengaluru,5
+885,machine learning engineer,"staff software engineer, machine learning, search",google inc,"security,analyzing the sources of issues,computer science",full time,bengaluru,5
+886,machine learning engineer,product development engineer i - machine learning,phenom,"langchain,scikit-learn,roberta,supervised learning",full time,hyderabad,1
+887,machine learning engineer,"staff software engineer, machine learning, search",google inc,"security,analyzing the sources of issues,computer science",full time,bengaluru,5
+888,machine learning engineer,"senior software engineer, machine learning infra",sambanova systems,"hardware accelerators design,tensorflow",full time,bengaluru,1
+889,machine learning engineer,"senior software engineer, machine learning infra",sambanova systems,"cv,hardware accelerators,kubernetes,python",full time,bengaluru,1
+890,machine learning engineer,"silicon software engineer, machine learning, edge tpu",google inc,"deep learning frameworks,machine learning models",full time,bengaluru,1
+891,machine learning engineer,"software engineer iii, ai/machine learning, google assistant",google inc,"mobile,large-scale system design,data storage",full time,bengaluru,3
+892,machine learning engineer,lead product engineer - machine learning,sprinklr,"build processes,code reviews,deep learning tools",full time,gurugram,4
+893,machine learning engineer,"software engineer ii, machine learning, geo",google inc,"mobile,python,c,natural language processing",full time,bengaluru,2
+894,machine learning engineer,sr. software development engineer ( machine learning ),amd,"signal processing,source code control systems",full time,hyderabad,6
+895,machine learning engineer,"machine learning, sr staff engineer",synopsys india private limited,"ci/cd,sdks,ml ops,python,java,c++",full time,bengaluru,9
+896,machine learning engineer,"staff engineer, machine learning",nagarro,"machine vision,azure,python,machine learning",full time,bengaluru,6
+897,machine learning engineer,"senior software engineer, machine learning",roku,"bayesian analysis,feature engineering,data analysis",full time,bengaluru,1
+898,machine learning engineer,consulting staff engineer - machine learning,thinkdeeply,"r,bayesian,kubeflow,random forests",full time,hyderabad,4
+899,machine learning engineer,engineer - machine learning,bastian solutions,"3d geometry,3d computer vision,2d computer vision",full time,bengaluru,3
+900,machine learning engineer,machine learning/deep learning engineer with c++,mirafra software technologies private limited,"machine learning,deep learning,artificial intelligence",full time,hyderabad,3
+901,machine learning engineer,machine learning ops engineer,ltimindtree limited,"machine learning ops,machine learning",full time,"bengaluru,chennai",7
+902,machine learning engineer,nlp engineer- machine learning,capco,"risk management,compliance,project management",full time,bengaluru,1
+903,machine learning engineer,sr. software development engineer ( machine learning ),amd,"signal processing,source code control systems",full time,hyderabad,6
+904,machine learning engineer,software engineer - machine learning,encora inc.,"argo,kubernetes,java,python,machine learning",full time,bengaluru,6
+905,machine learning engineer,machine learning operation engineer,future a4,"machine learning,data science,python",full time,bengaluru,5
+906,machine learning engineer,python engineer machine learning,hnm solutions,"python developer,machine learning",full time,,3
+907,machine learning engineer,machine learning ai platform engineer,omni recruit private limited,"ai,machine learning,artificial intelligence",full time,,5
+908,machine learning engineer,python engineer for machine learning,hnm solutions,"python,machine learning",full time,chennai,4
+909,machine learning engineer,sr software engineer - machine learning,nurdsoft,"apache spark,java,machine learning,python",full time,,3
+910,machine learning engineer,senior machine learning & ai engineer (generative ai),skypoint cloud,"gpt 3.5,healthcare,vector mapping key means clustering",full time,bengaluru,4
+911,machine learning engineer,software engineer - machine learning,technomile,"chi-square,gensim,bag of words,n-grams",full time,nagpur,4
+912,machine learning engineer,product development engineer ii - machine learning,phenom,"mathematics,probability,multithreaded",full time,hyderabad,5
+913,machine learning engineer,full stack engineer - machine learning,berryworks,"agile development methodology,data,written communication",full time,kochi,2
+914,machine learning engineer,mlops (machine learning operations) engineer,tetra pak,"ci/cd,scikit-learn,mlops,python,kubernetes",full time,pune,6
+915,machine learning engineer,principle engineer in machine learning,cotocus com,,full time,,9
+916,machine learning engineer,large language model (llm) engineer,deutsche bank,"statistics,scikit-learn,python frameworks",full time,pune,1
+917,machine learning engineer,large language model (llm) engineer,deutsche bank,"r,scikit-learn,python,tensorflow,numpy",full time,pune,1
+918,machine learning engineer,senior engineer - llm - ai/ml,siemens,"object-oriented design,lstm,computer science",full time,pune,1
+919,machine learning engineer,senior data scientist,myntra,"airflow,mlflow,kubeflow,machine learning",full time,bengaluru,2
+920,machine learning engineer,software engineer,hitachi energy,"data collection,plan and section views,autocad",full time,chennai,7
+921,machine learning engineer,job details,hitachi energy,"ai,analytical,ml frameworks,r,communication",full time,chennai,7
+922,machine learning engineer,sr software engineer,ge healthcare,"python,aws,pytorch,prometheus,tensorflow",full time,bengaluru,1
+923,machine learning engineer,sr software engineer,ge healthcare,"python,aws,pytorch,prometheus,tensorflow",full time,bengaluru,1
+924,machine learning engineer,senior software developer,oracle,"analytics,generative ai,ai,ml,machine learning",full time,bengaluru,4
+925,machine learning engineer,sde iii - ml backend engineer,groupon,"multimodal learning,cloud platforms,ci/cd",full time,bengaluru,4
+926,machine learning engineer,data scientist,amdocs,"scikit-learn,probability,statistics,math",full time,pune,4
+927,machine learning engineer,senior data scientist,myntra,"airflow,mlflow,kubeflow,machine learning",full time,bengaluru,2
+928,machine learning engineer,ml engineer (cv &dl),changeleaders consulting private limited,"machine learning,computer vision,deep learning",full time,bengaluru,6
+929,machine learning engineer,principal data scientist,optum,"talented peers,pharmacy benefits",full time,hyderabad,0
+930,machine learning engineer,technical lead for engineering (ai & machine learning),aeroshul technologies private limited,"feature engineering,data preprocessing,predictive maintenance",full time,gurugram,6
+931,machine learning engineer,ml engineer,typeface,"c/c++,generative ai,aws sagemaker,azureml",full time,"hyderabad,delhi",3
+932,machine learning engineer,lead data scientist,fiftyfive technologies,"nlp,python,machine learning,computer vision",full time,gurugram,6
+933,machine learning engineer,ai/ml engineer (openai/gemini/large language models),sustainability economics,"machine/deep learning,data analysis,natural language processing",full time,bengaluru,1
+934,machine learning engineer,senior engineer - llm - ai/ml,siemens technology,"object-oriented design,airflow,lstm,computer science",full time,pune,1
+935,machine learning engineer,senior ai/ml engineer,optum,"talented peers,pharmacy benefits",full time,gurugram,0
+936,machine learning engineer,principal data scientist,optum,"talented peers,pharmacy benefits",full time,hyderabad,0
+937,machine learning engineer,"lead ai/ml engineer - gen ai, nlp,ml",optum,"talented peers,pharmacy benefits",full time,hyderabad,0
+938,machine learning engineer,research engineer,krutrim,"statistics,linear algebra,deep learning",full time,bengaluru,3
+939,machine learning engineer,senior developer,magicktech,"alexnet,unet,renet,vgg16,machine learning",full time,chennai,1
+940,machine learning engineer,crypto data scientist,token metrics,"r,mathematics,ml frameworks,statistics",full time,mumbai,3
+941,machine learning engineer,data scientist (ai/ml & mlops),alignity,"data preprocessing,workflow orchestration",full time,hyderabad,6
+942,machine learning engineer,junior developer,magicktech,"alexnet,unet,renet,vgg16,model deployment",full time,chennai,1
+943,machine learning engineer,senior ml developer (for top usa client),multiplier ai,"deep learning,machine learning,python",full time,hyderabad,7
+944,machine learning engineer,python & ai/ml developer,aorbis inc,"ai/ml,css,postgresql,html,tensorflow",full time,,3
+945,machine learning engineer,ai/ml engineer,globalstep,"scikit-learn,mathematics,statistics,nlu",full time,bengaluru,4
+946,machine learning engineer,junior developer,magicktech,"alexnet,unet,renet,vgg16,model deployment",full time,chennai,1
+947,machine learning engineer,analytics engineer iii [t500-11831],bristol myers squibb,"r,hadoop,power bi,tableau,sql,nosql",full time,hyderabad,3
+948,machine learning engineer,crypto data scientist,token metrics,"r,mathematics,ml frameworks,statistics",full time,delhi,3
+949,machine learning engineer,senior software developer,mygwork - lgbtq+ business community,"generative ai,scikit-learn,ai,ml,tensorflow",full time,bengaluru,3
+950,machine learning engineer,google vertex ai search developer/architect (remote),"omniskope, inc","google vertex ai,java,tensorflow,nlp",full time,,7
+951,machine learning engineer,senior ml developer (for top usa client),multiplier ai,"deep learning,machine learning,python",full time,hyderabad,7
+952,machine learning engineer,senior data scientist,reltio,"data preprocessing,dimensionality reduction",full time,bengaluru,6
+953,machine learning engineer,machine learning with python trainer,nearlearn,"scikit-learn,machine learning,python,pandas",full time,bengaluru,1
+954,machine learning engineer,data engineer,avrio,"luigi,prefect,kubernetes,python,scala",full time,gurugram,1
+955,machine learning engineer,senior developer,magicktech,"alexnet,unet,renet,vgg16,machine learning",full time,chennai,1
+956,machine learning engineer,ml engineer - india,typeface,"gcp vertex,aws sagemaker,azureml,c/c++",full time,"hyderabad,delhi",3
+957,machine learning engineer,lead software engineer,cadence design systems (india) pvt ltd,"scikit-learn,probability,analytical,problem-solving",full time,,1
+958,machine learning engineer,crypto data scientist,token metrics,"r,mathematics,ml frameworks,statistics",full time,mumbai,3
+959,machine learning engineer,senior developer,magicktech,"alexnet,unet,renet,vgg16,machine learning",full time,chennai,1
+960,machine learning engineer,it application solutions,celanese corporation,"tracksys,neural network programs,ai,aveva pi",full time,hyderabad,7
+961,machine learning engineer,data scientist (pune),amdocs management limited,"scikit-learn,statistics,math,probability",full time,pune,4
+962,machine learning engineer,data science | data scientist | data engineer | data analyst (salary: 8 lpa to 20 lpa),sun hr consultancy,"data analysis,freshers,business analyst",full time,chennai,0
+963,machine learning engineer,senior software engineer,microsoft,"ai,real-time insights,llm,machine learning",full time,,1
+964,machine learning engineer,lead platform cloud engineer,tata consultancy services ltd.,"azure purview,iac,azure open ai services",full time,hyderabad,11
+965,machine learning engineer,applied ml engineer,hue logics,"ci/cd,vision,bash scripts,container orchestration",full time,pune,3
+966,machine learning engineer,ai/ml engineer,mangoapps,"relational databases,scikit-learn,ml,fastapi",full time,pune,3
+967,machine learning engineer,sr software engineer - ml,ge healthcare,"scikit-learn,machine learning,hadoop,prometheus",full time,bengaluru,1
+968,machine learning engineer,technical analyst (machine learning- ai/ml/generative ai based),coforge,"ci/cd,data-iku dss,llamaindex,snowpark",full time,,7
+969,machine learning engineer,data scientist,bizongo,"java,nlp,dsa,machine learning,python",full time,gurugram,2
+970,machine learning engineer,platform engineer,tata consultancy services ltd.,"azure purview,azure open ai services",full time,hyderabad,6
+971,machine learning engineer,software engineering ic3,microsoft,"security operations,cross-team collaboration",full time,,1
+972,machine learning engineer,data scientist,aera technology,"mllib,dask,h2o,ray,scikit-learn,tensorflow",full time,pune,4
+973,machine learning engineer,software engineer - developer role,exela technologies india private limited,"ai,software developer,software engineer",full time,chennai,5
+974,machine learning engineer,principal engineer – data & ai,glaxosmithkline pte ltd,"eltl,schema-on-read,compliance,thoughtspot",full time,bengaluru,8
+975,machine learning engineer,cloud solution architect,emerson climate technologies inc,"cloud solutions architect,cloud environments",full time,pune,7
+976,machine learning engineer,machine learning,jms advisory services private limited,"llm,large-scale computing,nlp,machine learning",full time,chennai,4
+977,machine learning engineer,python developer,hcl technologies limited,"python,microservices,kubernetes,machine learning",full time,bengaluru,6
+978,machine learning engineer,machine learning,jms advisory services private limited,"llm,nlp,machine learning,bigdata",full time,chennai,4
+979,machine learning engineer,sr. ml engineer,general mills,"vertex ai,airflow,docker-container,kubeflow",full time,mumbai,13
+980,machine learning engineer,senior engineer/ai,balbix,"scikitlearn,graph learning,linear algebra",full time,bengaluru,4
+981,machine learning engineer,developer iv,"realpage, inc.","python,aws,pytorch,tensorflow,gcp",full time,hyderabad,5
+982,machine learning engineer,senior python developer,whitefield careers,"tensor flow,ai,communication skills,microservices architecture",full time,thane,5
+983,machine learning engineer,sr. ml engineer(gen ai),mygwork - lgbtq+ business community,"data preprocessing,model evaluation,scikit-learn",full time,bengaluru,6
+984,machine learning engineer,lead software engineer,cadence,"validation,collaboration,tools,monitoring",full time,,1
+985,machine learning engineer,principal ml engineer,amd,"ml pipeline,python programing,distributed training",full time,bengaluru,11
+986,machine learning engineer,senior engineer/ai,balbix,"modeling,data-mining,probability,graph analysis",full time,bengaluru,4
+987,machine learning engineer,sr ml engineer,general mills,"vertex ai,airflow,docker-container,kubeflow",full time,mumbai,13
+988,machine learning engineer,machine learning,e-solution india,"mobile robotics,robotics,nvidia,tflite",full time,bengaluru,7
+989,machine learning engineer,data analyst - internship,sun hr consultancy,"data analysis,freshers,business analyst",full time,chennai,0
+990,machine learning engineer,etl developer,highpoints technologies india private limited,etl developer,full time,"gurugram,chandigarh",4
+991,machine learning engineer,palantir,burns & mcdonnell,"palantir,scikit-learn,python,tensorflow",full time,mumbai,3
+992,machine learning engineer,data science - internship,sun hr consultancy,"data analysis,freshers,business analyst",full time,chennai,0
+993,machine learning engineer,ml engineer,quess it staffing (formerly known as magna infotech),"tensarflow,ai specialist,machine learning",full time,pune,7
+994,machine learning engineer,technical recruiter,planful,"greenhouse ats,principal architect,linkedin recruiter",full time,hyderabad,6
+995,machine learning engineer,technical architect- azure data,noventiq,"technology strategy,continuous learning",full time,mumbai,1
+996,machine learning engineer,mlops engineer,deeprec.ai,"mlops engineer,airflow,cloud computing platforms",full time,hyderabad,1
+997,machine learning engineer,industry technical sales specialist,intel corporation,"pipelines,benchmarking tools,technical sales engineering",full time,bengaluru,11
+998,machine learning engineer,industry technical sales specialist,intel,"technical issues,intel processor architectures",full time,bengaluru,11
+999,machine learning engineer,senior field ai scientist,fiddler ai,"speech-to-text,scikit-learn,llm,machine learning",full time,bengaluru,5
+1000,machine learning engineer,"embedded engineer (ai, ml, robotics)",best brains learning centers,"qa engineers,embedded systems design,development",full time,hyderabad,3
+1001,machine learning engineer,senior field ai scientist,fiddler ai,"speech-to-text,scikit-learn,llm,machine learning",full time,bengaluru,5
+1002,machine learning engineer,data scientist,aera software technology,"scikit-learn,mllib,h2o,dask,ray,deep learning",full time,pune,4
+1003,machine learning engineer,senior ml engineer,global pricing innovations (gpi),"ml model deployment,java,text analytics",full time,mumbai,8
+1004,machine learning engineer,sde ii - machine learning,via,"data analysis,feature exploration,visualization",full time,bengaluru,4
+1005,machine learning engineer,data scientist ( adtech ),zimetrics,"ml engineer,tensorflow,sklearn,gcp",full time,pune,6
+1006,machine learning engineer,tech lead ai/ml â manufacturing domain,livnsense greenops private limited,"scikit-learn,statistics,mathematics,machine learning",full time,bengaluru,7
+1007,machine learning engineer,hiring for artificial intelligence (ai) - machine learning (salary: 8 lpa to 20 lpa),sun hr consultancy,"data analysis,freshers,business analyst",full time,chennai,0
+1008,machine learning engineer,hiring for data science (salary: 8 lpa to 20 lpa) if have career gap also can apply,sun hr consultancy,"data analysis,freshers,business analyst",full time,chennai,0
+1009,machine learning engineer,hiring for artificial intelligence (ai) - data science - machine learning (salary: 8 lpa to 20 lpa),sun hr consultancy,"data analysis,freshers,business analyst",full time,chennai,0
+1010,machine learning engineer,azure data engineer,axiom,"big query,spark scripts,ai/ml services",full time,hyderabad,5
+1011,machine learning engineer,ml engineer,retailo llc,"ml engineer,machine learning,data science",full time,,10
+1012,machine learning engineer,ai/ml engineer,ltimindtree limited,"ai/ml engineer,artificial intelligence,machine learning",full time,"bengaluru,chennai",10
+1013,machine learning engineer,offering technology specialist - ai & machine learning,"motorola mobility, inc.","ms azure,machine learning",full time,bengaluru,9
+1014,machine learning engineer,finops analyst,philips,"eks,fsx,financial modelling,reporting",full time,bengaluru,6
+1015,machine learning engineer,ivr development – integration engineer,ltimindtree limited,"ivr development – integration engineer,interactive voice response",full time,"chennai,hyderabad",8
+1016,machine learning engineer,azure data engineer (mid-senior level),environmental resources management (erm),"technical leaders,non-relational databases",full time,mumbai,6
+1017,machine learning engineer,ocr engineer,birlasoft,"microsoft document intelligence,gpt-4 vision models",full time,,9
+1018,machine learning engineer,"senior qa engineer, avp",deutsche bank,"source code control,elastic,robotics,solid",full time,pune,11
+1019,machine learning engineer,engineering-l2-bengaluru-vice president-software engineering,goldman sachs,"distributed database technologies,java,restful web services",full time,bengaluru,8
+1020,machine learning engineer,"technical solutions engineer, apigee",google,,full time,pune,0
+1021,machine learning engineer,lead software developer - back end,jacobs,"go,java,c++,ruby,python,sql,google cloud",full time,,7
+1022,machine learning engineer,devops engineer,jacobs,"postgis,linux,ansible,postgresql,shell scripting",full time,,4
+1023,machine learning engineer,data engineer,barclays,"teradata,data lakes,actuate,python,data modelling",full time,pune,7
+1024,machine learning engineer,software developer - front end developer,jacobs,"mapbox gl js,chart.js,leaflet,react/redux",full time,,4
+1025,machine learning engineer,diagnostic engineer - global diagnostic center,atlas copco,"english,technical knowledge,analytical skills",full time,pune,2
+1026,machine learning engineer,product support operation lead,jacobs,"zendesk software,salesforce service cloud administration",full time,,6
+1027,machine learning engineer,wealth management-bengaluru-associate-software engineering,goldman sachs,"java,nosql,continuous integration,git",full time,bengaluru,3
+1028,machine learning engineer,software development engineer - devops enablement,thomson reuters,"aws code whisperer,generative ai,ai assisted developer tools",full time,bengaluru,4
+1029,machine learning engineer,principal engineer/wealth & personal banking it,hsbc,"data repositories,technical thought leadership",full time,pune,1
+1030,machine learning engineer,data engineer,ericsson,"opensearch,kibana,elk,mlops,spark",full time,bengaluru,1
+1031,machine learning engineer,software engineer ii,microsoft,"scalable business layer framework,frontend stacks",full time,,1
+1032,machine learning engineer,big data engineer,adobe,"airflow,flyte,flink,datahub,deltalake",full time,bengaluru,11
+1033,machine learning engineer,software engineer ii - frontend,microsoft,"management,edge computing,data management",full time,,12
+1034,machine learning engineer,mts-ii (mobile),adobe,"computer science,algorithms,software development",full time,,3
+1035,machine learning engineer,principal applied science manager,microsoft,"large scale deployments,deep learnt models",full time,,1
+1036,machine learning engineer,"(ind) senior, software engineer",walmart global tech india,"java,hadoop,linux,cassandra,spark",full time,bengaluru,1
+1037,machine learning engineer,software engineer ii – ios,microsoft,"large scale deployments,speech,mobile",full time,,1
+1038,machine learning engineer,senior software engineer,microsoft,"platform development,performance optimization",full time,,1
+1039,machine learning engineer,senior software engineer,microsoft,"gpu optimization,model serving stack",full time,,6
+1040,machine learning engineer,software engineer 2,microsoft,"math,machine learning,react,software engineering",full time,,1
+1041,machine learning engineer,software engineer,oracle,"ai,digital assistant,delivery,java,linux",full time,hyderabad,1
+1042,machine learning engineer,senior software engineer,microsoft,"edge computing,resiliency,security,cloud computing",full time,,2
+1043,machine learning engineer,big data architect,adobe,"airflow,flyte,flink,datahub,py torch",full time,bengaluru,11
+1044,machine learning engineer,"vice president, data engineering",blackrock,"big query,vector db,pdf extraction,cloud native platforms",full time,gurugram,6
+1045,machine learning engineer,software engineer ii,microsoft,"platform development,performance optimization",full time,,1
