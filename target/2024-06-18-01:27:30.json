@@ -1,0 +1,239 @@
+{
+    "data engineer": {
+        "company_dict": {
+            "ibm": 49,
+            "uplers": 35,
+            "tata consultancy services ltd.": 32,
+            "kotak mahindra bank limited": 16,
+            "infogain": 13,
+            "genpact": 11,
+            "company name confidential": 9,
+            "visa": 8,
+            "cgi": 6,
+            "coforge": 6
+        },
+        "skill_dict": {
+            "python": 81,
+            "sql": 74,
+            "java": 69,
+            "snowflake": 49,
+            "scala": 48,
+            "data pipelines": 36,
+            "hadoop": 35,
+            "aws": 32,
+            "airflow": 30,
+            "spark": 30
+        },
+        "location_dict": {
+            "bengaluru": 199,
+            "hyderabad": 72,
+            "pune": 62,
+            "chennai": 35,
+            "mumbai": 31,
+            "gurugram": 27,
+            "delhi": 10,
+            "kolkata": 8,
+            "kochi": 4,
+            "thiruvananthapuram": 3
+        },
+        "job_type_dict": {
+            "full time": 497,
+            "contract job": 2,
+            "part time": 3
+        },
+        "experience_dict": {
+            "entry level": 133,
+            "mid level": 150,
+            "senior level": 217
+        }
+    },
+    "data analyst": {
+        "company_dict": {
+            "business toys": 136,
+            "genpact": 13,
+            "jp morgan chase & co.": 9,
+            "deutsche bank": 7,
+            "walmart": 6,
+            "gartner": 6,
+            "united airlines": 6,
+            "acme services": 6,
+            "unified mentor": 6,
+            "maxgen technologies private limited": 5
+        },
+        "skill_dict": {
+            "data analysis": 85,
+            "software": 61,
+            "sql": 50,
+            "multiple systems": 46,
+            "data sets": 41,
+            "python": 40,
+            "data integrity": 39,
+            "r": 36,
+            "data cleansing": 31,
+            "training": 27
+        },
+        "location_dict": {
+            "bengaluru": 142,
+            "hyderabad": 75,
+            "pune": 65,
+            "gurugram": 52,
+            "chennai": 42,
+            "mumbai": 37,
+            "delhi": 24,
+            "kolkata": 9,
+            "jaipur": 7,
+            "coimbatore": 5
+        },
+        "job_type_dict": {
+            "full time": 500
+        },
+        "experience_dict": {
+            "entry level": 261,
+            "mid level": 127,
+            "senior level": 112
+        }
+    },
+    "data architect": {
+        "company_dict": {
+            "alp consulting ltd.": 29,
+            "tata consultancy services ltd.": 14,
+            "nilasu consulting services pvt. ltd.": 14,
+            "ibm": 11,
+            "business toys": 11,
+            "boston technology corporation": 10,
+            "vidpro consultancy services": 7,
+            "programmers.io": 6,
+            "kiash solutions llp": 6,
+            "pyjamahr": 6
+        },
+        "skill_dict": {
+            "snowflake": 62,
+            "azure": 22,
+            "sql": 20,
+            "hadoop": 18,
+            "python": 17,
+            "data fabric": 17,
+            "airflow": 15,
+            "java": 14,
+            "pyspark": 14,
+            "lakehouse": 14
+        },
+        "location_dict": {
+            "bengaluru": 207,
+            "hyderabad": 97,
+            "pune": 61,
+            "chennai": 48,
+            "mumbai": 21,
+            "gurugram": 20,
+            "delhi": 19,
+            "kolkata": 9,
+            "thiruvananthapuram": 7,
+            "kochi": 4
+        },
+        "job_type_dict": {
+            "full time": 497,
+            "work from home": 1,
+            "contract job": 3,
+            "part time": 3
+        },
+        "experience_dict": {
+            "entry level": 77,
+            "mid level": 46,
+            "senior level": 377
+        }
+    },
+    "data scientist": {
+        "company_dict": {
+            "business toys": 29,
+            "paypal": 11,
+            "alp consulting ltd.": 9,
+            "microsoft": 8,
+            "thoucentric": 8,
+            "kornferry": 7,
+            "ericsson": 6,
+            "bain & company": 6,
+            "docusign": 6,
+            "air worldwide": 6
+        },
+        "skill_dict": {
+            "r": 109,
+            "python": 72,
+            "machine learning": 65,
+            "statistics": 48,
+            "sql": 47,
+            "data analysis": 44,
+            "scikit-learn": 39,
+            "preprocessing": 26,
+            "data science": 20,
+            "ai": 19
+        },
+        "location_dict": {
+            "bengaluru": 219,
+            "hyderabad": 74,
+            "chennai": 52,
+            "gurugram": 35,
+            "mumbai": 32,
+            "pune": 31,
+            "delhi": 24,
+            "kolkata": 10,
+            "coimbatore": 2,
+            "kochi": 2
+        },
+        "job_type_dict": {
+            "full time": 500,
+            "work from home": 2
+        },
+        "experience_dict": {
+            "entry level": 136,
+            "mid level": 176,
+            "senior level": 188
+        }
+    },
+    "machine learning engineer": {
+        "company_dict": {
+            "goldman sachs": 22,
+            "google": 18,
+            "uplers": 15,
+            "google inc": 14,
+            "microsoft": 12,
+            "s&p global market intelligence": 9,
+            "a.p. moller - maersk": 9,
+            "sun hr consultancy": 8,
+            "business toys": 6,
+            "braintrust": 6
+        },
+        "skill_dict": {
+            "scikit-learn": 80,
+            "machine learning": 79,
+            "python": 65,
+            "java": 46,
+            "r": 29,
+            "ci/cd": 26,
+            "tensorflow": 25,
+            "ai": 25,
+            "airflow": 25,
+            "data preprocessing": 19
+        },
+        "location_dict": {
+            "bengaluru": 209,
+            "hyderabad": 80,
+            "chennai": 54,
+            "pune": 43,
+            "mumbai": 26,
+            "gurugram": 18,
+            "delhi": 13,
+            "kolkata": 5,
+            "thiruvananthapuram": 2,
+            "agra": 2
+        },
+        "job_type_dict": {
+            "full time": 500,
+            "work from home": 1
+        },
+        "experience_dict": {
+            "entry level": 169,
+            "mid level": 180,
+            "senior level": 151
+        }
+    }
+}
