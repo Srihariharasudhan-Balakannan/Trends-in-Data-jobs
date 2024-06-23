@@ -1,0 +1,76 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,data engineer,oracle,"real-time data processing,snowflake,ci/cd",full time,bengaluru,6
+2,data engineer,azure data engineer with databricks and pyspark,birlasoft limited,"databricks,pyspark",full time,"mumbai,pune",9
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data analyst,esg - data analyst,biocon,"industry research,sustainability reporting",full time,bengaluru,1
+17,data analyst,field programs data analyst,salesforce,"organisational,event management,data analysis",full time,bengaluru,1
+18,data analyst,,,,,,-1
+19,data analyst,,,,,,-1
+20,data analyst,,,,,,-1
+21,data analyst,,,,,,-1
+22,data analyst,,,,,,-1
+23,data analyst,,,,,,-1
+24,data analyst,,,,,,-1
+25,data analyst,,,,,,-1
+26,data analyst,,,,,,-1
+27,data analyst,,,,,,-1
+28,data analyst,,,,,,-1
+29,data analyst,,,,,,-1
+30,data analyst,,,,,,-1
+31,data architect,data architect /associate lead architect/ pune/ group data technology: 0000kb6i,hsbc,logical thinking,full time,pune,1
+32,data architect,data architect,indegene,"er/studio,datorama,analytical skills,life sciences",full time,bengaluru,7
+33,data architect,,,,,,-1
+34,data architect,,,,,,-1
+35,data architect,,,,,,-1
+36,data architect,,,,,,-1
+37,data architect,,,,,,-1
+38,data architect,,,,,,-1
+39,data architect,,,,,,-1
+40,data architect,,,,,,-1
+41,data architect,,,,,,-1
+42,data architect,,,,,,-1
+43,data architect,,,,,,-1
+44,data architect,,,,,,-1
+45,data architect,,,,,,-1
+46,data scientist,senior data scientist,oracle,"r,scikit-learn,python,tensorflow,pytorch",full time,bengaluru,6
+47,data scientist,"senior data scientist, sterile injectables design",pfizer,"automation systems,industrial process control",full time,chennai,4
+48,data scientist,,,,,,-1
+49,data scientist,,,,,,-1
+50,data scientist,,,,,,-1
+51,data scientist,,,,,,-1
+52,data scientist,,,,,,-1
+53,data scientist,,,,,,-1
+54,data scientist,,,,,,-1
+55,data scientist,,,,,,-1
+56,data scientist,,,,,,-1
+57,data scientist,,,,,,-1
+58,data scientist,,,,,,-1
+59,data scientist,,,,,,-1
+60,data scientist,,,,,,-1
+61,machine learning engineer,"expert senior manager, machine learning engineer, apac",bain & company,"ray,marketing analytics,dask,linear algebra",full time,bengaluru,6
+62,machine learning engineer,"lead, machine learning engineer",bain & company,"pyro,scikit-learn,stan,go,pymc3,huggingface",full time,bengaluru,4
+63,machine learning engineer,,,,,,-1
+64,machine learning engineer,,,,,,-1
+65,machine learning engineer,,,,,,-1
+66,machine learning engineer,,,,,,-1
+67,machine learning engineer,,,,,,-1
+68,machine learning engineer,,,,,,-1
+69,machine learning engineer,,,,,,-1
+70,machine learning engineer,,,,,,-1
+71,machine learning engineer,,,,,,-1
+72,machine learning engineer,,,,,,-1
+73,machine learning engineer,,,,,,-1
+74,machine learning engineer,,,,,,-1
+75,machine learning engineer,,,,,,-1
