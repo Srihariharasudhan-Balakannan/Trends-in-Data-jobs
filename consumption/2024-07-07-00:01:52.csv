@@ -1,0 +1,76 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,er - data engineer,altimetrik india private limited,"nifi,performance optimization,pyspark/python",full time,chennai,1
+2,data engineer,lead consultant- aws data engineer,genpact,"security,glue,monitoring,step,aws",full time,pune,1
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data analyst,data analyst,infosys limited,"carbon,looker,hdfs,clickhouse,sql",full time,bengaluru,6
+17,data analyst,data analyst,capgemini,"random forests,scikit-learn,multi process handling",full time,pune,1
+18,data analyst,,,,,,-1
+19,data analyst,,,,,,-1
+20,data analyst,,,,,,-1
+21,data analyst,,,,,,-1
+22,data analyst,,,,,,-1
+23,data analyst,,,,,,-1
+24,data analyst,,,,,,-1
+25,data analyst,,,,,,-1
+26,data analyst,,,,,,-1
+27,data analyst,,,,,,-1
+28,data analyst,,,,,,-1
+29,data analyst,,,,,,-1
+30,data analyst,,,,,,-1
+31,data architect,aws cloud data architect,mphasis,"graphdb,concept modeling,dl,domain modeling",full time,chennai,1
+32,data architect,lead data architect,maersk global service centres india private limited,"rest/graph api,cloud platforms,regulatory compliance frameworks",full time,bengaluru,13
+33,data architect,,,,,,-1
+34,data architect,,,,,,-1
+35,data architect,,,,,,-1
+36,data architect,,,,,,-1
+37,data architect,,,,,,-1
+38,data architect,,,,,,-1
+39,data architect,,,,,,-1
+40,data architect,,,,,,-1
+41,data architect,,,,,,-1
+42,data architect,,,,,,-1
+43,data architect,,,,,,-1
+44,data architect,,,,,,-1
+45,data architect,,,,,,-1
+46,data scientist,(ind) data scientist iii,walmart global tech india,"generative ai technologies,ci/cd,deep learning",full time,bengaluru,1
+47,data scientist,"(ind) staff, data scientist",walmart global tech india,"reinforcement learning,mentoring peers,juniors",full time,bengaluru,7
+48,data scientist,,,,,,-1
+49,data scientist,,,,,,-1
+50,data scientist,,,,,,-1
+51,data scientist,,,,,,-1
+52,data scientist,,,,,,-1
+53,data scientist,,,,,,-1
+54,data scientist,,,,,,-1
+55,data scientist,,,,,,-1
+56,data scientist,,,,,,-1
+57,data scientist,,,,,,-1
+58,data scientist,,,,,,-1
+59,data scientist,,,,,,-1
+60,data scientist,,,,,,-1
+61,machine learning engineer,machine learning engineer 2 - computer vision / audio,adobe,"diffusion models,pytorch lightning,machine learning",full time,bengaluru,1
+62,machine learning engineer,aws machine learning engineer,mphasis,"r,aws sagemaker,aws glue,machine learning",full time,chennai,1
+63,machine learning engineer,,,,,,-1
+64,machine learning engineer,,,,,,-1
+65,machine learning engineer,,,,,,-1
+66,machine learning engineer,,,,,,-1
+67,machine learning engineer,,,,,,-1
+68,machine learning engineer,,,,,,-1
+69,machine learning engineer,,,,,,-1
+70,machine learning engineer,,,,,,-1
+71,machine learning engineer,,,,,,-1
+72,machine learning engineer,,,,,,-1
+73,machine learning engineer,,,,,,-1
+74,machine learning engineer,,,,,,-1
+75,machine learning engineer,,,,,,-1
