@@ -1,0 +1,46 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,manager - data engineer,publicis sapient,"java,azure cloud,hadoop",full time,"bengaluru,gurugram",10
+2,data engineer,manager - data engineer,publicis sapient,,full time,"bengaluru,gurugram",10
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data analyst,data analyst i,air asia,"code versioning,documentation,data studio",full time,,1
+17,data analyst,data analyst 2,paypal,"looker,a/b testing,sql,statistical analysis",full time,,3
+18,data analyst,,,,,,-1
+19,data analyst,,,,,,-1
+20,data analyst,,,,,,-1
+21,data analyst,,,,,,-1
+22,data analyst,,,,,,-1
+23,data analyst,,,,,,-1
+24,data analyst,,,,,,-1
+25,data analyst,,,,,,-1
+26,data analyst,,,,,,-1
+27,data analyst,,,,,,-1
+28,data analyst,,,,,,-1
+29,data analyst,,,,,,-1
+30,data analyst,,,,,,-1
+31,data architect,lead data architect - iss,fidelity international,"metadata tools,technical data skills,vendor offerings",full time,,1
+32,data architect,sr. data architect,synechron technologies private limited,,full time,,16
+33,data architect,,,,,,-1
+34,data architect,,,,,,-1
+35,data architect,,,,,,-1
+36,data architect,,,,,,-1
+37,data architect,,,,,,-1
+38,data architect,,,,,,-1
+39,data architect,,,,,,-1
+40,data architect,,,,,,-1
+41,data architect,,,,,,-1
+42,data architect,,,,,,-1
+43,data architect,,,,,,-1
+44,data architect,,,,,,-1
+45,data architect,,,,,,-1
