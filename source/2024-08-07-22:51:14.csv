@@ -1,0 +1,31 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Manager - Data Engineer,Publicis Sapient,"Java,Azure Cloud,Hadoop,Data Engineer",Full time,"Gurgaon / Gurugram, Bengaluru / Bangalore",9-12 Years
+2,Data Engineer,Manager - Data Engineer,Publicis Sapient,"Big Data Architecture,Java,Azure Cloud",Full time,"Gurgaon / Gurugram, Bengaluru / Bangalore",9-12 Years
+3,Data Engineer,Principal Consultant-Senior Data Engineer,Genpact,"Step Functions,Airflow,AWS,Sql,Databricks",Full time,Kolkata,0-2 Years
+4,Data Engineer,Data Engineer,CGI,"Teradata,Agent,DOC40,CI/CD,CA7 schedular",Full time,"Hyderabad / Secunderabad, Telangana, India",6-9 Years
+5,Data Engineer,Data Engineer,CGI,"Analytical Skills,Excellent Communication Skills",Full time,"Hyderabad / Secunderabad, Telangana, India",5-8 Years
+6,Data Engineer,Lead Data Engineer,Adobe,"Cloud Platforms,Python,Data Modeling",Full time,"Noida, India",8-10 Years
+7,Data Engineer,GCP Data Engineer,Coforge,"Airflow,CI/CD,visualisation,Data Modelling",Full time,"Bengaluru / Bangalore, India",5-10 Years
+8,Data Engineer,Data Engineer,Birlasoft Limited,"Dash Boards,Data Base,Azure Data Lake",Full time,Navi Mumbai,4-6 Years
+9,Data Engineer,"Data Engineer ( Informatica, Python)",CGI,"unit tests,git version control,data developer",Full time,"Hyderabad / Secunderabad, Telangana, India",5-7 Years
+10,Data Engineer,Lead Consultant - Senior Data Engineer - SRE,Genpact,"Ai,data protection regulations,CI/CD pipelines",Full time,Bengaluru / Bangalore,0-2 Years
+11,Data Engineer,Data Engineer,CGI,"Teradata,Agent,DOC40,CI/CD,CA7 schedular",Full time,"Hyderabad / Secunderabad, Telangana, India",6-9 Years
+12,Data Engineer,SSE-Data Engineer,CGI,"Airflow,Plotly,NewSQL,snowflake,Superset",Full time,"Bengaluru / Bangalore, India",5-6 Years
+13,Data Engineer,"Lead Data Engineer - Spark, AWS, Python/ Java",Chase Bank,"Batch and Real time Data processing,linear algebra",Full time,"Bengaluru / Bangalore, India",5-7 Years
+14,Data Engineer,Sr Advanced Data Engineer,Honeywell,"GPT,Nosql,Tensorflow,Hadoop,Bit Bucket",Full time,"Bengaluru / Bangalore, India",5-7 Years
+15,Data Engineer,Data Engineer,CGI,"Teradata,Agent,DOC40,CI/CD,CA7 schedular",,,
+16,Data Analyst,Data Analyst I,Air Asia,"code versioning,Documentation,Data Studio",Full time,India,0-2 Years
+17,Data Analyst,Data Analyst,Careernet,"Salesforce,Data Quality Check,Data Analyst",Full time,"Mumbai, India",0-2 Years
+18,Data Analyst,,,,,,
+19,Data Analyst,,,,,,
+20,Data Analyst,,,,,,
+21,Data Analyst,,,,,,
+22,Data Analyst,,,,,,
+23,Data Analyst,,,,,,
+24,Data Analyst,,,,,,
+25,Data Analyst,,,,,,
+26,Data Analyst,,,,,,
+27,Data Analyst,,,,,,
+28,Data Analyst,,,,,,
+29,Data Analyst,,,,,,
+30,Data Analyst,,,,,,
