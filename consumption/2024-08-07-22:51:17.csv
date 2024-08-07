@@ -1,0 +1,31 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,manager - data engineer,publicis sapient,"java,azure cloud,hadoop",full time,"bengaluru,gurugram",10
+2,data engineer,manager - data engineer,publicis sapient,"java,azure cloud",full time,"bengaluru,gurugram",10
+3,data engineer,principal consultant-senior data engineer,genpact,"step functions,airflow,aws,sql,databricks",full time,kolkata,1
+4,data engineer,data engineer,cgi,"teradata,agent,doc40,ci/cd,ca7 schedular",full time,hyderabad,7
+5,data engineer,data engineer,cgi,"analytical skills,excellent communication skills",full time,hyderabad,6
+6,data engineer,lead data engineer,adobe,"cloud platforms,python,data modeling",full time,,9
+7,data engineer,gcp data engineer,coforge,"airflow,ci/cd,visualisation,data modelling",full time,bengaluru,7
+8,data engineer,data engineer,birlasoft limited,"dash boards,data base,azure data lake",full time,,5
+9,data engineer,"data engineer ( informatica, python)",cgi,"unit tests,git version control,data developer",full time,hyderabad,6
+10,data engineer,lead consultant - senior data engineer - sre,genpact,"ai,data protection regulations,ci/cd pipelines",full time,bengaluru,1
+11,data engineer,data engineer,cgi,"teradata,agent,doc40,ci/cd,ca7 schedular",full time,hyderabad,7
+12,data engineer,sse-data engineer,cgi,"airflow,plotly,newsql,snowflake,superset",full time,bengaluru,5
+13,data engineer,"lead data engineer - spark, aws, python/ java",chase bank,"batch and real time data processing,linear algebra",full time,bengaluru,6
+14,data engineer,sr advanced data engineer,honeywell,"gpt,nosql,tensorflow,hadoop,bit bucket",full time,bengaluru,6
+15,data engineer,data engineer,cgi,"teradata,agent,doc40,ci/cd,ca7 schedular",,,-1
+16,data analyst,data analyst i,air asia,"code versioning,documentation,data studio",full time,,1
+17,data analyst,data analyst,careernet,"salesforce,data quality check",full time,mumbai,1
+18,data analyst,,,,,,-1
+19,data analyst,,,,,,-1
+20,data analyst,,,,,,-1
+21,data analyst,,,,,,-1
+22,data analyst,,,,,,-1
+23,data analyst,,,,,,-1
+24,data analyst,,,,,,-1
+25,data analyst,,,,,,-1
+26,data analyst,,,,,,-1
+27,data analyst,,,,,,-1
+28,data analyst,,,,,,-1
+29,data analyst,,,,,,-1
+30,data analyst,,,,,,-1
