@@ -1,0 +1,61 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data analyst,senior data analyst,trimble,"global commodity management,domo database",full time,chennai,4
+2,data analyst,data analyst,magic infomedia,"data analysis,data analytics",full time,delhi,1
+3,data analyst,,,,,,-1
+4,data analyst,,,,,,-1
+5,data analyst,,,,,,-1
+6,data analyst,,,,,,-1
+7,data analyst,,,,,,-1
+8,data analyst,,,,,,-1
+9,data analyst,,,,,,-1
+10,data analyst,,,,,,-1
+11,data analyst,,,,,,-1
+12,data analyst,,,,,,-1
+13,data analyst,,,,,,-1
+14,data analyst,,,,,,-1
+15,data analyst,,,,,,-1
+16,data architect,data architect,greenway health,"documentdb,hudi,glue,delta lake,business intelligence",full time,bengaluru,5
+17,data architect,data architect - mce,cgi,"airflow,data designing and testing techniques",full time,bengaluru,12
+18,data architect,,,,,,-1
+19,data architect,,,,,,-1
+20,data architect,,,,,,-1
+21,data architect,,,,,,-1
+22,data architect,,,,,,-1
+23,data architect,,,,,,-1
+24,data architect,,,,,,-1
+25,data architect,,,,,,-1
+26,data architect,,,,,,-1
+27,data architect,,,,,,-1
+28,data architect,,,,,,-1
+29,data architect,,,,,,-1
+30,data architect,,,,,,-1
+31,data scientist,data scientist i,uber,"data feeds,decision making,a/b testing,teamwork",full time,hyderabad,3
+32,data scientist,data scientist,statusneo technology consulting,"visualization,graph db,machine learning",full time,gurugram,1
+33,data scientist,,,,,,-1
+34,data scientist,,,,,,-1
+35,data scientist,,,,,,-1
+36,data scientist,,,,,,-1
+37,data scientist,,,,,,-1
+38,data scientist,,,,,,-1
+39,data scientist,,,,,,-1
+40,data scientist,,,,,,-1
+41,data scientist,,,,,,-1
+42,data scientist,,,,,,-1
+43,data scientist,,,,,,-1
+44,data scientist,,,,,,-1
+45,data scientist,,,,,,-1
+46,machine learning engineer,machine learning engineer,vitrana,"scikit-learn,tensorflow,machine learning",full time,bengaluru,3
+47,machine learning engineer,machine learning engineer,theecode,"r,scikit-learn,java,machine learning,python",full time,chennai,1
+48,machine learning engineer,,,,,,-1
+49,machine learning engineer,,,,,,-1
+50,machine learning engineer,,,,,,-1
+51,machine learning engineer,,,,,,-1
+52,machine learning engineer,,,,,,-1
+53,machine learning engineer,,,,,,-1
+54,machine learning engineer,,,,,,-1
+55,machine learning engineer,,,,,,-1
+56,machine learning engineer,,,,,,-1
+57,machine learning engineer,,,,,,-1
+58,machine learning engineer,,,,,,-1
+59,machine learning engineer,,,,,,-1
+60,machine learning engineer,,,,,,-1
