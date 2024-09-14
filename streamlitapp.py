@@ -112,12 +112,12 @@ class TrendsInDataJobs:
         return sentence
 
 
-    def batch_geocode(self, locations):
+    def batch_geocode(self, locations, timeout=5):
         """
         Batch geocoding to get coordinates for multiple locations.
         """
         geolocator = Photon(user_agent="MyApp")
-        geocoded_data = [geolocator.geocode(location) for location in locations]
+        geocoded_data = [geolocator.geocode(location, timeout=timeout) for location in locations]
         lst = [(data.latitude, data.longitude) if data else (-1, -1) for data in geocoded_data]
         return lst
 
