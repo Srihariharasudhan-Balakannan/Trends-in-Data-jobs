@@ -1,0 +1,61 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,manager - data engineer,publicis sapient,gcp cloud,full time,"gurugram,bengaluru",9
+2,data engineer,manager - data engineer,publicis sapient,,full time,bengaluru,10
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data architect,"data engineering manager - etl, azure , data architect",optum,"data vault 2.0,ci/cd,sql,shell scripts,azure synapse",full time,hyderabad,7
+17,data architect,opening for data architect,sri sai consultancy services,,full time,,10
+18,data architect,,,,,,-1
+19,data architect,,,,,,-1
+20,data architect,,,,,,-1
+21,data architect,,,,,,-1
+22,data architect,,,,,,-1
+23,data architect,,,,,,-1
+24,data architect,,,,,,-1
+25,data architect,,,,,,-1
+26,data architect,,,,,,-1
+27,data architect,,,,,,-1
+28,data architect,,,,,,-1
+29,data architect,,,,,,-1
+30,data architect,,,,,,-1
+31,data scientist,data scientist,ford motor company,"r,big data,sql,python,machine learning",full time,chennai,1
+32,data scientist,data scientist,avantor,,full time,pune,0
+33,data scientist,,,,,,-1
+34,data scientist,,,,,,-1
+35,data scientist,,,,,,-1
+36,data scientist,,,,,,-1
+37,data scientist,,,,,,-1
+38,data scientist,,,,,,-1
+39,data scientist,,,,,,-1
+40,data scientist,,,,,,-1
+41,data scientist,,,,,,-1
+42,data scientist,,,,,,-1
+43,data scientist,,,,,,-1
+44,data scientist,,,,,,-1
+45,data scientist,,,,,,-1
+46,machine learning engineer,senior machine learning engineer,quantiphi analytics solutions private limited,"secret manager,cloud run,vertex ai,alloydb",full time,mumbai,5
+47,machine learning engineer,machine learning engineer,aiseberg,,full time,bengaluru,4
+48,machine learning engineer,,,,,,-1
+49,machine learning engineer,,,,,,-1
+50,machine learning engineer,,,,,,-1
+51,machine learning engineer,,,,,,-1
+52,machine learning engineer,,,,,,-1
+53,machine learning engineer,,,,,,-1
+54,machine learning engineer,,,,,,-1
+55,machine learning engineer,,,,,,-1
+56,machine learning engineer,,,,,,-1
+57,machine learning engineer,,,,,,-1
+58,machine learning engineer,,,,,,-1
+59,machine learning engineer,,,,,,-1
+60,machine learning engineer,,,,,,-1
