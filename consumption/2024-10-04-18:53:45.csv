@@ -1,0 +1,76 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,data engineer - senior software engineer,one 97,"flink,hadoop,sql,java,hbase,storm",full time,bengaluru,4
+2,data engineer,data engineer,adobe,"ml/ai,amazon cloud technologies,map/reduce",full time,,6
+3,data engineer,data engineer,people prime worldwide private limited,"recruiting,iso-9002,pcr,linux",full time,bengaluru,4
+4,data engineer,data engineer,angel & genie,"fabric,databricks,apache kafka,data warehousing",full time,bengaluru,2
+5,data engineer,data engineer,adobe india,"reporting frameworks,data in storage,data in motion",full time,,6
+6,data engineer,data engineer ii,amazon music,"nosql databases,warehousing,etl pipelines",full time,,7
+7,data engineer,"data engineer, data engineering",cardinal health,"stakeholder management,sql,agile methodology",full time,bengaluru,6
+8,data engineer,data engineer,experian,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data analyst,data analyst specialist,atkins,"r,power bi,data mining,data modeling",full time,bengaluru,6
+17,data analyst,data analyst,infosys limited,"carbon,looker,hdfs,clickhouse,sql",full time,bengaluru,6
+18,data analyst,,,,,,-1
+19,data analyst,,,,,,-1
+20,data analyst,,,,,,-1
+21,data analyst,,,,,,-1
+22,data analyst,,,,,,-1
+23,data analyst,,,,,,-1
+24,data analyst,,,,,,-1
+25,data analyst,,,,,,-1
+26,data analyst,,,,,,-1
+27,data analyst,,,,,,-1
+28,data analyst,,,,,,-1
+29,data analyst,,,,,,-1
+30,data analyst,,,,,,-1
+31,data architect,gcp data architect,tata consultancy services ltd.,,full time,pune,0
+32,data architect,senior lead data architect,jp morgan chase & co.,"data modelling,etl,aws,nosql,data pipeline",full time,hyderabad,6
+33,data architect,,,,,,-1
+34,data architect,,,,,,-1
+35,data architect,,,,,,-1
+36,data architect,,,,,,-1
+37,data architect,,,,,,-1
+38,data architect,,,,,,-1
+39,data architect,,,,,,-1
+40,data architect,,,,,,-1
+41,data architect,,,,,,-1
+42,data architect,,,,,,-1
+43,data architect,,,,,,-1
+44,data architect,,,,,,-1
+45,data architect,,,,,,-1
+46,data scientist,machine learning engineer,bizacuity solutions private limited,"ai development,ai,machine learning,machine learning algorithms",full time,hyderabad,5
+47,data scientist,python machine learning engineer,infosys limited,"pipelines,azure architecture,pytest frameworks",full time,bengaluru,4
+48,data scientist,,,,,,-1
+49,data scientist,,,,,,-1
+50,data scientist,,,,,,-1
+51,data scientist,,,,,,-1
+52,data scientist,,,,,,-1
+53,data scientist,,,,,,-1
+54,data scientist,,,,,,-1
+55,data scientist,,,,,,-1
+56,data scientist,,,,,,-1
+57,data scientist,,,,,,-1
+58,data scientist,,,,,,-1
+59,data scientist,,,,,,-1
+60,data scientist,,,,,,-1
+61,machine learning engineer,product data scientist,paypal,"r,sql,excel,python,tableau",full time,,4
+62,machine learning engineer,senior data scientist,atkins,"r,rnns,transformers,cnns,tensorflow",full time,mumbai,11
+63,machine learning engineer,,,,,,-1
+64,machine learning engineer,,,,,,-1
+65,machine learning engineer,,,,,,-1
+66,machine learning engineer,,,,,,-1
+67,machine learning engineer,,,,,,-1
+68,machine learning engineer,,,,,,-1
+69,machine learning engineer,,,,,,-1
+70,machine learning engineer,,,,,,-1
+71,machine learning engineer,,,,,,-1
+72,machine learning engineer,,,,,,-1
+73,machine learning engineer,,,,,,-1
+74,machine learning engineer,,,,,,-1
+75,machine learning engineer,,,,,,-1
