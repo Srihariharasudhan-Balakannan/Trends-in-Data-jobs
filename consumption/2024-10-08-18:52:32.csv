@@ -1,0 +1,46 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,snowflake data engineer,capgemini,"snowflake,informatica,sql,python",full time,,8
+2,data engineer,adb data engineer,capgemini,"pyspark,adb,sql,python",full time,,8
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data scientist,sde iii - machine learning engineer,groupon,,full time,,0
+17,data scientist,machine learning engineer,cignex technologies private limited,"ml development,machine learning,numpy",full time,,6
+18,data scientist,,,,,,-1
+19,data scientist,,,,,,-1
+20,data scientist,,,,,,-1
+21,data scientist,,,,,,-1
+22,data scientist,,,,,,-1
+23,data scientist,,,,,,-1
+24,data scientist,,,,,,-1
+25,data scientist,,,,,,-1
+26,data scientist,,,,,,-1
+27,data scientist,,,,,,-1
+28,data scientist,,,,,,-1
+29,data scientist,,,,,,-1
+30,data scientist,,,,,,-1
+31,machine learning engineer,artificial intelligence engineer,anewa engineering pvt. ltd.,"r,java,python,tensorflow,pytorch",full time,,1
+32,machine learning engineer,artificial intelligence engineer,rashmi metaliks,"lean,project management,analytical,written communication",full time,,1
+33,machine learning engineer,,,,,,-1
+34,machine learning engineer,,,,,,-1
+35,machine learning engineer,,,,,,-1
+36,machine learning engineer,,,,,,-1
+37,machine learning engineer,,,,,,-1
+38,machine learning engineer,,,,,,-1
+39,machine learning engineer,,,,,,-1
+40,machine learning engineer,,,,,,-1
+41,machine learning engineer,,,,,,-1
+42,machine learning engineer,,,,,,-1
+43,machine learning engineer,,,,,,-1
+44,machine learning engineer,,,,,,-1
+45,machine learning engineer,,,,,,-1
