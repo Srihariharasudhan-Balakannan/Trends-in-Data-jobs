@@ -1,0 +1,61 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,data engineer,snowflake data engineer,capgemini,"snowflake,informatica,sql,python",full time,"chennai,bengaluru",8
+2,data engineer,adb data engineer,capgemini,"pyspark,adb,sql,python",full time,"hyderabad,bengaluru",8
+3,data engineer,,,,,,-1
+4,data engineer,,,,,,-1
+5,data engineer,,,,,,-1
+6,data engineer,,,,,,-1
+7,data engineer,,,,,,-1
+8,data engineer,,,,,,-1
+9,data engineer,,,,,,-1
+10,data engineer,,,,,,-1
+11,data engineer,,,,,,-1
+12,data engineer,,,,,,-1
+13,data engineer,,,,,,-1
+14,data engineer,,,,,,-1
+15,data engineer,,,,,,-1
+16,data architect,data architect,orion innovation,"azure service for data analytics,collaboration",full time,chennai,1
+17,data architect,data architect,gedu services,,full time,,0
+18,data architect,,,,,,-1
+19,data architect,,,,,,-1
+20,data architect,,,,,,-1
+21,data architect,,,,,,-1
+22,data architect,,,,,,-1
+23,data architect,,,,,,-1
+24,data architect,,,,,,-1
+25,data architect,,,,,,-1
+26,data architect,,,,,,-1
+27,data architect,,,,,,-1
+28,data architect,,,,,,-1
+29,data architect,,,,,,-1
+30,data architect,,,,,,-1
+31,data scientist,machine learning engineer,"i, saras",,full time,chennai,0
+32,data scientist,machine learning engineer - remote - only iit/nit's,promptcloud,"transformer,regression algorithms,text summarization",full time,bengaluru,2
+33,data scientist,,,,,,-1
+34,data scientist,,,,,,-1
+35,data scientist,,,,,,-1
+36,data scientist,,,,,,-1
+37,data scientist,,,,,,-1
+38,data scientist,,,,,,-1
+39,data scientist,,,,,,-1
+40,data scientist,,,,,,-1
+41,data scientist,,,,,,-1
+42,data scientist,,,,,,-1
+43,data scientist,,,,,,-1
+44,data scientist,,,,,,-1
+45,data scientist,,,,,,-1
+46,machine learning engineer,artificial intelligence engineer,anewa engineering pvt. ltd.,"r,java,python,tensorflow,pytorch",full time,hyderabad,1
+47,machine learning engineer,artificial intelligence engineer,rashmi metaliks,"lean,project management,analytical,written communication",full time,kharagpur,1
+48,machine learning engineer,,,,,,-1
+49,machine learning engineer,,,,,,-1
+50,machine learning engineer,,,,,,-1
+51,machine learning engineer,,,,,,-1
+52,machine learning engineer,,,,,,-1
+53,machine learning engineer,,,,,,-1
+54,machine learning engineer,,,,,,-1
+55,machine learning engineer,,,,,,-1
+56,machine learning engineer,,,,,,-1
+57,machine learning engineer,,,,,,-1
+58,machine learning engineer,,,,,,-1
+59,machine learning engineer,,,,,,-1
+60,machine learning engineer,,,,,,-1
