@@ -1,0 +1,76 @@
+key,job_role,job_title,company_name,skills,job_type,location,experience
+1,Data Engineer,Data Engineer - Azure Databricks,Capgemini Technology Services India Limited,Azure Databricks,Full time,"Delhi, Noida",5-13 Years
+2,Data Engineer,AWS Data Engineer,Capgemini,"DataLake,Lambda,Data Warehouse,Redshift","Jobs for Women, Full time","Hyderabad / Secunderabad, Telangana, Pune",4-9 Years
+3,Data Engineer,Snowflake Data Engineer,Capgemini,"snowflake,Informatica,Sql,Python","Jobs for Women, Full time","Bengaluru / Bangalore, Chennai",4-12 Years
+4,Data Engineer,GCP Data Engineer,Capgemini Technology Services India Limited,"GCP DE,Terraform,BigQuery,DataFlow",Full time,"Hyderabad / Secunderabad, Telangana, Pune",4-12 Years
+5,Data Engineer,Manager - Data Engineer,Publicis Sapient,"Big Data Architecture,Azure Cloud,Data Engineer",Full time,Bengaluru / Bangalore,8-12 Years
+6,Data Engineer,AWS Data Engineer,Birlasoft Limited,"glue,Pyspark,Kafka,Emr,Aws",Full time,"Bengaluru / Bangalore, Pune",8-13 Years
+7,Data Engineer,Snowflake Data Engineer,Capgemini Technology Services India Limited,"snowflake,dbt,Informatica,Sql,Python",Full time,"Chennai, Mumbai",4-12 Years
+8,Data Engineer,Manager - Data Engineer,,,,,
+9,Data Engineer,,,,,,
+10,Data Engineer,,,,,,
+11,Data Engineer,,,,,,
+12,Data Engineer,,,,,,
+13,Data Engineer,,,,,,
+14,Data Engineer,,,,,,
+15,Data Engineer,,,,,,
+16,Data Analyst,Senior Data Analyst/Data Scientist IRC243461,GlobalLogic A Hitachi Group Company,"AWS ML STACK Sage Maker,Data Analyst,Python",Full time,India,Fresher
+17,Data Analyst,Data Analyst,Birlasoft Limited,,Full time,"Gurgaon / Gurugram, Delhi",4-6 Years
+18,Data Analyst,,,,,,
+19,Data Analyst,,,,,,
+20,Data Analyst,,,,,,
+21,Data Analyst,,,,,,
+22,Data Analyst,,,,,,
+23,Data Analyst,,,,,,
+24,Data Analyst,,,,,,
+25,Data Analyst,,,,,,
+26,Data Analyst,,,,,,
+27,Data Analyst,,,,,,
+28,Data Analyst,,,,,,
+29,Data Analyst,,,,,,
+30,Data Analyst,,,,,,
+31,Data Architect,Data Architect - Payroll (HCM),RGP,,Full time,"Bengaluru / Bangalore, India",Fresher
+32,Data Architect,SQL Server Data Architect,Birlasoft Limited,"Etl Tools,Data Architect",Full time,Bengaluru / Bangalore,10-15 Years
+33,Data Architect,,,,,,
+34,Data Architect,,,,,,
+35,Data Architect,,,,,,
+36,Data Architect,,,,,,
+37,Data Architect,,,,,,
+38,Data Architect,,,,,,
+39,Data Architect,,,,,,
+40,Data Architect,,,,,,
+41,Data Architect,,,,,,
+42,Data Architect,,,,,,
+43,Data Architect,,,,,,
+44,Data Architect,,,,,,
+45,Data Architect,,,,,,
+46,Data Scientist,Senior Machine Learning Engineer,AiDash,"Azure,Distributed Computing,Machine Learning",Full time,"Bengaluru / Bangalore, India",6-8 Years
+47,Data Scientist,Machine Learning Engineer,Birlasoft Limited,"LLMS,Machine Learning,Sql",Full time,Bengaluru / Bangalore,5-8 Years
+48,Data Scientist,,,,,,
+49,Data Scientist,,,,,,
+50,Data Scientist,,,,,,
+51,Data Scientist,,,,,,
+52,Data Scientist,,,,,,
+53,Data Scientist,,,,,,
+54,Data Scientist,,,,,,
+55,Data Scientist,,,,,,
+56,Data Scientist,,,,,,
+57,Data Scientist,,,,,,
+58,Data Scientist,,,,,,
+59,Data Scientist,,,,,,
+60,Data Scientist,,,,,,
+61,Machine Learning Engineer,Data Scientist Associate - Artificial Intelligence Engineer,JP Morgan Chase & Co.,"feature engineering,machine learning workflows",Full time,Bengaluru / Bangalore,3-5 Years
+62,Machine Learning Engineer,Artificial Intelligence Engineer,Frost & Sullivan,,Full time,"Chennai, India",2-3 Years
+63,Machine Learning Engineer,,,,,,
+64,Machine Learning Engineer,,,,,,
+65,Machine Learning Engineer,,,,,,
+66,Machine Learning Engineer,,,,,,
+67,Machine Learning Engineer,,,,,,
+68,Machine Learning Engineer,,,,,,
+69,Machine Learning Engineer,,,,,,
+70,Machine Learning Engineer,,,,,,
+71,Machine Learning Engineer,,,,,,
+72,Machine Learning Engineer,,,,,,
+73,Machine Learning Engineer,,,,,,
+74,Machine Learning Engineer,,,,,,
+75,Machine Learning Engineer,,,,,,
