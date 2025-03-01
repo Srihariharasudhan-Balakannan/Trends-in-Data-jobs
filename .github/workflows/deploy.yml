@@ -31,10 +31,6 @@ jobs:
         pip install --prefer-binary Pillow
         pip install -r requirements.txt
 
-        
-    - name: Install Pillow
-      run: pip install Pillow==9.5.0
-
 
     - name: Run Streamlit App
       run: |
