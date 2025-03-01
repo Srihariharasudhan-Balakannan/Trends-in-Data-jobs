@@ -3,6 +3,6 @@ geopy==2.3.0
 plotly==5.15.0
 pytz==2023.3
 PyGithub==2.2.0
-Pillow==9.5.0 --no-binary :all:
+Pillow==9.4.0
 
 
