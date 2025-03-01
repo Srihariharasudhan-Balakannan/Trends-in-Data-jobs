@@ -3,25 +3,29 @@ name: Deploy Streamlit App
 on:
   push:
     branches:
-      - master  # Change this to your branch name if different
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12' # or your preferred version
+    - name: Install System Dependencies
+      run: sudo apt-get update && sudo apt-get install -y libjpeg-dev zlib1g-dev
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
 
-      - name: Restart Streamlit app
-        run: |
-          pkill -f streamlitapp.py || true  # Kill any previous instance (if running)
-          nohup streamlit run streamlitapp.py &  # Restart the app in the background
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run Streamlit App
+      run: |
+        pkill -f streamlitapp.py || true
+        streamlit run streamlitapp.py
+
