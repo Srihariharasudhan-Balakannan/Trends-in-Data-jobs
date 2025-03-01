@@ -14,7 +14,9 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Install System Dependencies
-      run: sudo apt-get update && sudo apt-get install -y libjpeg-dev zlib1g-dev
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libjpeg-dev zlib1g-dev libpng-dev libfreetype6-dev
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -22,11 +24,11 @@ jobs:
         python-version: "3.12"
 
     - name: Install Dependencies
-      run: pip install -r requirements.txt
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Run Streamlit App
       run: |
         pkill -f streamlitapp.py || true
         streamlit run streamlitapp.py
-      
-
