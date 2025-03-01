@@ -19,6 +19,7 @@ jobs:
         sudo apt-get install -y libjpeg-dev zlib1g-dev libpng-dev libfreetype6-dev
 
 
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -27,7 +28,7 @@ jobs:
     - name: Install Dependencies
       run: |
         pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install --prefer-binary -r requirements.txt
 
     - name: Run Streamlit App
       run: |
