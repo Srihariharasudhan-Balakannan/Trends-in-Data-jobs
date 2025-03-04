@@ -29,5 +29,5 @@ jobs:
 
       - name: Restart Streamlit app
         run: |
-          pkill -f streamlitapp.py || true  # Kill any previous instance (if running)
-          nohup streamlit run Streamlit/Streamlit.py &  # Restart the app in the background
+          pkill -f main.py || true  # Kill any previous instance (if running)
+          nohup streamlit run main.py &  # Restart the app in the background
