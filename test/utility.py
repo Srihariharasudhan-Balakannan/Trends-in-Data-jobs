@@ -7,12 +7,24 @@ import urllib.parse # For unescaping URL-encoded characters
 
 def clean_text_for_csv(text: str) -> str:
     if not isinstance(text, str):
-        return text 
+        return text
     cleaned_text = urllib.parse.unquote(text)
     cleaned_text = html.unescape(cleaned_text)
-    cleaned_text = re.sub(r'\s*\n\s*', '\n', cleaned_text).strip()
+    cleaned_text = cleaned_text.replace('\\', '\\\\') 
+    cleaned_text = cleaned_text.replace('\n', '\\n')
+    cleaned_text = cleaned_text.replace('\t', '\\t') 
+    cleaned_text = cleaned_text.replace('\r', '\\r') 
     cleaned_text = cleaned_text.strip()
     return cleaned_text
+
+# def clean_text_for_csv(text: str) -> str:
+#     if not isinstance(text, str):
+#         return text 
+#     cleaned_text = urllib.parse.unquote(text)
+#     cleaned_text = html.unescape(cleaned_text)
+#     cleaned_text = re.sub(r'\s*\n\s*', '\n', cleaned_text).strip()
+#     cleaned_text = cleaned_text.strip()
+#     return cleaned_text
 
 def convert_json_file_to_csv(input_json_filepath: str, output_csv_filepath: str, encoding: str = 'utf-8'):
     try:
@@ -60,11 +72,16 @@ if __name__ == "__main__":
         "Data Analyst",
         "Data Architect",
         "Data Scientist",
-        "Machine Learning Engineer"
+        "Machine Learning Engineer",
+        "output"
     ]
     for role in job_roles:
-        input_json_file = f"{role.replace(' ','_').lower()}_output.json"
-        output_csv_file = f"{role.replace(' ','_').lower()}_output.csv"
+        if role == 'output':
+            input_json_file = f"{role}.json"
+            output_csv_file = f"{role}.csv"
+        else: 
+            input_json_file = f"{role.replace(' ','_').lower()}_output.json"
+            output_csv_file = f"{role.replace(' ','_').lower()}_output.csv"
         print("\n--- Running Conversion ---")
         convert_json_file_to_csv(input_json_file, output_csv_file)
         if os.path.exists(output_csv_file):
