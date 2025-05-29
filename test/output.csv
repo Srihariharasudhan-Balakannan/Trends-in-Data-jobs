@@ -1,0 +1,182 @@
+job_title,company_name,experience,location,industry,job_description,skills
+Asst./Dy Manager - Data engineer,Ajanta Pharma,5-7 Years,Mumbai,"Manufacturing, Pharmaceutical","Ajanta Pharma is looking for Asst./Dy Manager - Data engineer to join our dynamic team and embark on a rewarding career journey
+Liaising with coworkers and clients to elucidate the requirements for each task
+Conceptualizing and generating infrastructure that allows big data to be accessed and analyzed
+Reformulating existing frameworks to optimize their functioning
+Testing such structures to ensure that they are fit for use
+Preparing raw data for manipulation by data scientists
+Detecting and correcting errors in your work
+Ensuring that your work remains backed up and readily accessible to relevant coworkers
+Remaining up-to-date with industry standards and technological advancements that will improve the quality of your outputs","NoSQL Databases, Cloud Computing, Etl Tools, Data Modeling, Data Warehousing, Sql, Python"
+Consultant - Sr.Data Engineer (DBT+Snowflake),Genpact,Fresher,Bengaluru,IT/Computers - Hardware & Networking,"Ready to shape the future of work
+At Genpact, we don&rsquot just adapt to change&mdashwe drive it. AI and digital innovation are redefining industries, and we&rsquore leading the charge. Genpact&rsquos , our industry-first accelerator, is an example of how we&rsquore scaling advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. From large-scale models to , our breakthrough solutions tackle companies most complex challenges.
+If you thrive in a fast-moving, tech-driven environment, love solving real-world problems, and want to be part of a team that&rsquos shaping the future, this is your moment.
+Genpact (NYSE: G) is anadvanced technology services and solutions company that deliverslastingvalue for leading enterprisesglobally.Through ourdeep business knowledge, operational excellence, and cutting-edge solutions - we help companies across industries get ahead and stay ahead.Powered by curiosity, courage, and innovation,our teamsimplementdata, technology, and AItocreate tomorrow, today.Get to know us atand on,,, and.
+Inviting applications for the role ofConsultant -Sr.Data Engineer (DBT+Snowflake)
+!
+In this role, the Sr.Data Engineer is responsible for providing technical direction and lead a group of one or more developer to address a goal.
+Job Description:
+Develop, implement, and optimize data pipelines using Snowflake, with a focus on Cortex AI capabilities.
+Extract, transform, and load (ETL) data from various sources into Snowflake, ensuring data integrity and accuracy.
+Implement Conversational AI solutions using Snowflake Cortex AI to facilitate data interaction through ChatBot agents.
+Collaborate with data scientists and AI developers to integrate predictive analytics and AI models into data workflows.
+Monitor and troubleshoot data pipelines to resolve data discrepancies and optimize performance.
+Utilize Snowflake's advanced features, including Snowpark, Streams, and Tasks, to enable data processing and analysis.
+Develop and maintain data documentation, best practices, and data governance protocols.
+Ensure data security, privacy, and compliance with organizational and regulatory guidelines.
+Responsibilities:
+. Bachelor&rsquos degree in Computer Science, Data Engineering, or a related field.
+. experience in data engineering, with experience working with Snowflake.
+. Proven experience in Snowflake Cortex AI, focusing on data extraction, chatbot development, and Conversational AI.
+. Strongproficiency in SQL, Python, and data modeling.
+. Experience with data integration tools (e.g., Matillion, Talend, Informatica).
+. Knowledge of cloud platforms such as AWS, Azure, or GCP.
+. Excellent problem-solving skills, with a focus on data quality and performance optimization.
+. Strong communication skills and the ability to work effectively in a cross-functional team.
+Proficiency in using DBT's testing and documentation features to ensure the accuracy and reliability of data transformations.
+Understanding of data lineage and metadata management concepts, and ability to track and document data transformations using DBT's lineage capabilities.
+Understanding of software engineering best practices and ability to apply these principles to DBT development, including version control, code reviews, and automated testing.
+Should have experience building data ingestion pipeline.
+Should have experience with Snowflake utilities such as SnowSQL, SnowPipe, bulk copy, Snowpark, tables, Tasks, Streams, Time travel, Cloning, Optimizer, Metadata Manager, data sharing, stored procedures and UDFs, Snowsight.
+Should have good experience in implementing CDC or SCD type 2
+Proficiency in working with Airflow or other workflow management tools for scheduling and managing ETL jobs.
+Good to have experience in repository tools like Github/Gitlab, Azure repo
+Qualifications/Minimum qualifications
+B.E./ Masters in Computer Science, Information technology, or Computer engineering or any equivalent degree with good IT experience and relevant of working experience as a Sr. Data Engineer with DBT+Snowflake skillsets
+Skill Matrix:
+DBT (Core or Cloud), Snowflake, AWS/Azure, SQL, ETL concepts, Airflow or any orchestration tools, Data Warehousing concepts
+Why join Genpact
+Be a transformation leader - Work at the cutting edge of AI, automation, and digital innovation
+Make an impact - Drive change for global enterprises and solve business challenges that matter
+Accelerate your career - Get hands-on experience, mentorship, and continuous learning opportunities
+Work with the best - Join 140,000+ bold thinkers and problem-solvers who push boundaries every day
+Thrive in a values-driven culture - Our courage, curiosity, and incisiveness - built on a foundation of integrity and inclusion - allow your ideas to fuel progress
+Come join the tech shapers and growth makers at Genpact and take your career in the only direction that matters: Up.
+Let&rsquos build tomorrow together.
+Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values respect and integrity, customer focus, and innovation.
+Furthermore, please do note that Genpact does not charge fees to process job applications and applicants are not required to pay to participate in our hiring process in any other way. Examples of such scams include purchasing a 'starter kit,' paying to apply, or purchasing equipment or training.",
+Data Engineer,Nimiety Careers,"8-12 Years
+INR 0.5 - 48.5 LPA","Bengaluru, Chennai, Pune",Login to check your skill match score,"Position :Data Engineer
+Type:FTE/Lateral
+Location:Hyderabad(Ind), Bangalore, Pune, Chennai, Ahmedabad, Noida (Encora)
+Experience:08-12Yrs.
+SKILLS
+Big DataSnowflakeData bricksPysparkSqlAWSPysparkt
+Provide the organization's data consumers high quality data sets by data curation, consolidation, and manipulation from a wide variety of large scale (terabyte and growing) sources.
+Build first-class data products and ETL processes that interact with terabytes of data on leading platforms such as Snowflake and BigQuery.
+Partner with our Analytics, Product, CRM, and Marketing teams.
+Be responsible for the data pipelines SLA and dependency management.
+Write technical documentation for data solutions, and present at design reviews.
+Solve data pipeline failure events and implement anomaly detection.
+Work with various teams from Data Science, Product owners, to Marketing and software engineers on data solutions and solving technical challenges.
+Mentor junior members of the team
+What We Seek
+Education and Work Experience
+Bachelor's degree in Computer Science or related field
+8+ Years experience in commercial data engineering or software development.
+Tech Experience
+Experience with Big Data technologies such as Snowflake, Databricks, PySpark
+Expert level skills in writing and optimizing complex SQL; advanced data exploration skills with proven record of querying and analyzing large datasets.
+Solid experience developing complex ETL processes from concept to implementation to deployment and operations, including SLA definition, performance measurements and monitoring.
+Hands-on knowledge of the modern AWS Data Ecosystem, including AWS S3
+Experience with relational databases such as Postgres, and with programming languages such as Python and/or Java
+Knowledge of cloud data warehouse concepts.
+Experience in building and operating data pipelines and products in compliance with the data mesh philosophy would be beneficial. Demonstrated efficiency in treating data, including data lineage, data quality, data observability and data discoverability.
+Communication/people skills
+Excellent verbal and written communication skills. Ability to convey key insights from complex analyses in summarized business terms to non-technical stakeholders and also ability to effectively communicate with other technical teams.
+Strong interpersonal skills and the ability to work in a fast-paced and dynamic environment.
+Ability to make progress on projects independently and enthusiasm for solving difficult problem","snowflake, Big Data, Data Engineer"
+Senior Data Engineer,Adidas,7-12 Years,Gurugram,Sporting Goods,"Data Lakehouse & Data Product Engineer
+Purpose & Overall Relevance for the Organization:
+Be part of a team building a state-of-the-art data lakehouse and create data products which are ingested from heterogeneous source systems.
+Opportunity to work in leading-edge technology like Databricks.
+Collaborate with multiple stakeholders to drive the data roadmap by translating stories into data pipelines.
+Learn and build knowledge around data domains and business processes.
+Set the mindset to lifeblood for adidas data-driven strategy by enabling the data backbone, powering AI and BI solutions that produce unseen insights for the entire company.
+What You Bring:
+Expert in SAP data models:
+Expert in SAP ECC and SAP S4HANA data models and processes. SAP process knowledge in sales and distribution (SD) is preferred.
+SAP BW Development Experience:
+Strong background in SAP BW Development, with knowledge of SAP ECC and S4HANA versions and their integration with data warehouse solutions.
+Exposure to Spark Architecture:
+Familiarity with Spark, PySpark, and Python is key, especially the willingness to learn and create well-documented, maintainable, and production-ready solutions.
+Strong ETL Build Knowledge:
+Knowledge of Slowly Changing Dimension (SCD) and heterogeneous data harmonization methods.
+Experienced with SQL:
+Foundation in writing and interpreting SQL queries is essential, with the expectation to handle more complex queries.
+Familiarity with Data Tools:
+Familiar with tools such as Databricks and AWS, and have knowledge of different storage formats like Delta, Parquet, Avro, etc.
+Excellent Analytical and Team Leadership Skills:
+Convince with excellent analytical skills, ability to work in a team, as well as lead a team of engineers.
+Requisite Education and Experience / Minimum Qualifications:
+Four-year college or university degree with focus on Business Administration or IT or related areas, or equivalent combination of education and experience.
+Proficient spoken and written command of English.
+At least 7 years of experience in IT.
+5 years of experience in relevant area.
+2 years of experience in team management.
+COURAGE: Speak up when you see an opportunity; step up when you see a need.
+OWNERSHIP: Pick up the ball. Be proactive, take responsibility and follow-through.
+INNOVATION: Elevate to win. Be curious, test and learn new and better ways of doing things.
+TEAMPLAY: Win together. Work collaboratively and cultivate a shared mindset.
+INTEGRITY: Play by the rules. Hold yourself and others accountable to our company's standards.
+RESPECT: Value all players. Display empathy, be inclusive and show dignity to all.","SAP BW Development, SAP S4HANA, Pyspark, Spark, Sql, Sap Ecc"
+Data Engineer,Vichara Technologies,6-12 Years,"Delhi, Delhi NCR",Consulting,"Key deliverables:
+Enhance and maintain the MDM platform
+Monitor and optimize system performance
+Troubleshoot and resolve technical issues
+Support production incident resolution
+Role responsibilities:
+Develop and refactor Python and SQL code
+Integrate REST APIs within MDM workflows
+Utilize Azure Databricks and ADF for ETL tasks
+Work on Markit EDM or Semarchy-based solutions","Rest Api, Adf, Azure Databricks, Python, Sql"
+Data Engineer 3,Vichara Technologies,7-12 Years,Pune,Consulting,"Key deliverables:
+Enhance and maintain the MDM platform to support business needs
+Develop data pipelines using Snowflake, Python, SQL, and orchestration tools like Airflow
+Monitor and improve system performance and troubleshoot data pipeline issues
+Resolve production issues and ensure platform reliability
+Role responsibilities:
+Collaborate with data engineering and analytics teams for scalable solutions
+Apply DevOps practices to streamline deployment and automation
+Integrate cloud-native tools and services (AWS, Azure) with the data platform
+Utilize dbt and version control (Git) for data transformation and management","Airflow, snowflake, dbt, Python, Sql, AWS"
+Data Engineer,Vichara Technologies,6-12 Years,Hyderabad,Consulting,"Key deliverables:
+Enhance and maintain the MDM platform
+Monitor and optimize system performance
+Troubleshoot and resolve technical issues
+Support production incident resolution
+Role responsibilities:
+Develop and refactor Python and SQL code
+Integrate REST APIs within MDM workflows
+Utilize Azure Databricks and ADF for ETL tasks
+Work on Markit EDM or Semarchy-based solutions","Rest Api, Adf, Azure Databricks, Python, Sql"
+Data Engineer 3,Vichara Technologies,7-12 Years,"Delhi, Delhi NCR",Consulting,"Key deliverables:
+Enhance and maintain the MDM platform to support business needs
+Develop data pipelines using Snowflake, Python, SQL, and orchestration tools like Airflow
+Monitor and improve system performance and troubleshoot data pipeline issues
+Resolve production issues and ensure platform reliability
+Role responsibilities:
+Collaborate with data engineering and analytics teams for scalable solutions
+Apply DevOps practices to streamline deployment and automation
+Integrate cloud-native tools and services (AWS, Azure) with the data platform
+Utilize dbt and version control (Git) for data transformation and management","Airflow, snowflake, dbt, Python, Sql, AWS"
+Data Engineer 3,Vichara Technologies,7-12 Years,Bengaluru,Consulting,"Key deliverables:
+Enhance and maintain the MDM platform to support business needs
+Develop data pipelines using Snowflake, Python, SQL, and orchestration tools like Airflow
+Monitor and improve system performance and troubleshoot data pipeline issues
+Resolve production issues and ensure platform reliability
+Role responsibilities:
+Collaborate with data engineering and analytics teams for scalable solutions
+Apply DevOps practices to streamline deployment and automation
+Integrate cloud-native tools and services (AWS, Azure) with the data platform
+Utilize dbt and version control (Git) for data transformation and management","Airflow, snowflake, dbt, Python, Sql, AWS"
+Big Data Engineer - Xebia,Foray Software Private Limited,3-7 Years,Hyderabad,Consulting,"Role Responsibilities:
+Build scalable data pipelines and applications from scratch on AWS
+Design and manage data ingestion processes and workflows
+Collaborate with functional and data science teams to deliver data solutions
+Optimize data storage and organization using HDFS, S3, and Delta Lake
+Job Requirements:
+Strong programming experience in Python or Java
+Hands-on experience with AWS services and deployment
+Proficiency in HDFS, S3, SQL, and data ingestion tools
+Exposure to Delta Lake or Databricks is an added advantage","HDFS, Data Lake, Python, Sql, AWS"
